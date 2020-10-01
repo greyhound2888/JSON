@@ -176,7 +176,13 @@
     }
   ],
   "widgets": [
-   {
+    {
+      "title": "Nae KWGT is on sale right now!!",
+      "description": "It has total of 60 widgets and 55 handcrafted walls to choose from.",
+      "url": "https://twitter.com/colorwallies/status/1309338485933867009?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_12.jpg"
+    },
+    {
       "title": "New update for TapOn Kwgt is live now!",
       "description": "Added 7 new widgets, check it now!",
       "url": "hhttps://twitter.com/LOKESHCHAUHAN78/status/1311162955761770497?s=20",
