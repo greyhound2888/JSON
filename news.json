@@ -182,6 +182,13 @@
     }
   ],
   "widgets": [
+    
+    {
+      "title": "Something new coming up soon!",
+      "description": "Spread the word!! #BurnKWGT",
+      "url": "https://twitter.com/Phones_Planes/status/1311589636565798913?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_14.jfif"
+    },
     {
       "title": "Mizu kwgt is now 25% off",
       "description": "Mizu kwgt reduced the pricing. Go grab it before sale ends.",
