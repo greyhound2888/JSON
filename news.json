@@ -213,8 +213,14 @@
   ],
   "widgets": [
     {
+      "title": "New Update for Lucent KWGT! ",
+      "description": "2 New Awesome Widgets Added (127 Total Widgets Now)",
+      "url": "https://twitter.com/starkdesigns18/status/1310202425811193857?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_17.jfif"
+    },
+    {
       "title": "iOS Widgets recently got updated",
-      "description": "In this update Twitter & Instagram widgets are added inspired from MKBHD latest homescreen setup video.",
+      "description": "In this update Twitter & Instagram widgets are Added inspired from MKBHD latest homescreen setup video.",
       "url": "https://twitter.com/homescreenfiy/status/1309866958909775874?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_16.jfif"
     },
