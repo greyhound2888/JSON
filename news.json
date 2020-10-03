@@ -21,6 +21,12 @@
   ],
   "news": [
    {
+      "title": "[Sale] One4KWGT Reloaded is on sale, Check it now!",
+      "description": "Its 50% off now depending on country!",
+      "url": "https://twitter.com/One4Studio/status/1312362328952799232?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/Kwgt_27.jpg"
+    },
+   {
       "title": "[Giveaway] iOS widgets for KWGT",
       "description": "200 Promocodes giveaway, 100 on twitter & 100 on Instagram",
       "url": "https://twitter.com/homescreenfiy/status/1312283296647217152?s=19",
@@ -272,6 +278,12 @@
     }
   ],
   "widgets": [
+   {
+      "title": "[Sale] One4KWGT Reloaded is on sale, Check it now!",
+      "description": "Its 50% off now depending on country!",
+      "url": "https://twitter.com/One4Studio/status/1312362328952799232?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/Kwgt_27.jpg"
+    },
    {
       "title": "Radish KWGT has been updated to V2.0!",
       "description": "Added 15 new widgets,total count 90 now, check it out now!",
