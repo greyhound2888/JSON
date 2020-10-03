@@ -20,6 +20,12 @@
     }
   ],
   "news": [
+   {
+      "title": "[Giveaway] iOS widgets for KWGT",
+      "description": "200 Promocodes giveaway, 100 on twitter & 100 on Instagram",
+      "url": "https://twitter.com/homescreenfiy/status/1312283296647217152?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_25.jpg"
+    },
     {
       "title": "MySceenie 'Screen Of The Day' contest is here!!",
       "description": "Get a chance to win 'Unusual Wallpapers' promo code b/w Oct. 3 to 17",
@@ -266,6 +272,12 @@
     }
   ],
   "widgets": [
+  {
+      "title": "[Giveaway] iOS widgets for KWGT",
+      "description": "200 Promocodes giveaway, 100 on twitter & 100 on Instagram",
+      "url": "https://twitter.com/homescreenfiy/status/1312283296647217152?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_25.jpg"
+    },
    {
       "title": "Pineapple KWGT V4.0 is live now!",
       "description": "New widgets are added for this week, check it out now!",
