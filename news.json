@@ -21,6 +21,12 @@
   ],
   "news": [
    {
+      "title": "[GIVEAWAY] Radish KWGT's Giveaway is going on check it now!",
+      "description": "Click here to know more!",
+      "url": "https://twitter.com/jacksonhayes701/status/1312386174804135937?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_28.jpg"
+    },
+   {
       "title": "[Sale] One4KWGT Reloaded is on sale, Check it now!",
       "description": "Its 50% off now depending on country!",
       "url": "https://twitter.com/One4Studio/status/1312362328952799232?s=19",
@@ -308,9 +314,15 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Aleria KWGT Updated to V1.3!",
+      "description": "5 New widgets are added, check it out now!",
+      "url": "https://twitter.com/FeitenVinicius/status/1312470048510865409?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_29.jpg"
+    },
      {
       "title": "[GIVEAWAY] Radish KWGT's Giveaway is going on check it now!",
-      "description": "Click here to know more, check it out now!",
+      "description": "Click here to know more!!",
       "url": "https://twitter.com/jacksonhayes701/status/1312386174804135937?s=19",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_28.jpg"
     },
