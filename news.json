@@ -485,6 +485,12 @@
   ],
   "klwp": [
     {
+      "title": "CW KLWP by Nayelle",
+      "description": "",
+      "url": "https://twitter.com/colorwallies/status/1312276956122030080?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_03.jfif"
+    }
+    {
       "title": "Xenia preset is comming soon in One4KLWP Ultimate",
       "description": "This new preset using unreleased Selene icons and has light and dark theme switching support",
       "url": "https://twitter.com/One4Studio/status/1312000293593395203?s=20",
@@ -496,5 +502,6 @@
       "url": "https://twitter.com/imundefyned/status/1310896372434886657?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_01.jfif"
     }
+    
   ]
 }
