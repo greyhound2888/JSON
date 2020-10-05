@@ -20,10 +20,10 @@
     }
   ],
   "news": [
-     {
-      "title":"[UPDATE + SALE] CHIC Icon Pack Updated and is on sale",
+    {
+      "title": "[UPDATE + SALE] CHIC Icon Pack Updated and is on sale",
       "description": "Last day of the sale, Go check it now!",
-      "url":"https://twitter.com/lkn9x/status/1312652867870896129?s=20",
+      "url": "https://twitter.com/lkn9x/status/1312652867870896129?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_14.jpg"
     },
     {
@@ -82,6 +82,12 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New update in Wallrod",
+      "description": "Two new varient of Beach View Added",
+      "url": "https://twitter.com/MathyWallrod/status/1312899912296734723?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_29.jfif"
+    },
     {
       "title": "Today's Update for Wallsy!",
       "description": "2 New Wallpapers Added",
@@ -253,18 +259,30 @@
   ],
   "icons": [
     {
-      "title":"[UPDATE + SALE] CHIC Icon Pack Updated and is on sale",
+      "title": "Sliced Icon Pack V1.6.6 is live",
+      "description": "20 new icons added in this update & it has now total of 1820 icons",
+      "url": "https://twitter.com/RahulKDinesh/status/1312808911917907969?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_16.jfif"
+    },
+    {
+      "title": "Baccara Adaptive Icon Pack updated",
+      "description": "20 new icons in this update",
+      "url": "https://twitter.com/design_duke/status/1312764524961755139?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_15.jfif"
+    },
+    {
+      "title": "[UPDATE + SALE] CHIC Icon Pack Updated and is on sale",
       "description": "Last day of the sale, Go check it now!",
-      "url":"https://twitter.com/lkn9x/status/1312652867870896129?s=20",
+      "url": "https://twitter.com/lkn9x/status/1312652867870896129?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_14.jpg"
     },
     {
-      "title":"Sonnambulla Icons Gets A New Update",
+      "title": "Sonnambulla Icons Gets A New Update",
       "description": "New 100+ icons has been updated",
-      "url":"https://twitter.com/panoto_gomo/status/1312453548634902533?s=20",
+      "url": "https://twitter.com/panoto_gomo/status/1312453548634902533?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_13.jpg"
     },
-    
+
     {
       "title": "Weekly Update of Nebula Icon Pack is LIVE on Playstore (Giveaway)!",
       "description": "37 New Icons Have been Added (1125 Total Icons Now).",
@@ -345,6 +363,12 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Inspire KWGT has got a new update",
+      "description": "The pack has now over 180+ widgets to choose from.",
+      "url": "https://twitter.com/ppickCH/status/1312808475374821381?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_31.jpg"
+    },
     {
       "title": "New Update for KWGT (V-3.49)!",
       "description": "Check it out out!!!",
