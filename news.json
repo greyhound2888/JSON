@@ -83,6 +83,12 @@
   ],
   "wallpapers": [
     {
+      "title": "New Walls Added in WhalePapers Pro",
+      "description": "Three Refreshing walls in Illustration category",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_30.jpg"
+    },
+    {
       "title": "New update in Wallrod",
       "description": "Two new varient of Beach View Added",
       "url": "https://twitter.com/MathyWallrod/status/1312899912296734723?s=20",
@@ -365,7 +371,7 @@
   "widgets": [
     {
       "title": "Inspire KWGT has got a new update",
-      "description": "The pack has now over 180+ widgets to choose from.",
+      "description": "The pack has now over 180+ widgets to choose from",
       "url": "https://twitter.com/ppickCH/status/1312808475374821381?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_31.jfif"
     },
