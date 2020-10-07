@@ -20,6 +20,12 @@
     }
   ],
   "news": [
+     {
+      "title": "Incomin' Update To Persues For KWGT Pro",
+      "description": "It Will Be Available By The End Of The Next Week!",
+      "url": "https://twitter.com/PREETU1076/status/1313491930437824513?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_40.jpg"
+    },
     {
       "title": "Joy Walls App Update Is LIVE!",
       "description": "App Contains 260+ Walls Already, Go Check 'Em Out",
@@ -513,6 +519,13 @@
     }
   ],
   "widgets": [
+    {
+    "title": "Incomin' Update To Persues For KWGT Pro",
+      "description": "It Will Be Available By The End Of The Next Week!",
+      "url": "https://twitter.com/PREETU1076/status/1313491930437824513?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_40.jpg"
+    },
+
     {
       "title": "BURN KWGT is Live!",
       "description": "Promotional Sale is going on from Oct. 7. Go grab it.",
