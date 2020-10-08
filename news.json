@@ -2,13 +2,13 @@
   "highlights": [
     {
       "title": "Something new coming up soon!",
-      "description": "Tired of widgets with rounded corners? Something launching soon on October 10!",
-      "url": "https://twitter.com/pixshoot/status/1313648691371220992?s=19",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_41.jfif"
+      "description": "Spread the word!! #BurnKWGT",
+      "url": "https://twitter.com/Phones_Planes/status/1311589636565798913?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_14.jfif"
     },
     {
-      "title": "",
-      "description": "",
+      "title": "Squirrel Icon Pack is Free for Limited Time",
+      "description": "Get it Now !!!",
       "url": "https://twitter.com/panoto_gomo/status/1311926118128082944?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_11.jfif"
     },
@@ -20,7 +20,13 @@
     }
   ],
   "news": [
-      {
+     {
+      "title": "Incomin' Update To Persues For KWGT Pro",
+      "description": "It Will Be Available By The End Of The Next Week!",
+      "url": "https://twitter.com/PREETU1076/status/1313491930437824513?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_40.jpg"
+    },
+    {
       "title": "Joy Walls App Update Is LIVE!",
       "description": "App Contains 260+ Walls Already, Go Check 'Em Out",
       "url": "https://twitter.com/Yogesh_gosavi_/status/1313401624707043328?s=20",
@@ -130,7 +136,49 @@
     }
   ],
   "wallpapers": [
-      {
+   {
+      "title": "Spooktober special, New walls in Joy Walls ",
+      "description": "12 New walls are added, check it now!",
+      "url": "https://twitter.com/Yogesh_gosavi_/status/1313848416275845126?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_39.jpg"
+    },
+   {
+      "title": "New Walls in Amoled Wallpapers",
+      "description": "4 New Walls Added, 2 alts. are also addes check it now!",
+      "url": "https://twitter.com/mhcharlee/status/1313811993560862720?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_38.jpg"
+    },
+    {
+      "title": "Unusual Wallpapers Update",
+      "description": "2 New Walls Added",
+      "url": "https://twitter.com/akinhd/status/1313659319490150401?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_37.jfif"
+    },
+    {
+      "title": "Wallsy Daily Update",
+      "description": "3 New Dark Walls Added",
+      "url": "https://twitter.com/SK_wallpapers_/status/1313562520297168897?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_36.jfif"
+    },
+    {
+      "title": "Pixel 5 Life Walls in 4 colors",
+      "description": "New Life Walls 'Pully' is now available",
+      "url": "https://twitter.com/pashapuma1/status/1313521546590384132?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_35.jfif"
+    },
+    {
+      "title": "New Walls Added in Prism Wallpapers",
+      "description": "New Exclusive Amoled Walls Added In The Collection",
+      "url": "https://twitter.com/PrismWallpapers/status/1313539511029125121?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_34.jfif"
+    },
+    {
+      "title": "New Wallpapers Added To Wallipop!!!",
+      "description": "Check them out !!!",
+      "url": "https://twitter.com/ArrowWalls/status/1313483101083971584?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_33.jpg"
+    },
+    {
       "title": "Joy Walls App Update Is LIVE!",
       "description": "App Contains 260+ Walls Already, Go Check 'Em Out",
       "url": "https://twitter.com/Yogesh_gosavi_/status/1313401624707043328?s=20",
@@ -324,11 +372,41 @@
     }
   ],
   "icons": [
+   {
+      "title": "[UPDATE] Pixel pie & Pixel pie Dark updated to V3.4!",
+      "description": "35 new icons are added, total 5400+ now, Check it now!",
+      "url": "https://twitter.com/justnewdesigns/status/1313814282472247296?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_27.jpg"
+    },
     {
-      "title": "New Icon Pack under works!",
-      "description": "Initial Beta version to release within a couple of months.",
-      "url": "https://twitter.com/RahulKDinesh/status/1313755905658286080?s=19",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_28.jpg"
+      "title": "[UPDATE] Bilfy Icon Pack New update is Live Now!",
+      "description": "31 new icons are added, total 955 now, Check it now",
+      "url": "https://twitter.com/subham2888/status/1313797247285387264?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_26.jpg"
+    },
+    {
+      "title": "Enix Next Update Glimpse",
+      "description": "New Google Workspace Icons Coming In The Next Update",
+      "url": "https://twitter.com/lkn9x/status/1313551560581013504?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_25.jfif"
+    },
+    {
+      "title": "Reev Pro Weekly Update Is Live!!",
+      "description": "13 new icons and 2 widgets added in this added",
+      "url": "https://twitter.com/GrabsterTV/status/1313489634698113028?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_24.jfif"
+    },
+    {
+      "title": "LineX Icon Pack Updated To Version 3.2",
+      "description": "35+ New Icons Have been Added. Total of 5100+ Icons Now!!",
+      "url": "https://twitter.com/panoto_gomo/status/1313446168160923651?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_23.jpg"
+    },
+    {
+      "title": "Norma Icons Gets A New Update(Giveaway)",
+      "description": "New 100+ icons has been Updated!",
+      "url": "https://twitter.com/panoto_gomo/status/1313446168160923651?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_22.jpg"
     },
     {
       "title": "Giveaway Of PaperCut Icon Pack",
@@ -465,12 +543,30 @@
     }
   ],
   "widgets": [
+    {
+    "title": "Incomin' Update To Persues For KWGT Pro",
+      "description": "It Will Be Available By The End Of The Next Week!",
+      "url": "https://twitter.com/PREETU1076/status/1313491930437824513?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_40.jpg"
+    },
 
     {
-      "title": "Something new coming up soon!",
-      "description": "Tired of widgets with rounded corners? Something launching soon on October 10!",
-      "url": "https://twitter.com/pixshoot/status/1313648691371220992?s=19",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_41.jfif"
+      "title": "BURN KWGT is Live!",
+      "description": "Promotional Sale is going on from Oct. 7. Go grab it.",
+      "url": "https://twitter.com/Phones_Planes/status/1313498334074744834?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_39.jfif"
+    },
+    {
+      "title": "Elements KWGT Giveaway (5 Codes)",
+      "description": "Winners will be drawned randomly on Oct 10th 10:00 GMT.",
+      "url": "https://twitter.com/DaveGeek1/status/1313477384310534145?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_38.jfif"
+    },
+    {
+      "title": "Moonlight KWGT is Now Updated To Version 1.2.8.0",
+      "description": "2 New Widgets Added. There's Total Of 63 Widgets Now!!!",
+      "url": "https://twitter.com/Phones_Planes/status/1313453682332102656?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_37.jpg"
     },
     {
       "title": "Vibrant Colors KWGT is Now Updated To Version 3.0 (Final Version)",
@@ -685,8 +781,14 @@
   ],
   "klwp": [
     {
+      "title": "Polymer KLWP is Live",
+      "description": "Its first Preset 'Plastik' shows relevant info, with beautiful music & weather pages.",
+      "url": "https://twitter.com/emplexx132/status/1313487972721987586?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_04.jfif"
+    },
+    {
       "title": "CW KLWP by Nayelle",
-      "description": "",
+      "description": "A Free KLWP to download",
       "url": "https://twitter.com/colorwallies/status/1312276956122030080?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_03.jfif"
     },
