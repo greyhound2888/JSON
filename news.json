@@ -20,7 +20,7 @@
     }
   ],
   "news": [
-     {
+    {
       "title": "Incomin' Update To Persues For KWGT Pro",
       "description": "It Will Be Available By The End Of The Next Week!",
       "url": "https://twitter.com/PREETU1076/status/1313491930437824513?s=20",
@@ -136,13 +136,13 @@
     }
   ],
   "wallpapers": [
-   {
+    {
       "title": "Spooktober special, New walls in Joy Walls ",
       "description": "12 New walls are added, check it now!",
       "url": "https://twitter.com/Yogesh_gosavi_/status/1313848416275845126?s=19",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_39.jpg"
     },
-   {
+    {
       "title": "New Walls in Amoled Wallpapers",
       "description": "4 New Walls Added, 2 alts. are also addes check it now!",
       "url": "https://twitter.com/mhcharlee/status/1313811993560862720?s=19",
@@ -372,7 +372,13 @@
     }
   ],
   "icons": [
-   {
+    {
+      "title": "New Icon Pack under works!",
+      "description": "Initial Beta version to release within a couple of months.",
+      "url": "https://twitter.com/RahulKDinesh/status/1313755905658286080?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_28.jpg"
+    },
+    {
       "title": "[UPDATE] Pixel pie & Pixel pie Dark updated to V3.4!",
       "description": "35 new icons are added, total 5400+ now, Check it now!",
       "url": "https://twitter.com/justnewdesigns/status/1313814282472247296?s=19",
@@ -544,7 +550,13 @@
   ],
   "widgets": [
     {
-    "title": "Incomin' Update To Persues For KWGT Pro",
+      "title": "Something new coming up soon!",
+      "description": "Tired of widgets with rounded corners? Something launching soon on October 10!",
+      "url": "https://twitter.com/pixshoot/status/1313648691371220992?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_41.jfif"
+    },
+    {
+      "title": "Incomin' Update To Persues For KWGT Pro",
       "description": "It Will Be Available By The End Of The Next Week!",
       "url": "https://twitter.com/PREETU1076/status/1313491930437824513?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_40.jpg"
