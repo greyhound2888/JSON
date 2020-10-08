@@ -1,5 +1,5 @@
 {
-  "highlights": [  
+  "highlights": [
     {
       "title": "[SALE] Both Pixurr Wallpapers & Bilfy Icon Pack Is On Sale",
       "description": "Sale till 15th of October,Check it out!",
@@ -32,7 +32,7 @@
     }
   ],
   "news": [
-      {
+    {
       "title": "[SALE] Hera Dark Icon Pack Is On Sale",
       "description": "Sale till 11th of October, Check it out!",
       "url": "https://twitter.com/One4Studio/status/1314121572379168771?s=20",
@@ -462,7 +462,7 @@
       "url": "https://twitter.com/subham2888/status/1314237193154486272?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_48.jpg"
     },
-    { 
+    {
       "title": "[SALE] Hera Dark Icon Pack Is On Sale",
       "description": "Sale till 11th of October, Check it out!",
       "url": "https://twitter.com/One4Studio/status/1314121572379168771?s=20",
@@ -936,6 +936,12 @@
     }
   ],
   "klwp": [
+    {
+      "title": "New KLWP Preset Is Coming",
+      "description": "Its first Preset 'Plastik' shows relevant info, with beautiful music & weather pages.",
+      "url": "https://twitter.com/emplexx132/status/1313487972721987586?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_04.jfif"
+    },
     {
       "title": "Polymer KLWP is Live",
       "description": "Its first Preset 'Plastik' shows relevant info, with beautiful music & weather pages.",
