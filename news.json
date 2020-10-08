@@ -592,6 +592,12 @@
   ],
   "widgets": [
     {
+      "title": "Element KWGT Upcoming Update Glimpse",
+      "description": "",
+      "url": "https://twitter.com/DaveGeek1/status/1313875063230300160?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_42.jfif"
+    },
+    {
       "title": "Something new coming up soon!",
       "description": "Tired of widgets with rounded corners? Something launching soon on October 10!",
       "url": "https://twitter.com/pixshoot/status/1313648691371220992?s=19",
