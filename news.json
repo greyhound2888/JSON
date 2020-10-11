@@ -26,7 +26,6 @@
     }
   ],
   "news": [
-   
     {
       "title": "New Arch Walls are available on Collections App",
       "description": "5 new mnml arch walls to give your homescreen a new look",
@@ -65,13 +64,13 @@
       "url": "https://twitter.com/ongliong11/status/1315177818838376449?s=19",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_62.jpg"
     },
-     {
+    {
       "title": "[FREE] New Abstract Walls on ABSTRA.WALL",
       "description": "New 3 Abstract Walls are posted on Telegram channel, Check it out now!",
       "url": "https://twitter.com/ABSTRAWALL/status/1314796231508529154?s=19",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_61.jpg"
     },
-      {
+    {
       "title": "[UPDATE] New Walls Are Added In Unusual Wallpapers",
       "description": "The App Has Now 650+ Hand Crafted Vector Walls",
       "url": "https://twitter.com/akinhd/status/1315135041400438784?s=20",
@@ -434,7 +433,7 @@
     }
   ],
   "icons": [
-   {
+    {
       "title": "[UPDATE] Duo Icon Pack update is live now!",
       "description": "40 New Icons are added, Check it now!",
       "url": "https://twitter.com/sreeragag7/status/1315264333107077121?s=19",
@@ -726,20 +725,20 @@
   ],
   "widgets": [
     {
-      "title":"[UPDATE] Update For Lucent KWGT Is Now LIVE",
+      "title": "[UPDATE] Update For Lucent KWGT Is Now LIVE",
       "description": "Added 2 new widgets, Total 128 widgets now!",
       "url": "https://twitter.com/starkdesigns18/status/1315279367166025730?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_55.jpg"
     },
     {
-      "title":"[UPDATE] Update For Radish KWGT Is Now LIVE",
+      "title": "[UPDATE] Update For Radish KWGT Is Now LIVE",
       "description": "Added 20 New Widgets.Check it out now!",
       "url": "https://twitter.com/jacksonhayes701/status/1315248267777568768?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_54.jpg"
     },
 
     {
-      "title":"[UPDATE] Weekly Update For Moonlight KWGT Is Now LIVE",
+      "title": "[UPDATE] Weekly Update For Moonlight KWGT Is Now LIVE",
       "description": "3 New Minimal Widgets Are Added, Go Check Them Out Now!!",
       "url": "https://twitter.com/Phones_Planes/status/1315180739915202560?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_53.jpg"
