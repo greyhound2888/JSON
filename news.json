@@ -26,6 +26,12 @@
     }
   ],
   "news": [
+    {
+      "title": "MYWIDGETS is live on Google play!,
+      "description": "It has 32+ widgets in different styles and many more. Check it out!",
+      "url": "https://twitter.com/pixshoot/status/1315286656166121473?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_56.jpg"
+    },
    
     {
       "title": "New Arch Walls are available on Collections App",
@@ -725,6 +731,12 @@
     }
   ],
   "widgets": [
+    {
+      "title": "MYWIDGETS is live on Google play!,
+      "description": "It has 32+ widgets in different styles and many more. Check it out!",
+      "url": "https://twitter.com/pixshoot/status/1315286656166121473?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_56.jpg"
+    },
     {
       "title":"[UPDATE] Update For Lucent KWGT Is Now LIVE",
       "description": "Added 2 new widgets, Total 128 widgets now!",
