@@ -27,10 +27,16 @@
   ],
   "news": [
     {
-      "title": "[UPDATE] PixCards New Update is LIVE !!!",
-      "description": "5 New Widgets Added, Total 50 widgets now!",
-      "url": "https://twitter.com/subham2888/status/1315409306527825922?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_58.jfif"
+      "title": "[UPDATE] Pixurr Wallpapers Gets An Update",
+      "description": "15 New Halloween Walls Are Added, Go Check Them Out",
+      "url": "https://twitter.com/subham2888/status/1315452578683998208?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_64.jpg"
+    },
+    {
+      "title": "MyWidgets KWGT Will Available Very Soon!!",
+      "description": "App Submitted to Playstore and hopefully it will available soon.",
+      "url": "https://twitter.com/pixshoot/status/1315043358302179328?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_52.jfif"
     },
     {
       "title": "New Arch Walls are available on Collections App",
@@ -58,13 +64,12 @@
     }
   ],
   "wallpapers": [
-     {
+    {
       "title": "[UPDATE] Pixurr Wallpapers Gets An Update",
       "description": "15 New Halloween Walls Are Added, Go Check Them Out",
       "url": "https://twitter.com/subham2888/status/1315452578683998208?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/walls_64.jpg"
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_64.jpg"
     },
-
     {
       "title": "[UPDATE] New Walls are added in Wallsy",
       "description": "Total 8 new Walls are added, Check it out!",
@@ -89,7 +94,6 @@
       "url": "https://twitter.com/akinhd/status/1315135041400438784?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_60.jpg"
     },
-
     {
       "title": "New Arch Walls are available on Collections App",
       "description": "5 new mnml arch walls to give your homescreen a new look",
@@ -447,12 +451,6 @@
   ],
   "icons": [
     {
-      "title": "[SALE] Blazing Icon Pack is available at Huge Discount on Playstore",
-      "description": "Get it Now !!!",
-      "url": "https://twitter.com/VoyantDesigns/status/1301376415644839938?s=20",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_47.jfif"
-    },
-    {
       "title": "[UPDATE] Duo Icon Pack update is live now!",
       "description": "40 New Icons are added, Check it now!",
       "url": "https://twitter.com/sreeragag7/status/1315264333107077121?s=19",
@@ -750,12 +748,6 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_58.jfif"
     },
     {
-      "title": "[UPDATE] Update For Typo for KWGT Is Now LIVE",
-      "description": "Check Out Now !",
-      "url": "https://twitter.com/dosartsmobile/status/1315302376799174656?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_57.jfif"
-    },
-    {
       "title": "[UPDATE] Update For Lucent KWGT Is Now LIVE",
       "description": "Added 2 new widgets, Total 128 widgets now!",
       "url": "https://twitter.com/starkdesigns18/status/1315279367166025730?s=20",
@@ -767,14 +759,12 @@
       "url": "https://twitter.com/jacksonhayes701/status/1315248267777568768?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_54.jpg"
     },
-
     {
       "title": "[UPDATE] Weekly Update For Moonlight KWGT Is Now LIVE",
       "description": "3 New Minimal Widgets Are Added, Go Check Them Out Now!!",
       "url": "https://twitter.com/Phones_Planes/status/1315180739915202560?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_53.jpg"
     },
-
     {
       "title": "MyWidgets KWGT Will Available Very Soon!!",
       "description": "App Submitted to Playstore and hopefully it will available soon.",
