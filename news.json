@@ -27,6 +27,12 @@
   ],
   "news": [
     {
+      "title": "New Walls made by RC",
+      "description": "Check it out to get some cool walls for Free!",
+      "url": "https://twitter.com/rc200044/status/1315526943337447424?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_66.jpg"
+    },
+    {
       "title": "[UPDATE] Pixurr Wallpapers Gets An Update",
       "description": "15 New Halloween Walls Are Added, Go Check Them Out",
       "url": "https://twitter.com/subham2888/status/1315452578683998208?s=20",
@@ -72,7 +78,7 @@
   "wallpapers": [
     {
       "title": "New Walls made by RC",
-      "description": "Check it out to get some cool walls for free!",
+      "description": "Check it out to get some cool walls for Free!",
       "url": "https://twitter.com/rc200044/status/1315526943337447424?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_66.jpg"
     },
