@@ -32,29 +32,24 @@
       "twitter": "https://twitter.com/asad0_o"
     },
     {
-      "name": "Kirtan",
-      "image": "https://github.com/greyhound2888/Our-Team/raw/main/kirtan.jpg",
-      "twitter": "https://twitter.com/_heisenberg_03"
-    },
-    {
       "name": "Sagar Salve",
       "image": "https://github.com/greyhound2888/Our-Team/raw/main/sagar.jpg",
       "twitter": "https://twitter.com/SagarAnilSalve1"
     },
     {
-      "name": "Sangam Panda",
-      "image": "https://pbs.twimg.com/profile_images/1305719809443852288/pnTZ8omp_400x400.jpg",
+      "name": "Kirtan",
+      "image": "https://github.com/greyhound2888/Our-Team/raw/main/kirtan.jpg",
+      "twitter": "https://twitter.com/_heisenberg_03"
+    },
+    {
+      "name": "Sangam",
+      "image": "https://github.com/greyhound2888/Our-Team/raw/main/sangam.jpg",
       "twitter": "https://twitter.com/sangampandasp9?s=20"
     },
     {
-      "name": "Mr. K",
+      "name": "Kashish",
       "image": "https://pbs.twimg.com/profile_images/1222430621760278528/YeC7HU-q_400x400.jpg",
       "twitter": "https://twitter.com/kashish6006?s=20"
-    },
-    {
-      "name": "Rc",
-      "image": "https://pbs.twimg.com/profile_images/1315519408760975365/ddcxz-mX_400x400.jpg",
-      "twitter": "https://twitter.com/rc200044?s=20"
     },
     {
       "name": "Mr. J",
@@ -62,19 +57,34 @@
       "twitter": "https://twitter.com/SagarAnilSalve1"
     },
     {
-      "name": "Raj",
+      "name": "Mani",
+      "image": "https://github.com/greyhound2888/Our-Team/raw/main/mani.png",
+      "twitter": "https://twitter.com/PB07MANI?s=20"
+    },
+    {
+      "name": "RaJ",
       "image": "https://github.com/greyhound2888/Our-Team/raw/main/raj.png",
       "twitter": "https://twitter.com/spectkiller?s=20"
     },
     {
       "name": "Sahil",
-      "image": "https://avatars0.githubusercontent.com/u/69428034?s=460&u=06f97aa3a6be107f277ff64333e1436b7bec39be&v=4",
-      "twitter": "https://twitter.com/SagarAnilSalve1"
+      "image": "https://pbs.twimg.com/profile_images/1316080784428748803/Id2nKTI2_400x400.jpg",
+      "twitter": "https://twitter.com/PR0FESS0R7?s=20"
     },
     {
-      "name": "Vishal Khatri",
-      "image": "https://avatars0.githubusercontent.com/u/69428034?s=460&u=06f97aa3a6be107f277ff64333e1436b7bec39be&v=4",
-      "twitter": "https://twitter.com/SagarAnilSalve1"
+      "name": "Kevin",
+      "image": "https://pbs.twimg.com/profile_images/1279641105181507584/1muWQaBW_400x400.jpg",
+      "twitter": "https://twitter.com/tailoristic?s=20"
+    },
+    {
+      "name": "Rc",
+      "image": "https://pbs.twimg.com/profile_images/1315519408760975365/ddcxz-mX_400x400.jpg",
+      "twitter": "https://twitter.com/rc200044?s=20"
+    },
+    {
+      "name": "Vishal",
+      "image": "https://github.com/greyhound2888/Our-Team/raw/main/vishal.jpg",
+      "twitter": "https://twitter.com/dvishalkhatri?s=20"
     }
   ]
 }
