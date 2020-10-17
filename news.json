@@ -1097,6 +1097,13 @@
   ],
   "widgets": [
     {
+      "title": "Pineapple KWGT Got An Update",
+      "description": "Added 3 New Widgets. Check it out now!",
+      "url": "https://play.google.com/store/apps/details?id=org.kustom.widget",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_71.jpg",
+      "authorname": "Sagar"
+      },
+    {
       "title": "Radish KWGT Got An Update",
       "description": "Added 20 New Widgets. Check it out now!",
       "url": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
