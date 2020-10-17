@@ -21,6 +21,12 @@
   ],
   "news": [
     {
+      "title": "Rubuk Icon Pack is Free for limited Time",
+      "description": "It has over 5000 icons. Go grab it now!",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.rubuk",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_68.png"
+    },
+    {
       "title": "Wallnut Pro Is Coming",
       "description": "Coming Very Soon!!",
       "url": "https://twitter.com/notforyou666/status/1317213816334307330?s=20",
@@ -667,6 +673,12 @@
   ],
   "icons": [
     {
+      "title": "Rubuk Icon Pack is Free for limited Time",
+      "description": "It has over 5000 icons. Go grab it now!",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.rubuk",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_68.png"
+    },
+    {
       "title": "Some New Walls In Reev Pro Icon Pack",
       "description": "Galtic - A Series of Walls with Minimalist & Semi-3D Look Added. Also more coming in next week.",
       "url": "https://twitter.com/GrabsterTV/status/1316682963925512192?s=20",
@@ -1084,6 +1096,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Radish KWGT Got An Update",
+      "description": "Added 20 New Widgets. Check it out now!",
+      "url": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_70.jpg",
+      "authorname": "Yudha"
+      },
+    {
+      "title": "MyOs KWGT Got An Update",
+      "description": "Added 5 New Widgets. Check it out now!",
+      "url": "https://play.google.com/store/apps/details?id=com.myoskwgtsbyahmad.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_69.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "Mintie for KWGT Got An Update",
       "description": "Added 3 New Widgets with this Update",
