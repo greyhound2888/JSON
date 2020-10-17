@@ -21,6 +21,20 @@
   ],
   "news": [
     {
+      "title": "Wallnut Pro Is Coming",
+      "description": "Coming Very Soon!!",
+      "url": "https://twitter.com/notforyou666/status/1317213816334307330?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_94.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Mintie for KWGT Got An Update",
+      "description": "Added 3 New Widgets with this Update",
+      "url": "https://play.google.com/store/apps/details?id=mintieforkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_68.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "[UPDATE] Libra KWGT Gets An Update",
       "description": "7 New Widgets Are Added, Go Check Them Now!!",
       "url": "https://twitter.com/Halleyapps/status/1316947351626448896?s=20",
@@ -53,30 +67,6 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_87.jpg"
     },
     {
-      "title": "[UPDATE] Wallipop Gets An Update",
-      "description": "New Wallpaper Added To The Wallipop",
-      "url": "https://twitter.com/ArrowWalls/status/1316746611645505537?s=19",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_85.jpg"
-    },
-    {
-      "title": "[UPDATE] Daily Update for Wallsy Is LIVE",
-      "description": "3 New Pattern Walls Are Added",
-      "url": "https://twitter.com/SK_wallpapers_/status/1316440502661775367?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_79.jpg"
-    },
-    {
-      "title": "[UPDATE] Enix Icon Pack update is live now!",
-      "description": "50 New Icons are added, Check it now!",
-      "url": "https://twitter.com/lkn9x/status/1316773006945943564?s=20",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_63.jpg"
-    },
-    {
-      "title": "[SALE] Athena Dark Icon Pack Is On Sale",
-      "description": "Go Grab Discount Before It Ends.",
-      "url": "https://twitter.com/One4Studio/status/1314449024427208704?s=20",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_60.jpg"
-    },
-    {
       "title": "[UPDATE] Exquigets KWGT Has Got A Big Update",
       "description": "With this Update it bring new translucent widgets with auto dark mode and fixes.",
       "url": "https://twitter.com/kushaljain94/status/1316425555391188992?s=20",
@@ -101,12 +91,6 @@
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_54.jpg"
     },
     {
-      "title": "[UPDATE] Weekly Update for Inspire KWGT is live now! ",
-      "description": "Version bumped to 6.1, total count 188 now, Check it out!",
-      "url": "https://twitter.com/ppickCH/status/1315898019389165570?s=19",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_62.jpg"
-    },
-    {
       "title": "[UPDATE] Pixurr Wallpapers Gets An Update",
       "description": "15 New Halloween Walls Are Added, Go Check Them Out",
       "url": "https://twitter.com/subham2888/status/1315452578683998208?s=20",
@@ -120,6 +104,27 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "Three Abstract Walls Added In Wallsy",
+      "description": "Go get it now!!",
+      "url": "https://twitter.com/SK_wallpapers_/status/1317212714452668416?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_95.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Wallnut Pro Is Coming",
+      "description": "Coming Very Soon!!",
+      "url": "https://twitter.com/notforyou666/status/1317213816334307330?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_94.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Many New Walls Were Added in Wallpeppers",
+      "description": "Go check them out!!",
+      "url": "https://twitter.com/imundefyned/status/1317187636608430080?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_93.jfif",
+      "authorname": "Abhi Saha"
+    },
     {
       "title": "New Walls Added in AmoledPapers",
       "description": "4 New and 4 alts Unique Walls Added",
@@ -662,6 +667,13 @@
   ],
   "icons": [
     {
+      "title": "Some New Walls In Reev Pro Icon Pack",
+      "description": "Galtic - A Series of Walls with Minimalist & Semi-3D Look Added. Also more coming in next week.",
+      "url": "https://twitter.com/GrabsterTV/status/1316682963925512192?s=20",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_67.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "Samsung OEM App Icons coming in Next Tessa Update",
       "description": "Take a look at it",
       "url": "https://twitter.com/icarusap/status/1317106802618560513?s=20",
@@ -1073,10 +1085,11 @@
   ],
   "widgets": [
     {
-      "title": "[UPDATE] Libra KWGT Gets An Update",
-      "description": "7 New Widgets Are Added, Go Check Them Now!!",
-      "url": "https://twitter.com/Halleyapps/status/1316947351626448896?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_68.jpg"
+      "title": "Mintie for KWGT Got An Update",
+      "description": "Added 3 New Widgets with this Update",
+      "url": "https://play.google.com/store/apps/details?id=mintieforkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_68.jfif",
+      "authorname": "Abhi Saha"
     },
     {
       "title": "[UPDATE] Exquigets KWGT Has Got A Big Update",
@@ -1481,6 +1494,20 @@
     }
   ],
   "klwp": [
+    {
+      "title": "Atami KLWP Is Live On PlayStore",
+      "description": "A simple 2 screen setup with light and dark options",
+      "url": "https://play.google.com/store/apps/details?id=atami.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_09.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Classy Free Pack Themes for KLWP Is Here",
+      "description": "Go check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=classy.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_08.webp",
+      "authorname": "Abhi Saha"
+    },
     {
       "title": "[SALE] Styles KLWP is on sale for limited time!",
       "description": "Upto 40% off during the sale, Check it now!",
