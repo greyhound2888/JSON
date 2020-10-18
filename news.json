@@ -20,7 +20,14 @@
     }
   ],
   "news": [
-   {
+    {
+      "title": "Wallspaper Is Now Live On Play Store",
+      "description": "Go Check It Out!!",
+      "url": "https://play.google.com/store/apps/details?id=deb.wallpaper.walle",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_102.jpg",
+      "authorname": "Sagar"
+    },
+    {
       "title": "[UPDATE & SALE] New Wallpaper Added in Unusual Wallpapers",
       "description": "Unusal Wallpaper is on sale upto 50% off, Check it out !",
       "url": "https://twitter.com/akinhd/status/1317682961433714690?s=19",
@@ -152,6 +159,13 @@
     }
   ],
   "wallpapers": [
+   {
+      "title": "Wallspaper Is Now Live On Play Store",
+      "description": "Go Check It Out!!",
+      "url": "https://play.google.com/store/apps/details?id=deb.wallpaper.walle",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_102.jpg",
+      "authorname": "Sagar"
+    },
    {
       "title": "New Wallpaper Added in Unusual Wallpapers",
       "description": "New walls added, Check it out !",
