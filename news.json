@@ -21,6 +21,13 @@
   ],
   "news": [
     {
+      "title": "Vanialla KWGT is Coming Tomorrow",
+      "description": "Here's the icon design of the pack",
+      "url": "https://twitter.com/ppickCH/status/1317556114418929664?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_76.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "Layers Icon Pack (by @sreeragag7) is Now LIVE on PlayStore",
       "description": "Check it out !",
       "url": "https://play.google.com/store/apps/details?id=com.sreerag.layers",
@@ -33,7 +40,7 @@
       "url": "https://play.google.com/store/apps/details?id=ml.undefyned.khameleon",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_74.jfif",
       "authorname": "Subham Saha"
-      },
+    },
     {
       "title": "[FREE] Another set of free walls made by Rc",
       "description": "Go get them now!!",
@@ -60,7 +67,7 @@
       "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_71.jpg",
       "authorname": "Sagar"
-      },
+    },
     {
       "title": "Mintie for KWGT Got An Update",
       "description": "Added 3 New Widgets with this Update",
@@ -722,6 +729,13 @@
   ],
   "icons": [
     {
+      "title": "New Icons Added in CandyCons Unwrapped & PixBit",
+      "description": "Update theme to theme more of your apps",
+      "url": "https://play.google.com/store/apps/dev?id=6941105890231522296",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_71.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "Layers Icon Pack (by @sreeragag7) is Now LIVE on PlayStore",
       "description": "Check it out !",
       "url": "https://play.google.com/store/apps/details?id=com.sreerag.layers",
@@ -1159,40 +1173,54 @@
   ],
   "widgets": [
     {
+      "title": "Vanialla KWGT is Coming Tomorrow",
+      "description": "Here's the icon design of the pack",
+      "url": "https://twitter.com/ppickCH/status/1317556114418929664?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_76.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Aleria KWGT 1.4 is Out!",
+      "description": "Added 6 widgets and now there's total of 55 widgets in the pack",
+      "url": "https://play.google.com/store/apps/details?id=dev.widgetology.aleria",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_75.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "Khameleon for KWGT New Update with interactive chat widget",
       "description": "The widget shows you the weather, music and your calendar events",
       "url": "https://play.google.com/store/apps/details?id=ml.undefyned.khameleon",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_74.jfif",
       "authorname": "Subham Saha"
-      },
+    },
     {
       "title": "Inspire KWGT  Weekend Update",
       "description": "Added 3 New Widgets (Total 191 Widgets)",
       "url": "https://play.google.com/store/apps/details?id=inspire.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_73.jfif",
       "authorname": "Subham Saha"
-      },
+    },
     {
       "title": "Circus KWGT Got an Update",
       "description": "Added 5 New Widgets. Check it out now!",
       "url": "https://play.google.com/store/apps/details?id=circusforkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_72.jpg",
       "authorname": "Sagar"
-      },
+    },
     {
       "title": "Pineapple KWGT Got an Update",
       "description": "Added 3 New Widgets. Check it out now!",
       "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_71.jpg",
       "authorname": "Sagar"
-      },
+    },
     {
       "title": "Radish KWGT Got an Update",
       "description": "Added 20 New Widgets. Check it out now!",
       "url": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_70.jpg",
       "authorname": "Yudha"
-      },
+    },
     {
       "title": "MyOs KWGT Got An Update",
       "description": "Added 5 New Widgets. Check it out now!",
@@ -1610,6 +1638,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "Umi for KLWP is Live on PlayStore",
+      "description": "Go check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=umiforklwp.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_10.jfif",
+      "authorname": "Abhi Saha"
+    },
     {
       "title": "Atami KLWP Is Live On PlayStore",
       "description": "A simple 2 screen setup with light and dark options",
