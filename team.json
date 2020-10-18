@@ -2,39 +2,23 @@
   "concept": [
     {
       "name": "Subham Saha",
-      "description": "Developer of Pixurr Wallpapers, BILFY Icon Pack, Aphemis & PixCards KWGT",
-      "image": "",
       "twitter": "https://twitter.com/subham2888"
     }
   ],
   "programmer": [
     {
       "name": "iamBavith",
-      "description": "Developer of ProScreens & WhalePapers",
-      "image": "https://avatars2.githubusercontent.com/u/55197783?s=460&u=e3b40ca9a32223c233e2fdd2c89c931d8a33b9c6&v=4",
       "twitter": "https://twitter.com/iambavith"
     }
   ],
   "managers": [
     {
       "name": "Abhi Saha",
-      "image": "https://avatars1.githubusercontent.com/u/68981012?s=460&u=ca0f1404c68d5f610c217830c36c02c4c006c4ea&v=4",
       "twitter": "https://twitter.com/abhisahalife"
     },
     {
       "name": "Yudha",
-      "image": "https://avatars3.githubusercontent.com/u/70634559?s=460&u=c928fad73d46c54e63c1224b2bc31feba49650f4&v=4",
       "twitter": "https://twitter.com/yudhajit_ghosh"
-    },
-    {
-      "name": "Asad",
-      "image": "https://avatars2.githubusercontent.com/u/45055527?s=460&u=708f8d4a393b776c32a6b698541c15be5dd4020a&v=4",
-      "twitter": "https://twitter.com/asad0_o"
-    },
-    {
-      "name": "Sagar Salve",
-      "image": "https://github.com/greyhound2888/Our-Team/raw/main/sagar.jpg",
-      "twitter": "https://twitter.com/SagarAnilSalve1"
     },
     {
       "name": "Kirtan",
@@ -42,10 +26,33 @@
       "twitter": "https://twitter.com/_heisenberg_03"
     },
     {
+      "name": "Sagar Salve",
+      "twitter": "https://twitter.com/SagarAnilSalve1"
+    },
+    {
+      "name": "Asad",
+      "twitter": "https://twitter.com/asad0_o"
+    }, 
+    {
       "name": "Sangam",
       "image": "https://github.com/greyhound2888/Our-Team/raw/main/sangam.jpg",
       "twitter": "https://twitter.com/sangampandasp9?s=20"
     },
+    {
+      "name": "Kevin",
+      "image": "https://pbs.twimg.com/profile_images/1279641105181507584/1muWQaBW_400x400.jpg",
+      "twitter": "https://twitter.com/tailoristic?s=20"
+    },
+    {
+      "name": "Rc",
+      "image": "https://pbs.twimg.com/profile_images/1315519408760975365/ddcxz-mX_400x400.jpg",
+      "twitter": "https://twitter.com/rc200044?s=20"
+    },
+    {
+      "name": "Vishal",
+      "image": "https://github.com/greyhound2888/Our-Team/raw/main/vishal.jpg",
+      "twitter": "https://twitter.com/dvishalkhatri?s=20"
+    }
     {
       "name": "Kashish",
       "image": "https://github.com/greyhound2888/Our-Team/raw/main/kashish.jpg",
@@ -70,21 +77,6 @@
       "name": "Sahil",
       "image": "https://pbs.twimg.com/profile_images/1316080784428748803/Id2nKTI2_400x400.jpg",
       "twitter": "https://twitter.com/PR0FESS0R7?s=20"
-    },
-    {
-      "name": "Kevin",
-      "image": "https://pbs.twimg.com/profile_images/1279641105181507584/1muWQaBW_400x400.jpg",
-      "twitter": "https://twitter.com/tailoristic?s=20"
-    },
-    {
-      "name": "Rc",
-      "image": "https://pbs.twimg.com/profile_images/1315519408760975365/ddcxz-mX_400x400.jpg",
-      "twitter": "https://twitter.com/rc200044?s=20"
-    },
-    {
-      "name": "Vishal",
-      "image": "https://github.com/greyhound2888/Our-Team/raw/main/vishal.jpg",
-      "twitter": "https://twitter.com/dvishalkhatri?s=20"
     }
   ]
 }
