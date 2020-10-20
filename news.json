@@ -23,8 +23,36 @@
   ],
   "news": [
     {
+      "title": "Vanilla Kwgt has Launched",
+      "description": "Go Download it now For Free!!",
+      "url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_86.jpg",
+      "authorname": "Yudha"
+    },
+    {
+      "title": "Dossier for Klwp Pro is Out!!",
+      "description": "Download it for Free Now!",
+      "url": "https://play.google.com/store/apps/details?id=dossier.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_16.jpg",
+      "authorname":"Yudha"
+    },
+    {
+      "title": "New Klwp by One Design Coming Soon",
+      "description": "Stay Tuned!",
+      "url": "https://twitter.com/OneDesignbrk/status/1318344231308693504?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_17.jpg",
+      "authorname":"Yudha"
+    },
+    {
+      "title": "Moshi for Klwp is Out!!",
+      "description": "Download it for Free Now!",
+      "url": "https://play.google.com/store/apps/details?id=moshi.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_15.jpg",
+      "authorname":"Yudha"
+    },
+    {
       "title": "Wallnut Pro is coming very soon!!",
-      "description": "Sneck peak of some upcoming walls",
+      "description": "Sneak peak of some Upcoming Walls",
       "url": "https://twitter.com/notforyou666/status/1318310620756910086?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_110.png",
       "authorname": "Abhi Saha"
@@ -108,6 +136,13 @@
     }
   ],
   "wallpapers": [
+     {
+      "title": "New Halloween Exclusive Walls added in Prism Wallpapers",
+      "description": "Check it Out now!",
+      "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_112.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "New Walls Added in WallRod",
       "description": "Check it Out",
@@ -1255,6 +1290,13 @@
     }
   ],
   "widgets": [
+     {
+      "title": "Vanilla Kwgt has Launched",
+      "description": "Go Download it now For Free!!",
+      "url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_86.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "iOsMiX Kwgt got an update",
       "description": "Added 10 New iOS 14 Style Kwgts (Total 70 widgets now)",
@@ -1784,6 +1826,27 @@
     }
   ],
   "klwp": [
+    {
+      "title": "New Klwp by One Design Coming Soon",
+      "description": "Stay Tuned!",
+      "url": "https://twitter.com/OneDesignbrk/status/1318344231308693504?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_17.jpg",
+      "authorname":"Yudha"
+    },
+    {
+      "title": "Dossier for Klwp Pro is Out!!",
+      "description": "Download it for Free Now!",
+      "url": "https://play.google.com/store/apps/details?id=dossier.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_16.jpg",
+      "authorname":"Yudha"
+    },
+    {
+      "title": "Moshi for Klwp is Out!!",
+      "description": "Download it for Free Now!",
+      "url": "https://play.google.com/store/apps/details?id=moshi.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_15.jpg",
+      "authorname":"Yudha"
+    },
     {
       "title": "Plexiglass for KLWP New Update is Out!!",
       "description": "Saturn Preset Added In This Update (Total 10 Presets Now)",
