@@ -1364,6 +1364,14 @@
   ],
   "widgets": [
     {
+      "title": "[UPDATE] Enterprise KWGT Got An Update",
+      "description": "This Update Brings 5 New Widgets, Go check 'Em Out!!",
+      "url": "https://play.google.com/store/apps/details?id=enterprisekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_89.jpg",
+      "authorname":"Kirtan Patel"
+    },
+
+    {
       "title": "[UPDATE] TapOn KWGT Gets An Update",
       "description": "7 New Widgets Are Added, Go Check 'Em Out!!",
       "url": "https://play.google.com/store/apps/details?id=tapon.kustom.pack",
