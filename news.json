@@ -23,7 +23,20 @@
     }
   ],
   "news": [
-   
+    {
+      "title": "Some of One4Studio Walls are now available on the Premium selection of Zedge app",
+      "description": "Both Free & Paid Walls Available",
+      "url": "https://twitter.com/One4Studio/status/1318839294220447746?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_118.png",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "[UPDATE] New Update for MoonLight KWGT",
+      "description": "3 New Dope Widgets Added (Total 71 Widgets Now)",
+      "url": "https://play.google.com/store/apps/details?id=com.ishaan.moonlightkwgt",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_90.jfif",
+      "authorname":"Subham Saha"
+    },
     {
       "title": "Juno Icon Pack is upto 50% Off",
       "description": "Download it before the Sale Ends!",
@@ -139,8 +152,8 @@
   ],
   "wallpapers": [
     {
-      "title": "Some of One4Studio are now available on the Premium selection of @Zedge app",
-      "description": "Both Free & Paid Walls Available...Check them out!",
+      "title": "Some of One4Studio Walls are now available on the Premium selection of Zedge app",
+      "description": "Both Free & Paid Walls Available",
       "url": "https://twitter.com/One4Studio/status/1318839294220447746?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_118.png",
       "authorname": "Subham Saha"
