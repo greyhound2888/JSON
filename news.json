@@ -139,6 +139,13 @@
   ],
   "wallpapers": [
     {
+      "title": "Some of One4Studio are now available on the Premium selection of @Zedge app",
+      "description": "Both Free & Paid Walls Available...Check them out!",
+      "url": "https://twitter.com/One4Studio/status/1318839294220447746?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_118.png",
+      "authorname": "Subham Saha"
+    },
+    {
       "title": "Prism Instant App Now Available!",
       "description": "Now try Prism without Installing",
       "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
@@ -1363,6 +1370,27 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[UPDATE] Koda for Kustom New Update 1.8",
+      "description": "A small New Update with 2 Widgets Added",
+      "url": "https://play.google.com/store/apps/details?id=kodaforkustom.droidbeauty.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_92.jfif",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "[UPDATE] New Update for Elements KWGT",
+      "description": "4 New Widgets Added (135 Widgets in Total)...Elements 4.0 coming soon !!!",
+      "url": "https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_91.jfif",
+      "authorname":"Subham Saha"
+    },
+    {
+      "title": "[UPDATE] New Update for MoonLight KWGT",
+      "description": "3 New Dope Widgets Added (Total 71 Widgets Now)",
+      "url": "https://play.google.com/store/apps/details?id=com.ishaan.moonlightkwgt",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_90.jfif",
+      "authorname":"Subham Saha"
+    },
     {
       "title": "[UPDATE] Enterprise KWGT Got An Update",
       "description": "This Update Brings 5 New Widgets, Go check 'Em Out!!",
