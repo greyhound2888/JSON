@@ -1407,9 +1407,9 @@
     {
       "title": "Inspire KWGT Weekly Update is Here (V-6.3)",
       "description": "Total of 194 Widgets in the pack now",
-      "url": "https://play.google.com/store/apps/details?id=kodaforkustom.droidbeauty.pack",
+      "url": "https://play.google.com/store/apps/details?id=inspire.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_93.jpg",
-      "authorname": "Subham Saha"
+      "authorname": "Abhi Saha"
     },
     {
       "title": "[UPDATE] Koda for Kustom New Update 1.8",
@@ -1991,6 +1991,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "New Update Ember for KLWP Went Live",
+      "description": "Una - A Two screen preset Added (10 Presets in Total)",
+      "url": "https://play.google.com/store/apps/details?id=pl.mhcharlee.ember",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_20.jpg",
+      "authorname": "Abhi Saha"
+    },
     {
       "title": "Whacky KLWP Got An Update",
       "description": "A New 'One Page' Minimal Preset Added",
