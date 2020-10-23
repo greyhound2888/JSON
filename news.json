@@ -1476,6 +1476,13 @@
   ],
   "widgets": [
     {
+      "title": "Shadown KWGT Got A New Update",
+      "description": "Go check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=shadowkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_96.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "Scorpion KWGT Got A New Update",
       "description": "Four new widgets added in this update",
       "url": "https://play.google.com/store/apps/details?id=scorpionkwgt.kustom.pack",
