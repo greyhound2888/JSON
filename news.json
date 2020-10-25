@@ -208,6 +208,20 @@
   ],
   "wallpapers": [
     {
+      "title": "Wallsy Walls Update",
+      "description": "Four New Pattern Walls Added",
+      "url": "https://twitter.com/SK_wallpapers_/status/1320147468315578369?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_137.jpg",
+      "authorname":"Abhi Saha"
+    },
+    {
+      "title": "Unusual Wallpapers Update",
+      "description": "Two New Minimal Walls Added",
+      "url": "https://twitter.com/akinhd/status/1320042194473013248?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_136.jpg",
+      "authorname":"Abhi Saha"
+    },
+    {
       "title": "2 New wallpapers added in the Pix wallpapers",
       "description": "Go try them for free",
       "url": "https://twitter.com/pashapuma1/status/1319972105048494080?s=20",
@@ -1580,6 +1594,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Scorpion KWGT Update",
+      "description": "Four New Widgets Added",
+      "url": "https://play.google.com/store/apps/details?id=scorpionkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_103.jpg",
+      "authorname":"Abhi Saha"
+    },
     {
       "title": "Vanilla kwgt got its First update",
       "description": "Check It Out!!",
