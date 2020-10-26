@@ -30,6 +30,13 @@
     }
   ],
   "news": [
+        {
+      "title": "",
+      "description": "Go Check It Out!!",
+      "url": "https://play.google.com/store/apps/details?id=ilusionistahomeuiforklwp.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_25.jpg",
+      "authorname":"Kirtan Patel"
+    },
     {
       "title": "Ilusionista Home UI For KLWP Is Now LIVE",
       "description": "Go Check It Out!!",
@@ -1077,6 +1084,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "Fluidity 3.2 is rolling out!",
+      "description": "iOS icons are included in this update. Download Now.",
+      "url": "https://play.google.com/store/apps/details?id=com.linkeddesigns.fluidity",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_90.jpeg",
+      "authorname":"Yudha"
+    },
     {
       "title": "Dove Icon Pack Is Now Available On Playstore",
       "description": "Initial Release With 2400+ Icons, It Is Also On SALE Go Check It Out!!",
