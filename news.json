@@ -1,6 +1,13 @@
 {
   "highlights": [
     {
+      "title": "Dove Icon Packs Are Now Available",
+      "description": "Initial Release With 2400+ Icons. Check Them Out!!",
+      "url": "https://play.google.com/store/apps/details?id=com.jndapp.dove.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_89.jpg",
+      "authorname":"Kirtan Patel"
+    },
+    {
       "title": "[GIVEAWAY] Awesome Giveaway of Flora, Duo & Gradient Icon Pack",
       "description": "Check out the Rules !!!",
       "url": "https://twitter.com/Iam_abhishekag/status/1319278674605031438?s=20",
@@ -13,13 +20,6 @@
       "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_79.jpg",
       "authorname": "Abhi Saha"
-    },
-    {
-      "title": "Linebit Icon Packs are upto 60% off",
-      "description": "Go grab them now!",
-      "url": "https://twitter.com/EdzonDM/status/1318725626396893185?s=19",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_80.jpg",
-      "authorname": "Sagar"
     }
   ],
   "news": [
@@ -29,6 +29,13 @@
       "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_91.jpg",
       "authorname":"Asad"
+    },
+    {
+      "title": "Linebit Icon Packs are upto 60% off",
+      "description": "Go grab them now!",
+      "url": "https://twitter.com/EdzonDM/status/1318725626396893185?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_80.jpg",
+      "authorname": "Sagar"
     },
     {
       "title": "Ilusionista Home UI For KLWP Is Now LIVE",
@@ -1235,7 +1242,6 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_72.jpg",
       "authornamr": "kirtan Patel"
     },
-
     {
       "title": "New Icons Added in CandyCons Unwrapped & PixBit",
       "description": "Update theme to theme more of your apps",
@@ -1325,7 +1331,6 @@
       "url": "https://twitter.com/One4Studio/status/1316279646938370051?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_58.jpg"
     },
-
     {
       "title": "[FREE] Phosphor Icons go LIVE Today !!!",
       "description": "Phosphor is a flexible Icon Family with 588 Icons in 6 weights (No Attribution, SVG & Icon Font Formats)",
@@ -1837,7 +1842,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_88.jpg",
       "authorname":"Kirtan Patel"
     },
-     {
+    {
       "title": "30% discount on every kwgt widget by Lokesh Chauhan",
       "description": "NAVRATRI SPECIAL discount for only 5 Days",
       "url": "https://play.google.com/store/apps/dev?id=5930776815435746001",
@@ -1907,7 +1912,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_78.jpg",
       "authorname": "Abhi Saha"
     },
-     {
+    {
       "title": "[UPDATE] Weekly Update for Moonlight KWGT is live now!",
       "description": "Two new Widgets are added, total 68 Widgets now, Check it now!",
       "url": "https://play.google.com/store/apps/details?id=com.ishaan.moonlightkwgt",
@@ -2145,7 +2150,6 @@
       "url": "https://twitter.com/PREETU1076/status/1313491930437824513?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_40.jpg"
     },
-
     {
       "title": "BURN KWGT is Live!",
       "description": "Promotional Sale is going on from Oct. 7. Go grab it.",
@@ -2383,7 +2387,6 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_25.jpg",
       "authorname":"Kirtan Patel"
     },
-
     {
       "title": "[UPDATE] New Update Of Ember KLWP Is Now LIVE",
       "description": "In This Update Search Bar Is Fixed, Go Check It Out!!",
@@ -2391,7 +2394,6 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_24.jpg",
       "authorname":"Kirtan Patel"
     },
-
     {
       "title": "Eklipse KLWP Got An Update",
       "description": "A New 'One Page' Text - Only Preset Added",
