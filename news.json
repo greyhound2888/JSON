@@ -31,6 +31,13 @@
   ],
   "news": [
     {
+      "title": "[SALE] Beeline Icon pack is on sale!",
+      "description": "Upto 60% off, depending on country, check it now!",
+      "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_91.jpg",
+      "authorname":"Asad"
+    },
+    {
       "title": "Ilusionista Home UI For KLWP Is Now LIVE",
       "description": "Go Check It Out!!",
       "url": "https://play.google.com/store/apps/details?id=ilusionistahomeuiforklwp.kustom.pack",
@@ -1077,6 +1084,20 @@
     }
   ],
   "icons": [
+        {
+      "title": "[UPDATE]Layers Icon pack first Update is live now!",
+      "description": "Added 35 new icons, check it now!",
+      "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_92.jpg",
+      "authorname":"Asad"
+    },
+    {
+      "title": "[SALE] Beeline Icon pack is on sale!",
+      "description": "Upto 60% off, depending on country, check it now!",
+      "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_91.jpg",
+      "authorname":"Asad"
+    },
     {
       "title": "Fluidity 3.2 is rolling out!",
       "description": "iOS icons are included in this update. Download Now.",
