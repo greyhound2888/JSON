@@ -1074,7 +1074,14 @@
     }
   ],
   "icons": [
-        {
+    {
+      "title": "Darko & Darko 2 icon packs are free for limited time",
+      "description": "Check it now!",
+      "url": "https://play.google.com/store/apps/developer?id=PhunktasticDesigns",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_93.jpg",
+      "authorname":"RaJ"
+    }, 
+    {
       "title": "[UPDATE]Layers Icon pack first Update is live now!",
       "description": "Added 35 new icons, check it now!",
       "url": "https://play.google.com/store/apps/details?id=com.sreerag.layers",
@@ -1662,6 +1669,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "One4KWGT Reloaded got an update",
+      "description": "5 new widgets and 4 weather komponents",
+      "url": "https://t.co/8ALbW1VB28?amp=1",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_111.jpg",
+      "authorname":"RaJ"
+    },
     {
       "title": "Update for iOS widgets is live on the Play Store!",
       "description": "Added new spotify and dark google widget [Total 59 widgets]",
