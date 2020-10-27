@@ -220,7 +220,28 @@
       "authorname":"Kirtan Patel"
     }
   ],
-  "wallpapers": [
+  "wallpapers": [ 
+    {
+      "title": "New Walls In Whalepapers Pro",
+      "description": "Three New Amoled Abstract Walls Added",
+      "url": "https://twitter.com/iambavith/status/1320920334980186113?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_144.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "News Walls Available In Abstruct App",
+      "description": "OnePlus Nord N10 & N100 Walls Added",
+      "url": "https://twitter.com/hampusolsson/status/1320765514017361920?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_143.png",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Exclusive Walls For Patreon Users",
+      "description": "Four New Walls Added In Eve Walls Collection",
+      "url": "https://twitter.com/mhcharlee/status/1320789805656117248?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_142.jpg",
+      "authorname": "Abhi Saha"
+    },
     {
       "title": "A new update arrives to the Flow collection!",
       "description": "5 new gradient walls are now available on the app",
