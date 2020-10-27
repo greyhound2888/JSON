@@ -24,7 +24,7 @@
   ],
   "news": [
     {
-      "title": "Aphemis KWGT New Update is Live!!",
+      "title": "Aphemis KWGT Update is Live!!",
       "description": "3 New Widgets Added (Total 36 Widgets)",
       "url": "https://bit.ly/AphemisKWGT",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_112.jpg",
@@ -1117,6 +1117,20 @@
   ],
   "icons": [
     {
+      "title": "Pix Minimal Black/ White On Sale!!",
+      "description": "Upto 50% off for the limited time depend upon your country",
+      "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixminimal.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_94.png",
+      "authorname":"Abhi Saha"
+    }, 
+    {
+      "title": "Darko & Darko 2 icon packs are free for limited time",
+      "description": "Check it now!",
+      "url": "https://play.google.com/store/apps/developer?id=PhunktasticDesigns",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_93.jpg",
+      "authorname":"RaJ"
+    }, 
+    {
       "title": "Darko & Darko 2 icon packs are free for limited time",
       "description": "Check it now!",
       "url": "https://play.google.com/store/apps/developer?id=PhunktasticDesigns",
@@ -1710,7 +1724,7 @@
   ],
   "widgets": [
     {
-      "title": "Aphemis KWGT New Update is Live!!",
+      "title": "Aphemis KWGT Update is Live!!",
       "description": "3 New Widgets Added (Total 36 Widgets)",
       "url": "https://bit.ly/AphemisKWGT",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_112.jpg",
