@@ -1753,7 +1753,21 @@
   ],
   "widgets": [
     {
-      "title": "Aphemis KWGT Update is Live!!",
+      "title": "Pineapple KWGT Weekly Update is Live!!",
+      "description": "Widget pack updated to Version 4.6",
+      "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_114.jpg",
+      "authorname":"Abhi Saha"
+    },
+    {
+      "title": "Saturn KWGT Update Is Live!!",
+      "description": "5 New Halloween Style Widgets (Total 100 Widgets)",
+      "url": "https://play.google.com/store/apps/details?id=saturnkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_113.jpg",
+      "authorname":"Abhi Saha"
+    },
+    {
+      "title": "Aphemis KWGT Update Is Live!!",
       "description": "3 New Widgets Added (Total 36 Widgets)",
       "url": "https://bit.ly/AphemisKWGT",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_112.jpg",
