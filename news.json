@@ -23,6 +23,13 @@
     }
   ],
   "news": [
+     {
+      "title": "Niagara Launcher got an Update!",
+      "description": "This update polishes Niagara even further to get one step closer to leaving Early Access",
+      "url": "https://medium.com/niagara-launcher/design-update-fresher-cleaner-3593149dbfbb",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_145.png",
+      "authorname": "Yudha"
+    },
     {
       "title": "Aphemis KWGT Update is Live!!",
       "description": "3 New Widgets Added (Total 36 Widgets)",
