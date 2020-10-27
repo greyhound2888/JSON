@@ -236,6 +236,13 @@
   ],
   "wallpapers": [ 
     {
+      "title": "New Walls added to Wallipop",
+      "description": "Check em out now!",
+      "url": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_147.jpg",
+      "authorname": "Yudha"
+    },
+    {
       "title": "New Free Live Walls 'Hiped' by Nishant",
       "description": "Hiped has a total of 10 variants to use freely for personal & commercial use",
       "url": "https://twitter.com/code_krta_hu/status/1321056786636361730?s=20",
@@ -1137,6 +1144,14 @@
     }
   ],
   "icons": [
+     {
+      "title": "Nyon Icon Pack Is On Sale and is updated",
+      "description": "Check It Now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.lknninex.nyon",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_96.png",
+      "authorname":"Yudha"
+    },
+
     {
       "title": "[SALE] Caelus Icon Pack Is On Sale",
       "description": "Sale Ends In 4 days, Check It Now!!",
@@ -1752,6 +1767,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "GeM KWGT Update is Live",
+      "description": "10 new widgets added!",
+      "url": "https://play.google.com/store/apps/details?id=com.gemkwgtbyahmad.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_116.jpg",
+      "authorname":"Yudha"
+    },
     {
       "title": "Pineapple KWGT Weekly Update is Live!!",
       "description": "Widget pack updated to Version 4.6",
@@ -2472,6 +2494,13 @@
     }
   ],
   "klwp": [
+      {
+      "title": "Morphe Klwp is coming Soon",
+      "description": "Neumorphism inspired Minimal looking wallpaper. Stay tuned!",
+      "url": "https://twitter.com/VigneshVickyGVK/status/1320940058413654016?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_26.jpg",
+      "authorname":"Yudha"
+    },
     {
       "title": "Ilusionista Home UI For KLWP Is Now LIVE",
       "description": "Go Check It Out!!",
