@@ -23,6 +23,27 @@
     }
   ],
   "news": [
+    {
+      "title": "New Update for Elements KWGT is LIVE",
+      "description": "2 New Widgets Added (Total 137 Widgets Now)",
+      "url": "https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_118.png",
+      "authorname":"Subham Saha"
+    },
+    {
+      "title": "[SALE] Pix Material is Now on SALE",
+      "description": "Pix Material will be on sale with 40% discount on 28-29 october",
+      "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_97.jpg",
+      "authorname":"RaJ"
+    },
+    {
+      "title": "WallLet Walls Update",
+      "description": "15 New Walls Added (Total 170+ Walls Now In The App)",
+      "url": "https://twitter.com/tailoristic/status/1321012144599494656?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_145.jpg",
+      "authorname": "Abhi Saha"
+    },
      {
       "title": "Niagara Launcher got an Update!",
       "description": "This update polishes Niagara even further to get one step closer to leaving Early Access",
@@ -1199,13 +1220,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixminimal.iconpack",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_94.png",
       "authorname":"Abhi Saha"
-    }, 
-    {
-      "title": "Darko & Darko 2 icon packs are free for limited time",
-      "description": "Check it now!",
-      "url": "https://play.google.com/store/apps/developer?id=PhunktasticDesigns",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_93.jpg",
-      "authorname":"RaJ"
     }, 
     {
       "title": "Darko & Darko 2 icon packs are free for limited time",
