@@ -236,8 +236,22 @@
   ],
   "wallpapers": [ 
     {
-      "title": "New Walls added to Wallipop",
-      "description": "Check em out now!",
+      "title": "New Wallpapers added in Unusual Wallpapers",
+      "description": "Check them out now!",
+      "url": "https://twitter.com/akinhd/status/1321294173409038338?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_149.png",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "New Wallpapers added in Wallsy",
+      "description": "4 New Abstract walls added. Check them out !",
+      "url": "https://twitter.com/SK_wallpapers_/status/1321278261310214146?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_148.png",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "New Walls added in Wallipop",
+      "description": "Check them out now!",
       "url": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_147.jpg",
       "authorname": "Yudha"
@@ -1145,7 +1159,21 @@
   ],
   "icons": [
     {
-      "title": "[SALE] Pix Material",
+      "title": "[Upcoming] New Icon Pack is coming soon by FL Design",
+      "description": "Drop a name suggestion !",
+      "url": "https://twitter.com/FLDesign5/status/1321136000387686402?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_99.png",
+      "authorname":"Subham Saha"
+    }, 
+    {
+      "title": "[SALE] Nova and Nova Dark Icon Packs are now on SALE",
+      "description": "Check them out now !",
+      "url": "https://play.google.com/store/apps/dev?id=7550572979310204381",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_98.png",
+      "authorname":"Subham Saha"
+    }, 
+    {
+      "title": "[SALE] Pix Material is Now on SALE",
       "description": "Pix Material will be on sale with 40% discount on 28-29 october",
       "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_97.jpg",
@@ -1773,9 +1801,16 @@
   ],
   "widgets": [
     {
-      "title": "[Update] Inspire KWGT",
-      "description": "weekly update of Inspire KWGT",
-      "url": "https://t.co/u5quotxCjB?amp=1",
+      "title": "New Update for Elements KWGT is LIVE",
+      "description": "2 New Widgets Added (Total 137 Widgets Now)",
+      "url": "https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_118.png",
+      "authorname":"Subham Saha"
+    },
+    {
+      "title": "New Update of Inspire KWGT is LIVE on PlayStore",
+      "description": "3 New Widgets Added (Total 197 Widgets Now)",
+      "url": "https://play.google.com/store/apps/details?id=inspire.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_117.jpg",
       "authorname":"RaJ"
     },
