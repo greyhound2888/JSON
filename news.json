@@ -1144,14 +1144,20 @@
     }
   ],
   "icons": [
-     {
+    {
+      "title": "[SALE] Pix Material",
+      "description": "Pix Material will be on sale with 40% discount on 28-29 october",
+      "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_97.png",
+      "authorname":"RaJ"
+    }, 
+    {
       "title": "Nyon Icon Pack Is On Sale and is updated",
       "description": "Check It Now!!",
       "url": "https://play.google.com/store/apps/details?id=com.lknninex.nyon",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_96.png",
       "authorname":"Yudha"
     },
-
     {
       "title": "[SALE] Caelus Icon Pack Is On Sale",
       "description": "Sale Ends In 4 days, Check It Now!!",
@@ -1159,7 +1165,6 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_95.jpg",
       "authorname":"Kirtan Patel"
     },
-
     {
       "title": "Pix Minimal Black/ White On Sale!!",
       "description": "Upto 50% off for the limited time depend upon your country",
@@ -1767,6 +1772,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[Update} Inpire KWGT",
+      "description": "weekly update of Inpire KWGT",
+      "url": "https://t.co/u5quotxCjB?amp=1",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_117.png",
+      "authorname":"RaJ"
+    },
     {
       "title": "GeM KWGT Update is Live",
       "description": "10 new widgets added!",
