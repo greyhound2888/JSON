@@ -23,19 +23,40 @@
     }
   ],
   "news": [
-    {
-      "title": "New Update for Elements KWGT is LIVE",
-      "description": "2 New Widgets Added (Total 137 Widgets Now)",
-      "url": "https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
-      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_118.png",
-      "authorname":"Subham Saha"
+     {
+      "title": "Gradient Icon Pack Is Free for the limited time!!",
+      "description": "Free Till Midnight. Don't miss the chance.",
+      "url": "https://play.google.com/store/apps/details?id=com.vexcode.gradient",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_104.jpg",
+      "authorname":"Abhi Saha"
+    },
+     {
+      "title": "Bilfy Icon Pack Update is Live!!",
+      "description": "28 New Icons Added (Total 980+ Icons Now)",
+      "url": "https://bit.ly/Bilfy",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_103.jpg",
+      "authorname":"Abhi Saha"
+    },
+     {
+      "title": "BeeLine Icon Pack Giveaway",
+      "description": "30 codes will be giving away & right now it is on sale as well",
+      "url": "https://twitter.com/HeyAlphaOne/status/1321498222041264128?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_101.jpg",
+      "authorname":"Abhi Saha"
     },
     {
-      "title": "[SALE] Pix Material is Now on SALE",
-      "description": "Pix Material will be on sale with 40% discount on 28-29 october",
-      "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_97.jpg",
-      "authorname":"RaJ"
+      "title": "Pix Material Colors & Pix Material Dark Icons are on Sale!!",
+      "description": "Upto 40% off between Oct. 29 to 31",
+      "url": "https://twitter.com/pashapuma1/status/1321587824039239680?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_102.jpg",
+      "authorname":"Abhi Saha"
+    },
+    {
+      "title": "BeeLine Icon Pack Giveaway",
+      "description": "30 codes will be giving away & right now it is on sale as well",
+      "url": "https://twitter.com/HeyAlphaOne/status/1321498222041264128?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_101.jpg",
+      "authorname":"Abhi Saha"
     },
     {
       "title": "WallLet Walls Update",
@@ -1186,6 +1207,13 @@
     }
   ],
   "icons": [
+     {
+      "title": "New Icon Coming from One4Studio",
+      "description": "Suggest name of the icon pack to win one code",
+      "url": "https://twitter.com/One4Studio/status/1321520871467552768?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_105.png",
+      "authorname":"Abhi Saha"
+    },
     {
       "title": "Gradient Icon Pack Is Free for the limited time!!",
       "description": "Free Till Midnight. Don't miss the chance.",
@@ -1863,7 +1891,6 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_119.jpg",
       "authorname":"Kirtan Patel"
     },
-
     {
       "title": "New Update for Elements KWGT is LIVE",
       "description": "2 New Widgets Added (Total 137 Widgets Now)",
