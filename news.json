@@ -257,9 +257,16 @@
   ],
   "wallpapers": [ 
     {
-      "title": "New Wallpapers added in Unusual Wallpapers",
+      "title": "New Wallpapers added in ",
       "description": "Check them out now!",
       "url": "https://twitter.com/akinhd/status/1321294173409038338?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_50.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "New Wallpapers added in Unusual Wallpapers",
+      "description": "Check them out now!",
+      "url": "https://twitter.com/MathyWallrod/status/1321623603536953344?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_149.png",
       "authorname": "Subham Saha"
     },
@@ -1189,7 +1196,7 @@
      {
       "title": "Bilfy Icon Pack Update is Live!!",
       "description": "28 New Icons Added (Total 980+ Icons Now)",
-      "url": "https://bit.ly/bilfy",
+      "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_103.jpg",
       "authorname":"Abhi Saha"
     },
