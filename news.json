@@ -1097,14 +1097,20 @@
   ],
   "icons": [
     {
+      "title": "Selene icon pack got an update",
+      "description": "Added 50 new icons",
+      "url": "https://t.co/a18ud4kabK?amp=1",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_110.jpg",
+      "authorname":"RaJ"
+    },
+    {
       "title": "CreamyPro Icon Pack Is Coming",
       "description": "It Will Be LIVE On Playstore Very Soon",
       "url": "https://twitter.com/asn360/status/1322082434574282753?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_109.jpg",
       "authorname":"Kirtan Patel"
     },
-
-     {
+    {
       "title": "New Google icons in Pix Material",
       "description": "Update soon!",
       "url": "https://twitter.com/pashapuma1/status/1322052236902543360?s=20",
@@ -1125,8 +1131,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_106.jpg",
       "authorname":"Kirtan Patel"
     },
-
-     {
+    {
       "title": "New Icon Pack 'Aline' Coming from One4Studio",
       "description": "We've to wait to for a month for the initial release",
       "url": "https://twitter.com/One4Studio/status/1321520871467552768?s=20",
@@ -1140,14 +1145,14 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_104.jpg",
       "authorname":"Abhi Saha"
     },
-     {
+    {
       "title": "Bilfy Icon Pack Update is Live!!",
       "description": "28 New Icons Added (Total 980+ Icons Now)",
       "url": "https://bit.ly/Bilfy",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_103.jpg",
       "authorname":"Abhi Saha"
     },
-     {
+    {
       "title": "Pix Material Colors & Pix Material Dark Icons are on Sale!!",
       "description": "Upto 40% off between Oct. 29 to 31",
       "url": "https://twitter.com/pashapuma1/status/1321587824039239680?s=20",
@@ -1804,6 +1809,13 @@
   ],
   "widgets": [
     {
+      "title": "Weekly Update for Vanilla KWGT is live now!",
+      "description": "Added 5 new widgets",
+      "url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_126.jpg",
+      "authorname": "RaJ"
+    },
+    {
       "title": "Weekly Update for Lucent KWGT is live now!",
       "description": "Added 3 new widgets, total count 133 now.",
       "url": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
@@ -1824,14 +1836,14 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_123.jpg",
       "authorname": "Abhi Saha"
     },
-     {
+    {
       "title": "MoonLight KWGT Weekly Update is Here!!",
       "description": "3 New Widgets Added (Total 74 Widgets)",
       "url": "https://play.google.com/store/apps/details?id=com.ishaan.moonlightkwgt",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_122.jpg",
       "authorname": "Abhi Saha"
     },
-     {
+    {
       "title": "Koda For Kustom Update is Live!!",
       "description": "3 New Widgets Added in this Update",
       "url": "https://play.google.com/store/apps/details?id=kodaforkustom.droidbeauty.pack",
