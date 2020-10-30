@@ -1895,6 +1895,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "New Update of Scorpion KWGT",
+      "description": "Added 5 New Widgets (100 Widgets in Total)",
+      "url": "https://play.google.com/store/apps/details?id=scorpionkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_123.jpg",
+      "authorname": "Abhi Saha"
+    },
      {
       "title": "MoonLight KWGT Weekly Update is Here!!",
       "description": "3 New Widgets Added (Total 74 Widgets)",
