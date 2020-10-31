@@ -38,8 +38,16 @@
     }
   ],
   "news": [
-   
     
+    
+     {
+      "title": "A new Cream KWGT pack is comming soon",
+      "description": " A new beautiful minimal widgets pack is on the way, check it now! ",
+      "url": "https://twitter.com/LOKESHCHAUHAN78/status/1322522919021412353?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_129.jpg",
+      "authorname":"Asad Ali"
+    },
+       
     {
       "title": "[GIVEAWAY] 3 More Apps added for BitLit MEGA GIVEAWAY",
       "description": "Check out for more info !!!",
@@ -276,6 +284,13 @@
    
   ],
   "icons": [
+     {
+      "title": "Minka Dark Icon pack is Free for limited time!",
+      "description": "Check it now!",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.minkad",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_112.jpg",
+      "authorname":"Asad Ali"
+    },
     {
       "title": "Nebula Icon pack Update is live now!",
       "description": "Added 45 new icons, total count 1280 now",
@@ -440,6 +455,14 @@
     
   ],
   "widgets": [
+     {
+      "title": "A new Cream KWGT pack is comming soon",
+      "description": " A new beautiful minimal widgets pack is on the way, check it now! ",
+      "url": "https://twitter.com/LOKESHCHAUHAN78/status/1322522919021412353?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_129.jpg",
+      "authorname":"Asad Ali"
+    },
+    
      {
       "title": "Orca for KWGT update is live now!",
       "description": "Added 3 new widgets,  check it now",
