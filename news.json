@@ -308,6 +308,20 @@
   ],
   "icons": [
     {
+      "title": "Sweet Icon Pack Is Live!!",
+      "description": "Initial Release",
+      "url": "https://play.google.com/store/apps/details?id=com.fldesign.sweet.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_117.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "WLIP Icon Pack Update",
+      "description": "100 New Icons Added",
+      "url": "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_116.png",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "Gelatine V1.2.1 update is live now",
       "description": "Added 66 new icons",
       "url": "https://play.google.com/store/apps/details?id=izzl.gelatine.pack",
