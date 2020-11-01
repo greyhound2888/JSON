@@ -1,67 +1,21 @@
 {
   "highlights": [
-
      {
-      "title": "31 Oct Giveaway",
-      "description": "",
-      "url": "https://twitter.com/BitLit5/status/1322428131412594688?s=20",
-      "image": "https://github.com/greyhound2888/BitLit-Giveaways/raw/main/day22.jpg",
-      "authorname":"Abhi Saha"
-    },
-    {
-      "title": "Rishi Bafna Giveaway",
-      "description": "",
-      "url": "https://twitter.com/RshBfn/status/1322160547119337472?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/gaway_3.jpg",
-      "authorname":"Asad Ali"
-    },
-    {
-      "title": "BeeLine Icon Pack Giveaway",
-      "description": "30 codes will be giving away & right now it is on sale as well",
-      "url": "https://twitter.com/HeyAlphaOne/status/1321498222041264128?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_101.jpg",
-      "authorname":"Abhi Saha"
-    },
-     {
-      "title": "Bilfy Icon Pack Update is Live!!",
-      "description": "28 New Icons Added (Total 980+ Icons Now)",
-      "url": "https://bit.ly/Bilfy",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_103.jpg",
-      "authorname":"Abhi Saha"
-    },
-    {
-      "title": "Dove Icon Packs Are Now Available",
-      "description": "Initial Release With 2400+ Icons. Check Them Out!!",
-      "url": "https://play.google.com/store/apps/details?id=com.jndapp.dove.iconpack",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_89.jpg",
-      "authorname":"Kirtan Patel"
-    }
-  ],
-  "news": [
-    
-    
-     {
-      "title": "A new Cream KWGT pack is comming soon",
-      "description": " A new beautiful minimal widgets pack is on the way, check it now! ",
-      "url": "https://twitter.com/LOKESHCHAUHAN78/status/1322522919021412353?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_129.jpg",
-      "authorname":"Asad Ali"
-    },
-       
-    {
-      "title": "[GIVEAWAY] 3 More Apps added for BitLit MEGA GIVEAWAY",
-      "description": "Check out for more info !!!",
-      "url": "https://twitter.com/BitLit5/status/1322009851258576896?s=20",
-      "image": "https://github.com/greyhound2888/BitLit-Giveaways/raw/main/bitlit_02.jfif",
-      "authorname": "Subham Saha"
-    },
-    {
       "title": "[GIVEAWAY] BitLit MEGA GIVEAWAY starts Today (30th Oct - 6th Nov)",
       "description": "Check out for more info !!!",
       "url": "https://twitter.com/BitLit5/status/1321800843696369664?s=20",
       "image": "https://github.com/greyhound2888/BitLit-Giveaways/raw/main/bitlit_01.jfif",
       "authorname": "Subham Saha"
     },
+    {
+      "title": "[GIVEAWAY] 3 More Apps added for BitLit MEGA GIVEAWAY",
+      "description": "Check out for more info !!!",
+      "url": "https://twitter.com/BitLit5/status/1322009851258576896?s=20",
+      "image": "https://github.com/greyhound2888/BitLit-Giveaways/raw/main/bitlit_02.jfif",
+      "authorname": "Subham Saha"
+    }
+  ],
+  "news": [  
     {
       "title": "Hera Icon Pack Is On SALE",
       "description": "Upto 50% Off For The Limited Time, Depend Upon Your Country",
@@ -83,19 +37,19 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_105.png",
       "authorname":"Abhi Saha"
     },
-    {
-      "title": "Pix Material Colors & Pix Material Dark Icons are on Sale!!",
-      "description": "Upto 40% off between Oct. 29 to 31",
-      "url": "https://twitter.com/pashapuma1/status/1321587824039239680?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_102.jpg",
-      "authorname":"Abhi Saha"
+     {
+      "title": "[SALE] Beeline Icon pack is on sale!",
+      "description": "Upto 60% off, depending on country, check it now!",
+      "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_91.jpg",
+      "authorname":"Asad"
     },
-    {
-      "title": "WallLet Walls Update",
-      "description": "15 New Walls Added (Total 170+ Walls Now In The App)",
-      "url": "https://twitter.com/tailoristic/status/1321012144599494656?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_145.jpg",
-      "authorname": "Abhi Saha"
+     {
+      "title": "Bilfy Icon Pack Update is Live!!",
+      "description": "28 New Icons Added (Total 980+ Icons Now)",
+      "url": "https://bit.ly/Bilfy",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_103.jpg",
+      "authorname":"Abhi Saha"
     },
     {
       "title": "Niagara Launcher got an Update!",
@@ -111,13 +65,14 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_112.jpg",
       "authorname":"Abhi Saha"
     },
-    {
-      "title": "[SALE] Beeline Icon pack is on sale!",
-      "description": "Upto 60% off, depending on country, check it now!",
-      "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_91.jpg",
-      "authorname":"Asad"
+      {
+      "title": "WallLet Walls Update",
+      "description": "15 New Walls Added (Total 170+ Walls Now In The App)",
+      "url": "https://twitter.com/tailoristic/status/1321012144599494656?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_145.jpg",
+      "authorname": "Abhi Saha"
     }
+   
   ],
   "wallpapers": [
     {
