@@ -137,6 +137,13 @@
     } 
   ],
   "wallpapers": [
+  {
+      "title": "New walls are added in Wallspaper!",
+      "description": "Added 4 new illustration Wallpapers, check it now!",
+      "url": "https://twitter.com/wallspaper2020/status/1323224617230557184?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_169.jpg",
+      "authorname": "Asad Ali"
+    },
     {
       "title": "New Walls Added In Prism Wallpapers",
       "description": "Dropped Amazing OnePlus Trails Wallpaper Collection in the Prism.",
@@ -804,6 +811,13 @@
     }
   ],
   "klwp": [
+     {
+      "title": "Polymer KLWP got an Update",
+      "description": "A new 3 page preset called kuty is introduced, check ot now!",
+      "url": "https://play.google.com/store/apps/details?id=emplexx.polymer",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_32.jpg",
+      "authorname": "Asad"
+    },
     {
       "title": "Halloween KLWP in Passion UI pack",
       "description": "Try it now!",
@@ -812,7 +826,7 @@
       "authorname": "RaJ"
     },
     {
-      "title": "New Preset Added In DashCards KLWP",
+      "title": "New Preset added in DashCards KLWP",
       "description": "QRIB - 3 page preset Added",
       "url": "https://play.google.com/store/apps/details?id=dashcards.grabsterstudios",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_30.jpg",
