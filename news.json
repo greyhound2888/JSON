@@ -24,6 +24,13 @@
       "authorname": "Abhi Saha"
     },
     {
+      "title": "Cream KWGT is LIVE",
+      "description": "Intial Release with 50 Widgets, Go get it!!",
+      "url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_137.jpg",
+      "authorname":"Kirtan Patel"
+    },
+    {
       "title": "BeeLine Icon Pack is on SALE",
       "description": "Sale ends in 17 hours, Go grab the deal",
       "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
@@ -579,6 +586,14 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Cream KWGT is LIVE",
+      "description": "Intial Release with 50 Widgets, Go get it!!",
+      "url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_137.jpg",
+      "authorname":"Kirtan Patel"
+    },
+
     {
       "title": "Cream KWGT Is Live On PlayStore",
       "description": "Beautifully Designed Minimal Widget Pack by Lokesh Sir",
