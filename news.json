@@ -16,6 +16,13 @@
     }
   ],
   "news": [
+   {
+      "title": "Like KWGT is Live now, get it now!",
+      "description": "Realeased with 30 widgets, check it now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.likekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_139.jpg",
+      "authorname": "Asad Ali"
+    },
     {
       "title": "[GIVEAWAY] Schedule for Today Evening Giveaway (6 PM IST)",
       "description": "Click to checkout Details",
@@ -545,6 +552,27 @@
     }
   ],
   "widgets": [
+   {
+      "title": "New Update for Circus Kwgt Is rolling out now!",
+      "description": "Added 5 new widgets, check it now!!",
+      "url": "https://play.google.com/store/apps/details?id=circusforkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_140.jpg",
+      "authorname": "Asad Ali"
+    },
+    {
+      "title": "Like KWGT is Live now, get it now!",
+      "description": "Realeased with 30 widgets, check it now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.likekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_139.jpg",
+      "authorname": "Asad Ali"
+    },
+   {
+      "title": "Weekly Update for Burn KWGT is live now!",
+      "description": "Added 2 new widgets, total 33 widgets now!!",
+      "url": "http://play.google.com/store/apps/details?id=com.ishaan.burnkwgt",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_138.jpg",
+      "authorname": "Asad Ali"
+    },
     {
       "title": "10 Promo Codes Giveaway of MyWidgets Kwgt",
       "description": "Codes will go LIVE at 6PM (IST)",
