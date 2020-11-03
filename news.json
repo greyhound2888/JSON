@@ -579,6 +579,14 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Aleria KWGT Gets An Update",
+      "description": "6 new Widgets are Added(Total 55 Widgets Now)",
+      "url": "https://play.google.com/store/apps/details?id=dev.widgetology.aleria",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_141.jpg",
+      "authorname":"Kirtan Patel"
+    },
+
    {
       "title": "New Update for Circus Kwgt Is rolling out now!",
       "description": "Added 5 new widgets, check it now!!",
