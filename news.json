@@ -16,19 +16,33 @@
     }
   ],
   "news": [
+    {
+      "title": "[GIVEAWAY] Schedule for Today Afternoon Giveaway (4 PM IST)",
+      "description": "Click to checkout Details",
+      "url": "https://twitter.com/BitLit5/status/1323516011631370242?s=20",
+      "image": "https://pbs.twimg.com/media/El4SzCUXIAEmCe8?format=jpg&name=large",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "New Walls are Added To Whalepapers Pro",
+      "description": "Go Get it now!!",
+      "url": "https://twitter.com/iambavith/status/1323498628997091328?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_171.jpg",
+      "authorname":"Kirtan Patel"
+    },
+    {
+      "title": "Gelatine Icon Pack is coming",
+      "description": "It will be LIVE on Playstore Soon",
+      "url": "https://twitter.com/Myscreenie_com/status/1323253754137845760?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_124.jpg",
+      "authorname":"Kirtan Patel"
+    },
    {
       "title": "Like KWGT is Live now, Check it now!",
       "description": "Released with 30 minimal widgets!",
       "url": "https://play.google.com/store/apps/details?id=com.likekwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_139.jpg",
       "authorname": "Asad Ali"
-    },
-    {
-      "title": "[GIVEAWAY] Schedule for Today Evening Giveaway (6 PM IST)",
-      "description": "Click to checkout Details",
-      "url": "https://twitter.com/BitLit5/status/1323211292274905089?s=20",
-      "image": "https://pbs.twimg.com/media/Elz9qDiXgAUMexC?format=jpg&name=large",
-      "authorname": "Subham Saha"
     },
     {
       "title": "2K Special Giveaway by Rishi Bafna",
@@ -137,13 +151,6 @@
     } 
   ],
   "wallpapers": [
-    {
-      "title": "10 Promo Codes Giveaway of WhalePapers Pro",
-      "description": "Codes will go LIVE at 11 PM (IST)",
-      "url": "https://docs.google.com/document/d/1bSaLDGbbkBRAj7YH1LzgnUcBpS0pNw1TkMAHh478Y4A/edit?usp=sharing",
-      "image": "https://github.com/greyhound2888/BitLit-Giveaways/raw/main/whale.png",
-      "authorname": "Subham Saha"
-    },
     {
       "title": "New Walls are Added To Whalepapers Pro",
       "description": "Go Get it now!!",
@@ -856,13 +863,6 @@
     }
   ],
   "klwp": [
-    {
-      "title": "10 Promo Codes Giveaway of Gradjent KLWP",
-      "description": "Codes will go LIVE at 11 PM (IST)",
-      "url": "https://docs.google.com/document/d/1mbXWZJMwXkQNAyWdGpF5RlzJUtFVW8Z8cbFqw3fcxTU/edit?usp=sharing",
-      "image": "https://github.com/greyhound2888/BitLit-Giveaways/raw/main/grad.png",
-      "authorname": "Subham Saha"
-    },
      {
       "title": "Polymer KLWP got an Update",
       "description": "A new 3 page preset called kuty is introduced, check ot now!",
