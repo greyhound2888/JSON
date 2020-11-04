@@ -21,7 +21,7 @@
       "description": "Upload your homescreen on Myscreenie and win",
       "url": "https://twitter.com/Myscreenie_com/status/1323631327665655809?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_126.jpg",
-      "authorname":"RaJ"
+      "authorname": "RaJ"
     },
     {
       "title": "[GIVEAWAY] Schedule for Today Afternoon Giveaway (4 PM IST)",
@@ -35,14 +35,14 @@
       "description": "Go Get it now!!",
       "url": "https://twitter.com/iambavith/status/1323498628997091328?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_171.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "Gelatine Icon Pack Contest is coming soon by Myscreenie",
       "description": "Stay tuned",
       "url": "https://twitter.com/Myscreenie_com/status/1323253754137845760?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_124.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "Like KWGT is Live now, Check it now!",
@@ -63,28 +63,28 @@
       "description": "Intial Release with 50 Widgets, Go get it!!",
       "url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_137.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "Nova Dark Icon Pack is on SALE",
       "description": "Sale ends in 3 days, Check it now!!",
       "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_121.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "BeeLine Icon Pack is on SALE",
       "description": "Sale ends in 17 hours, Go grab the deal",
       "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_119.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "LineX Icon Pack is on SALE",
       "description": "Go grab it before the Sale ends",
       "url": "https://play.google.com/store/apps/details?id=com.jndapp.line.x.iconpack",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_120.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "A new KWGT pack call Like KWGT is submitted!",
@@ -155,7 +155,7 @@
       "url": "https://bit.ly/Bilfy",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_103.jpg",
       "authorname": "Abhi Saha"
-    } 
+    }
   ],
   "wallpapers": [
     {
@@ -170,14 +170,14 @@
       "description": "Go Get it now!!",
       "url": "https://twitter.com/iambavith/status/1323498628997091328?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_171.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "Typography Walls are added to Wallipop",
       "description": "Go Check Them Now!!",
       "url": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_170.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "New walls are added in Wallspaper!",
@@ -191,14 +191,14 @@
       "description": "Dropped Amazing OnePlus Trails Wallpaper Collection in the Prism.",
       "url": "https://twitter.com/PrismWallpapers/status/1323187123336273922?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_168.jpg",
-      "authorname":"Monesh Rathod"
+      "authorname": "Monesh Rathod"
     },
     {
       "title": "Walls By Arijit",
       "description": "4 Gradient Walls, check 'em now!!",
       "url": "https://twitter.com/arijitbasak_23/status/1323146707073314816?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_167.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
 
     {
@@ -351,32 +351,46 @@
   ],
   "icons": [
     {
+      "title": "Gradient Icon Pack Update",
+      "description": "The addition of 35 new icons with this update",
+      "url": "https://play.google.com/store/apps/details?id=com.vexcode.gradient",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_129.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Olympia Icon Pack Update",
+      "description": "The addition of 100 new icons with this update",
+      "url": "https://play.google.com/store/apps/details?id=com.gomothegom.olympia",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_128.jfif",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "Aline icon pack is coming soon",
       "description": "200 icons is done for now: it will release with atleast 700-800 icons",
       "url": "https://twitter.com/vukandric/status/1323651926899216389?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_127.jpg",
-      "authorname":"RaJ"
+      "authorname": "RaJ"
     },
     {
       "title": "Gelatine icon pack giveaway is live now",
       "description": "Upload your homescreen on Myscreenie and win",
       "url": "https://twitter.com/Myscreenie_com/status/1323631327665655809?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_126.jpg",
-      "authorname":"RaJ"
+      "authorname": "RaJ"
     },
     {
       "title": "Sonnambula Icon Pack Gets An Update",
       "description": "This update brings 100+ icons, check it now!!",
       "url": "https://play.google.com/store/apps/details?id=com.panotogomo.sonnambula",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_125.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "Gelatine Icon Pack Contest is coming soon by Myscreenie",
       "description": "Stay tunned!",
       "url": "https://twitter.com/Myscreenie_com/status/1323253754137845760?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_124.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "Athena and Athena Dark got an update",
@@ -384,41 +398,41 @@
       "url": "https://twitter.com/One4Studio/status/1323296380018954240?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_123.jpg",
       "authorname": "RaJ"
-    },    
+    },
     {
       "title": "CreamyPro Iconpacks : Available Now in Playstore",
       "description": "Go Get It!!",
       "url": "https://play.google.com/store/apps/details?id=com.creamyproiconpack",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_122.jpg",
-      "authorname":"Monesh Rathod"
+      "authorname": "Monesh Rathod"
     },
     {
       "title": "Nova Dark Icon Pack is on SALE",
       "description": "Sale ends in 3 days, Check it now!!",
       "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_121.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "LineX Icon Pack is on SALE",
       "description": "Go grab it before the Sale ends",
       "url": "https://play.google.com/store/apps/details?id=com.jndapp.line.x.iconpack",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_120.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "BeeLine Icon Pack is on SALE",
       "description": "Sale ends in 17 hours, Go grab the deal",
       "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_119.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "Baked Icon Pack is on SALE",
       "description": "Sale ends in 6 days, check it now",
       "url": "https://play.google.com/store/apps/details?id=dark.pie.icons.ddt",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_118.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "Sweet Icon Pack Is Live!!",
@@ -625,7 +639,7 @@
     }
   ],
   "widgets": [
-   {
+    {
       "title": "New Update for Mizu KWGT is live now!",
       "description": "Added 10 new minimal widgets, check it now!",
       "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
@@ -644,14 +658,14 @@
       "description": "3 new Widgets Are Added(Total 200 Widgets Now)",
       "url": "https://play.google.com/store/apps/details?id=inspire.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_142.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "Aleria KWGT Gets An Update",
       "description": "6 new Widgets are Added(Total 55 Widgets Now)",
       "url": "https://play.google.com/store/apps/details?id=dev.widgetology.aleria",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_141.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "New Update for Circus Kwgt Is rolling out now!",
@@ -679,7 +693,7 @@
       "description": "Intial Release with 50 Widgets, Go get it!!",
       "url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_137.jpg",
-      "authorname":"Kirtan Patel"
+      "authorname": "Kirtan Patel"
     },
     {
       "title": "Cream KWGT Is Live On PlayStore",
@@ -900,7 +914,7 @@
       "image": "https://github.com/greyhound2888/BitLit-Giveaways/raw/main/morphe.png",
       "authorname": "Subham Saha"
     },
-     {
+    {
       "title": "Polymer KLWP got an Update",
       "description": "A new 3 page preset called kuty is introduced, check ot now!",
       "url": "https://play.google.com/store/apps/details?id=emplexx.polymer",
