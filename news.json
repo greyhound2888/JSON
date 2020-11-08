@@ -132,6 +132,13 @@
   ],
   "wallpapers": [
     {
+      "title": "New walls added in Unusual Wallpapers" ,
+      "description": "Go get them now!",
+      "url": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_198.jpg",
+      "authorname": "Monesh Rathod"
+    },
+    {
       "title": "New walls added in Prism Wallpapers" ,
       "description": "Go get them now!",
       "url": "https://twitter.com/PrismWallpapers/status/1325095071620886529?s=20",
@@ -668,6 +675,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Cool KWGT New Update is Live Now!",
+      "description": "Added 10 New Widgets, Now Total 170 Widgets.",
+      "url": "https://play.google.com/store/apps/details?id=com.coolkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_157.jpg",
+      "authorname": "Monesh Rathod"
+    },
     {
       "title": "New Update for Radish KWGT is Live Now!",
       "description": "Added 10 New Widgets, Now Total 140 Widgets.",
