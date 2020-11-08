@@ -28,3 +28,6 @@ example....if you're adding 4 news to Wallpapers Category, copy paste 1 of them 
 
 
 5. Single wallpaper won't count as news (that mean the wallpapers released for only one times in a small quantity; precisely 1-2, won't be added in Bitlit)
+
+6. Don't add shortened link in URL section, even if its provided directy from dev.
+   First fully open the link, copy it and paste it in URL section.
