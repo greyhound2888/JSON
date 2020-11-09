@@ -146,6 +146,20 @@
   ],
   "wallpapers": [
     {
+      "title": "Collections gets a new update from the Arch collection!" ,
+      "description": "5 New walls are now available right now!",
+      "url": "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_203.jpg",
+      "authorname": "Monesh Rathod"
+    },
+    {
+      "title": "New walls added in Whalepapers!" ,
+      "description": "New Walls Added. Check them out!",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepapers",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_202.jpg",
+      "authorname": "Monesh Rathod"
+    },
+    {
       "title": "New walls added in Pix Wallpapers" ,
       "description": "13 New Walls Added. Check them out!",
       "url": "https://twitter.com/pashapuma1/status/1325463093741309952?s=20",
@@ -717,6 +731,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Instant Pack KWGT!",
+      "description": "Coming Soon On Playstore.",
+      "url": "https://twitter.com/Halleyapps/status/1325501041048248320?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_158.jpg",
+      "authorname": "Monesh Rathod"
+    },
     {
       "title": "Cool KWGT New Update is Live Now!",
       "description": "Added 10 New Widgets, Now Total 170 Widgets.",
