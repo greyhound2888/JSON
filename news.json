@@ -146,6 +146,13 @@
   ],
   "wallpapers": [
     {
+      "title": "Wally got an Update!" ,
+      "description": "4 New Map walls are added!",
+      "url": "https://play.google.com/store/apps/details?id=my.walls.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_204.jpg",
+      "authorname": "Monesh Rathod"
+    },
+    {
       "title": "Collections gets a new update from the Arch collection!" ,
       "description": "5 New walls are now available right now!",
       "url": "https://play.google.com/store/apps/details?id=lor.and.company.collections",
