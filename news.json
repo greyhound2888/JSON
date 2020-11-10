@@ -138,6 +138,13 @@
     }
   ],
   "wallpapers": [
+	{
+      "title": "New Update for MyWallApp",
+      "description": "Go download now for Free!!",
+      "url": "https://play.google.com/store/apps/details?id=com.esethnet.mywallapp&hl=en_US",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_209.jpeg",
+      "authorname": "Kuladeep"
+    },
     {
       "title": "New walls by Sean ",
       "description": "Go download them now for Free!!",
