@@ -138,7 +138,14 @@
     }
   ],
   "wallpapers": [
-	{
+    {
+      "title": "New Walls added to Wallspaper",
+      "description": "7 New Walls Added in Animal Category",
+      "url": "https://play.google.com/store/apps/details?id=deb.wallpaper.walle",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_210.jpeg",
+      "authorname": "Kuladeep"
+    },
+    {
       "title": "New Update for MyWallApp",
       "description": "Go download now for Free!!",
       "url": "https://play.google.com/store/apps/details?id=com.esethnet.mywallapp&hl=en_US",
