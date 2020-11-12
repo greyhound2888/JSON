@@ -948,6 +948,20 @@
     }
   ],
   "widgets": [
+     {
+      "title": "Weekly Update for Mini Music KWGT is live now!!",
+      "description": " Added some requested widgets!!",
+      "url": "https://play.google.com/store/apps/details?id=minimusicplayerforkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_172.jpeg",
+      "authorname": "Asad"
+    },
+    {
+      "title": "Sneak Peak for next Cream KWGT update!!",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/LOKESHCHAUHAN78/status/1326802800643248128?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/KWGT/master/kwgt_171.jpeg",
+      "authorname": "Asad"
+    },
    {
       "title": "Weekly Upadate for Pineapple KWGT is LIVE.",
       "description": "4 new Widgets are Added(Total 162 Widgets now)",
@@ -1309,19 +1323,19 @@
     }
   ],
   "klwp": [
+    {
+      "title": "SKARP for KLWP is live now!!",
+      "description": "Initial release with 2 presets, check it now!!",
+      "url": "https://play.google.com/store/apps/details?id=skarp.twooseven",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_40.jpeg",
+      "authorname": "Asad"
+    },
    {
       "title": "New Update for Aura KLWP is live now!",
       "description": "A new preset, Aura VIII is added!!",
       "url": "https://play.google.com/store/apps/details?id=auraklwp.droidbeauty.pack",
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_39.jpg",
       "authorname": "Kirtan Patel"
-    },
-   {
-      "title": "Aura KLWP Giveaway",
-      "description": "Check it Out!!",
-      "url": "https://twitter.com/DaveGeek1/status/1326434488138694657?s=20",
-      "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_38.jpg",
-      "authorname": "Dhanraj"
     },
     {
       "title": "Preset klwp by Ghano DZpro",
