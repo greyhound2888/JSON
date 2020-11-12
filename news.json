@@ -138,6 +138,13 @@
     }
   ],
   "wallpapers": [
+     {
+      "title": "New walls are added in AmoledPapers",
+      "description": "Added 4 new walls and 4 alts, 194 total now!",
+      "url": "https://twitter.com/mhcharlee/status/1326845721589510145?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_220.jpg",
+      "authorname": "Asad"
+    },
       {
       "title": "New Wallpapers Added to Wallipop",
       "description": "Go get them now!!",
@@ -554,6 +561,27 @@
     }
   ],
   "icons": [
+     {
+      "title": "LineX series Giveaway and is on sale too, Check it now",
+      "description": "Giveaway of 100 codes, ends in 4 days!",
+      "url": "https://twitter.com/justnewdesigns/status/1326848768457773056?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_167.jpg",
+      "authorname": "Asad"
+    },
+     {
+      "title": "Wlip Icon pack is on sale for limited time",
+      "description": "Upto 50% off depending on country,check it now!",
+      "url": "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_166.jpg",
+      "authorname": "Asad"
+    },
+    {
+      "title": "Hera Dark Icon pack is on sale for limited time",
+      "description": "Upto 50% off depending on country,check it now!",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.heradark",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_165.jpg",
+      "authorname": "Asad"
+    },
      {
       "title": "Cards Icon pack got an Update",
       "description": "35 New Icons are Added, Check 'em Out!!",
@@ -1282,9 +1310,9 @@
   ],
   "klwp": [
    {
-      "title": "Earthquake Preset is coming in Aura KLWP",
-      "description": "Stay tuned!!",
-      "url": "https://twitter.com/DaveGeek1/status/1326566474832629761?s=09",
+      "title": "New Update for Aura KLWP is live now!",
+      "description": "A new preset, Aura VIII is added!!",
+      "url": "https://play.google.com/store/apps/details?id=auraklwp.droidbeauty.pack",
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_39.jpg",
       "authorname": "Kirtan Patel"
     },
