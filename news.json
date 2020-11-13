@@ -138,7 +138,14 @@
     }
   ],
   "wallpapers": [
-     {
+    {
+      "title": "New walls are added in Wallsy",
+      "description": "3 new Vector Walls Added",
+      "url": "https://twitter.com/mhcharlee/status/1326845721589510145?s=09",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_221.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
       "title": "New walls are added in AmoledPapers",
       "description": "Added 4 new walls and 4 alts, 194 total now!",
       "url": "https://twitter.com/mhcharlee/status/1326845721589510145?s=09",
@@ -948,7 +955,21 @@
     }
   ],
   "widgets": [
-     {
+    {
+      "title": "An update for Khameleon KWGT is Live now",
+      "description": "Check it Out!!!",
+      "url": "https://twitter.com/imundefyned/status/1326959893857755136?s=20",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_173.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "Passion for KWGT is Live on Play Store.",
+      "description": "It is now Available on Playstore. Check it Out!!!",
+      "url": "https://play.google.com/store/apps/details?id=passionkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_169.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
       "title": "Weekly Update for Mini Music KWGT is live now!!",
       "description": " Added some requested widgets!!",
       "url": "https://play.google.com/store/apps/details?id=minimusicplayerforkwgt.kustom.pack",
@@ -967,13 +988,6 @@
       "description": "4 new Widgets are Added(Total 162 Widgets now)",
       "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_170.jpg",
-      "authorname": "Kirtan Patel"
-    },
-   {
-      "title": "Passion for KWGT is coming.",
-      "description": "It will be Available on Playstore soon",
-      "url": "https://twitter.com/Jeisonv62840567/status/1326536050395656194?s=09",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_169.jpg",
       "authorname": "Kirtan Patel"
     },
    {
