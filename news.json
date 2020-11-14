@@ -1032,6 +1032,13 @@
     }
   ],
   "widgets": [
+     {
+      "title": "An Update for KinG KWGT is Live Now!!",
+      "description": "10 New Widgets,Go check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.kingkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_178.jpg",
+      "authorname": "Kuladeep"
+    },
    {
       "title": "PixCards KWGT is on sale for limited time!!",
       "description": "Go get it now",
