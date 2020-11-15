@@ -20,7 +20,7 @@
       "title": "KWGT Widgets PackS KhushJain are currently 50% off",
       "description": "Check it out",
       "url": "https://play.google.com/store/apps/dev?id=6627665368456592051",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_179.jpg",
+      "https://github.com/greyhound2888/kwgt/raw/master/kwgt_179.jpg",
       "authorname": "Shanky"
     },
     {
@@ -146,7 +146,7 @@
   ],
   "wallpapers": [
      {
-      "title": "SKwallpapers made these walls specially for Creamt pro",
+      "title": "SKwallpapers made these walls specially for Cream pro",
       "description": "Check it Out",
       "url": "https://twitter.com/SK_wallpapers_/status/1327708536114036736?s=20",
       "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_229.jpg",
@@ -631,7 +631,14 @@
     }
   ],
   "icons": [
-     {
+      {
+      "title": "Tessa Icon Pack is currently on sale ₹80-₹50",
+      "description": "Check Them Out",
+      "url": "https://play.google.com/store/apps/details?id=com.icarus.tessa",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconpacks/master/ip_174.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "Creamypro Icon pack Update + Sale",
       "description": "280 New Icons are Added, Also Sale ends in 7 days, check it now!!",
       "url": "https://play.google.com/store/apps/details?id=com.creamyproiconpack",
