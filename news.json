@@ -639,6 +639,21 @@
     }
   ],
   "icons": [
+     {
+   	"title": "Moxy Icon Pack is currently on sale",
+  	"description": "Upto 50% off depending on your country",
+  	"url": "https://play.google.com/store/apps/details?id=com.maxpatchs.moxy",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_176.jpg",
+  	"authorname": "Kuladeep"
+     },
+
+   {
+   	"title": "Nambula Icon Pack is live Now",
+   	"description": "Check it out!!",
+   	"url": "https://play.google.com/store/apps/details?id=com.panotogomo.nambula",
+   	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_177.jpg",
+  	"authorname": "Kuladeep"
+   },
     {
       "title": "Tessa Icon Pack is currently on sale ₹80-₹50",
       "description": "Check Them Out",
