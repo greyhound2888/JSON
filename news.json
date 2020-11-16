@@ -1093,6 +1093,13 @@
     }
   ],
   "widgets": [
+     {
+      "title": "Vanilla kwgt got an Update",
+      "description": "Added 5 new widgets!!",
+      "url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_184.jpg",
+      "authorname": "Kuladeep"
+    },
     {
       "title": "Felix KWGT is now Live on Playstore",
       "description": "Upto 50% discount in an early bird sale",
