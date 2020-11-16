@@ -68,6 +68,13 @@
   ],
   "wallpapers": [
     {
+      "title": "Prism Wallpaper Update!",
+      "description": "3 New Wallpapers Added!",
+      "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_235.jpg",
+      "authorname": "Aaron"
+    },
+    {
       "title": "Pixurr Wallpapers is now on SALE (50% Off)",
       "description": "SALE from 16th Nov - 23rd Nov",
       "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
@@ -529,7 +536,6 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_167.jpg",
       "authorname": "Kirtan Patel"
     },
-
     {
       "title": "New Walls Added In Collections",
       "description": "5 New Walls In Cycle Category",
@@ -585,16 +591,16 @@
       "url": "https://twitter.com/SK_wallpapers_/status/1322601404968566786?s=19",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_158.jpg",
       "authorname": "RaJ"
-    },
-    {
-      "title": "Prism Wallpaper Update!",
-      "description": "3 New Wallpapers Added!",
-      "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_235.jpg",
-      "authorname": "Aaron"
     }
   ],
   "icons": [
+    {
+      "title": "Moxy icon pack got an update",
+      "description": "33 New Icons Added!",
+      "url": "https://play.google.com/store/apps/details?id=com.maxpatchs.moxy",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_184.jpg",
+      "authorname": "Aaron"
+    },
     {
       "title": "BILFY Icon Pack is now on SALE (50% Off)",
       "description": "SALE from 16th Nov - 23rd Nov",
@@ -630,7 +636,6 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_180.jpg",
       "authorname": "Abhi Saha"
     },
-
     {
       "title": "Layers Icon Pack Got an Update",
       "description": "38 new Icons added!!",
@@ -1085,13 +1090,6 @@
       "url": "https://play.google.com/store/apps/details?id=net.lexdroid.lexodia",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_113.jpg",
       "authorname": "RaJ"
-    },
-    {
-      "title": "Moxy icon pack got an update",
-      "description": "33 New Icons Added!",
-      "url": "https://play.google.com/store/apps/details?id=com.maxpatchs.moxy",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_184.jpg",
-      "authorname": "Aaron"
     }
   ],
   "widgets": [
@@ -1541,6 +1539,20 @@
   ],
   "klwp": [
     {
+      "title": "Plexiglass Got a New Update",
+      "description": "Go Check it out !!!",
+      "url": "https://play.google.com/store/apps/details?id=emplexx.plexiglass",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_43.jpg",
+      "authorname": "Aaron"
+    },
+    {
+      "title": "Lucid for KLWP Coming Soon!",
+      "description": "Le'ts wait for it...",
+      "url": "https://twitter.com/Yogesh_gosavi_/status/1328377755814174720",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_44.png",
+      "authorname": "Aaron"
+    },
+    {
       "title": "Whacky! KLWP is FREE all around the globe for today.!",
       "description": "Grab It!!",
       "url": "https://play.google.com/store/apps/details?id=ml.undefyned.whacky",
@@ -1679,20 +1691,6 @@
       "url": "https://play.google.com/store/apps/details?id=novo.fluo",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_22.jfif",
       "authorname": "Subham Saha"
-    },
-    {
-      "title": "Plexiglass Got a New Update",
-      "description": "Go Check it out !!!",
-      "url": "https://play.google.com/store/apps/details?id=emplexx.plexiglass",
-      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_43.jpg",
-      "authorname": "Aaron"
-    },
-    {
-      "title": "Lucid for KLWP Coming Soon!",
-      "description": "Le'ts wait for it...",
-      "url": "https://twitter.com/Yogesh_gosavi_/status/1328377755814174720",
-      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_44.png",
-      "authorname": "Aaron"
     }
   ]
 }
