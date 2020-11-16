@@ -76,6 +76,20 @@
   ],
   "wallpapers": [
     {
+      "title": "WallLet is on Sale 40% OFF.",
+      "description": "Grab Here Now.",
+      "url": "https://play.google.com/store/apps/details?id=com.home.wallet",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_234.jpg",
+      "authorname": "Monesh Rathod"
+    },
+    {
+      "title": "New Wallpaper Added to Wallipop.",
+      "description": "Get WalliPop Here.",
+      "url": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_233.jpg",
+      "authorname": "Monesh Rathod"
+    },
+    {
       "title": "New Walls In Collections",
       "description": "5 New Wave Walls Added",
       "url": "https://twitter.com/LorAndCompany/status/1328005885185073153?s=20",
@@ -575,6 +589,27 @@
     }
   ],
   "icons": [
+    {
+      "title": "CandyCons Unwrapped and PixBit update!",
+      "description": "Get them here.",
+      "url": "https://twitter.com/vukkashin/status/1328264978307158018?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_183.jpg",
+      "authorname": "Monesh Rathod"
+    },
+    {
+      "title": "UPDATE for Color Line Icon Pack is Live.",
+      "description": "27 New Icon Add.",
+      "url": "https://play.google.com/store/apps/details?id=color.line.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_182.jpg",
+      "authorname": "Monesh Rathod"
+    },
+    {
+      "title": "Sliced icon pack update V1.7.4 is live",
+      "description": "Get It Now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_181.jpg",
+      "authorname": "Monesh Rathod"
+    },
     {
       "title": "New Update Available for Linebit Icons",
       "description": "58 New Icons Added & some fixes",
