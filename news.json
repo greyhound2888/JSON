@@ -16,7 +16,14 @@
     }
   ],
   "news": [
-  {
+    {
+      "title": "KLWP Dev Novo Birthday Giveaway",
+      "description": "Check it out for more details!!",
+      "url": "https://twitter.com/novotab15/status/1328956104332730369",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/giveaway.jpg",
+      "authorname": "Kirtan Patel"
+     },
+    {
       "title": "Lucid for KLWP is Live Now on Playstore",
       "description": "Early Bird Sale is Live Now!!",
       "url": "https://play.google.com/store/apps/details?id=lucid.kustom.pack",
