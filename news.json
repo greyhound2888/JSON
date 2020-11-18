@@ -1247,6 +1247,13 @@
     }
   ],
   "widgets": [
+      {
+    "title": "Blueberry KWGT is now live on Playstore",
+    "description": "25 widgets total,Check it out",
+    "url": "https://play.google.com/store/apps/details?id=blueberrykwgt.kustom.pack",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_193.jpg",
+    "authorname": "Kuladeep"
+      },
 {
       "title": "IOSMIX Kwgt update is here",
       "description": "Check it out",
