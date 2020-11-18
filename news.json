@@ -109,7 +109,14 @@
     }
     ],
   "wallpapers": [
-  {
+     {
+      "title": "Lexwalls is now available in Playstore",
+      "description": "Go download now",
+      "url": "https://twitter.com/lexdroid12/status/1329087953088352265?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_244.jfif",
+      "authorname": "Aniket"
+    },  
+    {
       "title": "New Walls Added in Wallrod",
       "description": "Check Them Out",
       "url": "https://twitter.com/MathyWallrod/status/1329079621195730945?s=20",
