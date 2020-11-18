@@ -23,7 +23,14 @@
     }
   ],
   "news": [
-   {
+  {
+      "title": "Lucid for KLWP is Live Now on Playstore",
+      "description": "Early Bird Sale is Live Now!!",
+      "url": "https://play.google.com/store/apps/details?id=lucid.kustom.pack",
+      "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_45.jpg",
+      "authorname": "Dhanraj"
+     },
+    {
       "title": "Giveaway of Mizu KWGT and Avocado kwgt",
       "description": "Check it out for more details",
       "url": "https://twitter.com/Json_zne/status/1328920374030061569?s=20",
@@ -65,14 +72,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_237.jpg",
       "authorname": "Shanky"
     },
-    {
-      "title": "Lucid for KLWP Coming Soon!",
-      "description": "Lets wait for it...",
-      "url": "https://twitter.com/Yogesh_gosavi_/status/1328377755814174720",
-      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_44.png",
-      "authorname": "Aaron"
-    },
-    {
+     {
       "title": "Felix KWGT is now Live on Playstore",
       "description": "Upto 50% discount in an early bird sale",
       "url": "https://bit.ly/FelixKWGT",
@@ -113,15 +113,8 @@
       "url": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_181.jpg",
       "authorname": "Kuladeep"
-    },
-    {
-      "title": "Whacky! KLWP is FREE all around the globe for today.!",
-      "description": "Grab It!!",
-      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.whacky",
-      "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_42.jpg",
-      "authorname": "Dhanraj"
     }
-  ],
+    ],
   "wallpapers": [
 {
       "title": "New Wallpapers Added in Whalepapers",
@@ -1726,13 +1719,6 @@
       "url": "https://twitter.com/Yogesh_gosavi_/status/1328377755814174720",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_44.png",
       "authorname": "Aaron"
-    },
-    {
-      "title": "Whacky! KLWP is FREE all around the globe for today.!",
-      "description": "Grab It!!",
-      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.whacky",
-      "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_42.jpg",
-      "authorname": "Dhanraj"
     },
     {
       "title": "Silver for KLWP is live now, check it now!",
