@@ -7,7 +7,7 @@
       "image": "https://pbs.twimg.com/media/Em79zuUVoAAxYfH?format=jpg&name=large",
       "authorname": "Subham Saha"
     },
-     {
+    {
       "title": "New Update for Whalepaper Pro is live now",
       "description": "Go get that Exclusive Brand New UI in this Update!!",
       "url": "https://twitter.com/iambavith/status/1327267851720302594?s=19",
@@ -17,40 +17,47 @@
   ],
   "news": [
     {
-      "title": "KLWP Dev Novo Birthday Giveaway",
+      "title": "AmoledPapers Giveaway in Telegram Channel",
       "description": "Check it out for more details!!",
-      "url": "https://twitter.com/novotab15/status/1328956104332730369",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/giveaway.jpg",
+      "url": "https://twitter.com/colorwallies/status/1329314874455773192?s=09",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/giveaway.jpg",
       "authorname": "Kirtan Patel"
-     },
+    },
+    {
+      "title": "New Walls In Joy Walls",
+      "description": "Three New Walls Added in the Nature Category",
+      "url": "https://twitter.com/Yogesh_gosavi_/status/1329302016166805505?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_248.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Blueberry KWGT is now live on Playstore",
+      "description": "25 widgets total,Check it out",
+      "url": "https://play.google.com/store/apps/details?id=blueberrykwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_193.jpg",
+      "authorname": "Kuladeep"
+    },
     {
       "title": "Lucid for KLWP is Live Now on Playstore",
       "description": "Early Bird Sale is Live Now!!",
       "url": "https://play.google.com/store/apps/details?id=lucid.kustom.pack",
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_45.jpg",
       "authorname": "Dhanraj"
-     },
+    },
     {
       "title": "Giveaway of Mizu KWGT and Avocado kwgt",
       "description": "Check it out for more details",
       "url": "https://twitter.com/Json_zne/status/1328920374030061569?s=20",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_189.jpg",
       "authorname": "Dhanraj"
-     },
-    {
-      "title": "Comodin icon pack Giveaway",
-      "description": "Check it Out for More Details!!",
-      "url": "https://twitter.com/cesararielog/status/1328811285836947464?s=20",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_190.jpg",
-      "authorname": "Dhanraj"
-        }, 
+    },
     {
       "title": "Japes icon pack Giveaway",
       "description": "Check it Out for More Details!!",
       "url": "https://twitter.com/suitcaselabs/status/1328682840507117568?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_189.jpg",
       "authorname": "Dhanraj"
-        },
+    },
     {
       "title": "Serene for Kustom is live with an early bird SALE",
       "description": "Check it out!!",
@@ -72,14 +79,14 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_237.jpg",
       "authorname": "Shanky"
     },
-     {
+    {
       "title": "Felix KWGT is now Live on Playstore",
       "description": "Upto 50% discount in an early bird sale",
       "url": "https://bit.ly/FelixKWGT",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_183.jpg",
       "authorname": "Abhi Saha"
     },
-     {
+    {
       "title": "WallLet is on Sale 40% OFF.",
       "description": "Grab Here Now.",
       "url": "https://play.google.com/store/apps/details?id=com.home.wallet",
@@ -107,16 +114,58 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_181.jpg",
       "authorname": "Kuladeep"
     }
-    ],
+  ],
   "wallpapers": [
-{
+    {
+      "title": "New Walls In Joy Walls",
+      "description": "Three New Walls Added in the Nature Category",
+      "url": "https://twitter.com/Yogesh_gosavi_/status/1329302016166805505?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_248.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "New Walls in Saro's Google Album",
+      "description": "4 New Walls Added",
+      "url": "https://photos.app.goo.gl/4uZvV56auLP621ze7",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_247.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Daily Update for Wallsy",
+      "description": "3 New Walls Added in the Amoled Category",
+      "url": "https://twitter.com/SK_wallpapers_/status/1329173135430537217?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_246.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Wallspaper New Update is LIVE !!!",
+      "description": "6 New Walls Added in Minimalistic Category",
+      "url": "https://twitter.com/wallspaper2020/status/1329058415084126210?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_245.jfif",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "Lexwalls is now available in Playstore",
+      "description": "Go download now",
+      "url": "https://twitter.com/lexdroid12/status/1329087953088352265?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_244.jfif",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "New Walls Added in Wallrod",
+      "description": "Check Them Out",
+      "url": "https://twitter.com/MathyWallrod/status/1329079621195730945?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_243.jfif",
+      "authorname": "Aniket"
+    },
+    {
       "title": "4 New Wallpapers added to pixWalls",
       "description": "Check Them Out!!",
       "url": "https://twitter.com/sreeragag7/status/1329048775462043648?s=09",
       "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_242.jpg",
       "authorname": "Shanky"
     },
-{
+    {
       "title": "New Wallpapers Added in Whalepapers",
       "description": "Check Them Out!!",
       "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
@@ -144,7 +193,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_238.jpg",
       "authorname": "Shanky"
     },
-{
+    {
       "title": "Update for wallsy",
       "description": "2 New Wallpapers Added!",
       "url": "https://twitter.com/SK_wallpapers_/status/1328428802733600769?s=09",
@@ -679,40 +728,47 @@
   ],
   "icons": [
     {
+      "title": "Nova Icon Pack Is Updated",
+      "description": "The packs has now over 2100+ icons, 20 walls & 10+ widgets",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_192.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "Weekly Reev Pro Update Is Here",
       "description": "Check out whatsnew!!!",
       "url": "https://twitter.com/GrabsterTV/status/1329058930031517697?s=09",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_191.jpg",
       "authorname": "Shanky"
-        },
+    },
     {
       "title": "Comodin icon pack Giveaway",
       "description": "Check it Out for More Details!!",
       "url": "https://twitter.com/cesararielog/status/1328811285836947464?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_190.jpg",
       "authorname": "Dhanraj"
-        }, 
+    },
     {
       "title": "Japes icon pack Giveaway",
       "description": "Check it Out for More Details!!",
       "url": "https://twitter.com/suitcaselabs/status/1328682840507117568?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_189.jpg",
       "authorname": "Dhanraj"
-        },  
+    },
     {
       "title": "wtf Icons and Wall for Free",
       "description": "Check it Out for More Details!!",
       "url": "https://twitter.com/notforyou666/status/1328803179182645254?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_188.jpg",
       "authorname": "Dhanraj"
-        },   
+    },
     {
       "title": "Caelus Icon Packs got an update ",
       "description": "30 new icons added!!",
       "url": "https://twitter.com/One4Studio/status/1328664777074282497?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_187.jpg",
       "authorname": "Kuladeep"
-        },
+    },
     {
       "title": "Proton Icon Pack Redesigned and Updated",
       "description": "Check It Out!!",
@@ -720,7 +776,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_186.jpg",
       "authorname": "Shanky"
     },
-     {
+    {
       "title": "Japes icon pack got an update",
       "description": "85 New Icons Added,including BitLit!!",
       "url": "https://play.google.com/store/apps/details?id=suitcase.icons.japes",
@@ -1226,14 +1282,42 @@
     }
   ],
   "widgets": [
-{
+    {
+      "title": "Upcoming Preview of TapOn KWGT",
+      "description": "Also 5 new Widgets are Added(Total 108 Widgets now)",
+      "url": "https://twitter.com/LOKESHCHAUHAN78/status/1329328557516984321?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_196.jpg",
+      "authorname": "Kirtan Patel"
+    },
+    {
+      "title": "Coves KWGT got an Update",
+      "description": "5 New Widgets Added (Total 95 widgets)",
+      "url": "https://play.google.com/store/apps/details?id=coves.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_195.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Passion KWGT got an Update",
+      "description": "5 New Widgets Added",
+      "url": "https://play.google.com/store/apps/details?id=passionkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_194.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Blueberry KWGT is now live on Playstore",
+      "description": "25 widgets total,Check it out",
+      "url": "https://play.google.com/store/apps/details?id=blueberrykwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_193.jpg",
+      "authorname": "Kuladeep"
+    },
+    {
       "title": "IOSMIX Kwgt update is here",
       "description": "Check it out",
       "url": "https://twitter.com/Ahmadansari2233/status/1329043364818214912?s=09",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_192.jpg",
       "authorname": "Shanky"
     },
-{
+    {
       "title": "Baemax Kwgt Got a Design Overhaul",
       "description": "Check it out",
       "url": "https://twitter.com/imundefyned/status/1329023214463320065?s=09",
@@ -1253,22 +1337,22 @@
       "url": "https://twitter.com/Json_zne/status/1328920374030061569?s=20",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_189.jpg",
       "authorname": "Dhanraj"
-     },
+    },
     {
       "title": "New KWGT Pack Will be Live Soon on Play Store",
       "description": "Check it out",
       "url": "https://twitter.com/ChrisJ4ck/status/1328685103552356352?s=20",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_187.jpg",
       "authorname": "Dhanraj"
-     },  
+    },
     {
       "title": "Cream KWGT got an Update",
       "description": "7 beautiful Widget Updated , check it out",
       "url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_186.jpg",
       "authorname": "Kuladeep"
-     },
-     {
+    },
+    {
       "title": "Freshie KWGT is now Live on Playstore",
       "description": "50% discount in an early bird Sale, go check it out",
       "url": "https://play.google.com/store/apps/details?id=com.freshiekwgt.kustom.pack",
@@ -1727,27 +1811,27 @@
     }
   ],
   "klwp": [
-{
-      "title": "Thirsty Klwp Got a New Preset ULTIMA",
-      "description": "Check It Out!!",
+    {
+      "title": "New Preset Added In Thirsty for KWLP",
+      "description": "New Preset Named 'Ultima' Added",
       "url": "https://play.google.com/store/apps/details?id=com.nishantchaudhary.thirsty",
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_47.jpg",
-      "authorname": "Shanky"
-     },
-     {
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "Fluent KLWP is on Sale",
       "description": "All of his Apps are on Sale, go check them out!!",
       "url": "https://play.google.com/store/apps/details?id=eb.klwp.fluent",
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_46.jpg",
       "authorname": "Kirtan Patel"
-     },
-     {
+    },
+    {
       "title": "Lucid for KLWP is Live Now on Playstore",
       "description": "Early Bird Sale is Live Now!!",
       "url": "https://play.google.com/store/apps/details?id=lucid.kustom.pack",
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_45.jpg",
       "authorname": "Kuladeep"
-     },
+    },
     {
       "title": "Plexiglass Got a New Update",
       "description": "Go Check it out !!!",
