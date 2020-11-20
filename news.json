@@ -1332,6 +1332,13 @@
   ],
   "widgets": [
     {
+      "title": "Aleria for KWGT V-1.6 is out",
+      "description": "4 New Widgets Added(Total 65 Widgets now)",
+      "url": "https://play.google.com/store/apps/details?id=dev.widgetology.aleria",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_199.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "PixCards KWGT got an Update",
       "description": "3 new Widgets are Added(Total 53 Widgets now)",
       "url": "https://play.google.com/store/apps/details?id=pixcards.kustom.pack",
@@ -1874,7 +1881,7 @@
     }
   ],
   "klwp": [
-     {
+    {
       "title": "Sliver for Kustom giveaway",
       "description": "Participate in it now!!",
       "url": "https://twitter.com/digmotmag/status/1329432176820187145?s=20",
