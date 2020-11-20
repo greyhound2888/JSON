@@ -1339,7 +1339,7 @@
   ],
   "widgets": [
     {
-      "title": "Aleria for KWGT V-1.6 is out",
+      "title": "Aleria for KWGT v 1.6 is out",
       "description": "4 New Widgets Added(Total 65 Widgets now)",
       "url": "https://play.google.com/store/apps/details?id=dev.widgetology.aleria",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_199.jpg",
@@ -1888,6 +1888,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "Morphḗ KLWP (v 2.0) is live",
+      "description": "Added 1 New Preset",
+      "url": "https://play.google.com/store/apps/details?id=morpheklwp.kustom.pack",
+      "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_49.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "Sliver for Kustom giveaway",
       "description": "Participate in it now!!",
