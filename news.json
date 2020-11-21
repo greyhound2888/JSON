@@ -790,6 +790,21 @@
     }
   ],
   "icons": [
+       {
+        "title": "Galica Icon Pack got an Update",
+        "description": "Added 24 new icons,Check it out!!",
+        "url": "https://play.google.com/store/apps/details?id=galica.rose.duke.com",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_202.jpg",
+        "authorname": "Kuladeep"
+       }
+      {
+      "title": "Flora Material Icon Pack got an Update",
+      "description": "Added 50+ new icons,also on sale with a big discount!!",
+      "url": "https://play.google.com/store/apps/details?id=com.jndapp.flora.material.iconpack",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_201.jpg",
+      "authorname": "Kuladeep"
+     },
+
     {
       "title": "Vibion V5.0.5 is live now, check it out!",
       "description": "Added 37 new/updated icons, includes App ID fixes!!",
