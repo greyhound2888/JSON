@@ -96,6 +96,20 @@
   ],
   "wallpapers": [
     {
+      "title": "Prism walls V2.6.1 is live now, check it now!",
+      "description": "A lot of new features are added and few bugs are fixed!!",
+      "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_259.jpg",
+      "authorname": "Asad"
+    },
+    {
+      "title": "New Walls are Added in Amoled Papers",
+      "description": "Added 4 new walls, total 198 now!",
+      "url": "https://twitter.com/mhcharlee/status/1330088930583121920?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_258.jpg",
+      "authorname": "Asad"
+    },
+    {
       "title": "New Walls are Added in Abstra Wall",
       "description": "Go Check Them Now!!",
       "url": "https://twitter.com/ABSTRAWALL/status/1329779522015801346?s=20",
@@ -770,6 +784,20 @@
   ],
   "icons": [
     {
+      "title": "Vibion V5.0.5 is live now, check it out!",
+      "description": "Added 37 new/updated icons, includes App ID fixes!!",
+      "url": "https://play.google.com/store/apps/details?id=com.esethnet.vibion",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_200.jpg",
+      "authorname": "Asad"
+    },
+    {
+      "title": "New Update for Borealis Icon pack is live now",
+      "description": "Added 70 new icons and some rebrands, vheck it now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.unvoid.borealis",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_199.jpg",
+      "authorname": "Asad"
+    },
+    {
       "title": "Hera Icon Packs got a new Update",
       "description": "Total 2100+ icons, 20 walls & 10+ widgets are in the pack",
       "url": "https://twitter.com/One4Studio/status/1329726326845149184?s=20",
@@ -1352,9 +1380,16 @@
     }
   ],
   "widgets": [
+     {
+      "title": "Weekly Upadte for Pineapple KWGT is Live",
+      "description": "Added few new widgets, check it out!",
+      "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_203.jpg",
+      "authorname": "Asad"
+    },
     {
       "title": "Weekend Update of Vanilla KWGT",
-      "description": "4 New Widgets are Added(Total 49 Widgets now)",
+      "description": "Added few new widgets, check it out!",
       "url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_202.jpg",
       "authorname": "Kirtan Patel"
