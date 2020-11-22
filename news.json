@@ -137,7 +137,14 @@
     }
   ],
   "wallpapers": [
-     {
+    {
+      "title": "New Wallpapers available in Wallrod",
+      "description": "3 New Walls Added",
+      "url": "https://twitter.com/MathyWallrod/status/1330514126242799616?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_268.jfif",
+      "authorname": "Aniket"
+    }, 
+    {
       "title": "New premium pack by Alan G",
       "description": "Go Check them now!!",
       "url": "https://twitter.com/Alan140503/status/1330203549213609991?s=20",
