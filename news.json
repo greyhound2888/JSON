@@ -895,9 +895,16 @@
     }
   ],
   "icons": [
+       {
+        "title": "One Line Icon Pack got an Update",
+        "description": "Two color variations added & also 7 dark wallpapers added",
+        "url": "https://play.google.com/store/apps/details?id=one.line.icon.pack",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_206.jpg",
+        "authorname": "Kuladeep"
+      },
     {
       "title": "[SALE] ENIX & CHIC Icon Pack ON SALE",
-      "description": "Donwload them now !!!",
+      "description": "Download them now !!!",
       "url": "https://play.google.com/store/apps/dev?id=6814879947646523419",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_205.png",
       "authorname": "Subham Saha"
@@ -1520,6 +1527,13 @@
     }
   ],
   "widgets": [
+       {
+        "title": "Felix KWGT got an Update",
+        "description": "8 New Widgets added!!",
+        "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+        "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_207.jpg",
+        "authorname": "Kuladeep"
+      },
     {
       "title": "Weekly update for Serene for Kustom is live on the Playstore",
       "description": "3 New Widgets added (1 weather, 2 mixed widgets)",
