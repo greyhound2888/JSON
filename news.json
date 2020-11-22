@@ -24,6 +24,41 @@
   ],
   "news": [
     {
+      "title": "Weekly update for Serene for Kustom is live on the Playstore",
+      "description": "3 New Widgets added (1 weather, 2 mixed widgets)",
+      "url": "https://play.google.com/store/apps/details?id=passionkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_205.jfif",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "[FREE] Cyber the fuckk Theme",
+      "description": "It comes with 30 icons, 2 walls & 1 widget",
+      "url": "https://twitter.com/notforyou666/status/1330350992026693636?s=19",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_204.jfif",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "New Wallpapers are Added in Whale Papers",
+      "description": "Go Check them now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_266.jpg",
+      "authorname": "Kirtan Patel"
+    },
+    {
+      "title": "Weekly Update for Nebula Icon Pack is Live",
+      "description": "41 new icons added!!",
+      "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_197.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "Weekly Upadte for Pineapple KWGT is Live",
+      "description": "Added few new widgets, check it out!",
+      "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_203.jpg",
+      "authorname": "Asad"
+    },
+    {
       "title": "Nebbia/Aleria for KWGT Giveaway",
       "description": "Check it out for more details!",
       "url": "https://twitter.com/FeitenVinicius/status/1330146095796805633?s=20",
@@ -847,6 +882,20 @@
   ],
   "icons": [
     {
+      "title": "[SALE] ENIX & CHIC Icon Pack ON SALE",
+      "description": "Donwload them now !!!",
+      "url": "https://play.google.com/store/apps/dev?id=6814879947646523419",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_205.png",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "[FREE] Purpler Icon by Aditya-Azka on DeviantArt",
+      "description": "Get them now !!!",
+      "url": "https://www.deviantart.com/aditya-azka/art/Purpler-Icon-861666498",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_203.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
       "title": "Galica Icon Pack got an Update",
       "description": "Added 24 new icons,Check it out!!",
       "url": "https://play.google.com/store/apps/details?id=galica.rose.duke.com",
@@ -860,7 +909,6 @@
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_201.jpg",
       "authorname": "Kuladeep"
     },
-
     {
       "title": "Vibion V5.0.5 is live now, check it out!",
       "description": "Added 37 new/updated icons, includes App ID fixes!!",
@@ -1458,6 +1506,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Weekly update for Serene for Kustom is live on the Playstore",
+      "description": "3 New Widgets added (1 weather, 2 mixed widgets)",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelvibe.serene",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_206.jfif",
+      "authorname": "Subham Saha"
+    },
     {
       "title": "Weekly Upadte for Passion KWGT",
       "description": "5 new Widgets are Added(Total 25 Widgets now)",
