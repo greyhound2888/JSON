@@ -86,7 +86,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_180.jpg",
       "authorname": "Abhi Saha"
     },
-   {
+    {
       "title": "Lucent KWGT got an Update!!",
       "description": "2 New Widgets,Total 135 Widgets",
       "url": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
@@ -95,13 +95,20 @@
     }
   ],
   "wallpapers": [
-      {
+    {
+      "title": "New Walls In Unusual Wallpapers",
+      "description": "2 New Walls Added",
+      "url": "https://twitter.com/akinhd/status/1330373566047657984?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_262.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "Prism Wallpapers Giveaway!!",
       "description": "check it out for more details",
       "url": "https://t.me/Samsung_boos/14848",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_261.jpg",
       "authorname": "Kuladeep"
-     },
+    },
     {
       "title": "New Walls are Added in Wallipop",
       "description": "Added new walls, check it now!",
@@ -797,20 +804,20 @@
     }
   ],
   "icons": [
-       {
-        "title": "Galica Icon Pack got an Update",
-        "description": "Added 24 new icons,Check it out!!",
-        "url": "https://play.google.com/store/apps/details?id=galica.rose.duke.com",
-        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_202.jpg",
-        "authorname": "Kuladeep"
-       },
-      {
+    {
+      "title": "Galica Icon Pack got an Update",
+      "description": "Added 24 new icons,Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=galica.rose.duke.com",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_202.jpg",
+      "authorname": "Kuladeep"
+    },
+    {
       "title": "Flora Material Icon Pack got an Update",
       "description": "Added 50+ new icons,also on sale with a big discount!!",
       "url": "https://play.google.com/store/apps/details?id=com.jndapp.flora.material.iconpack",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_201.jpg",
       "authorname": "Kuladeep"
-     },
+    },
 
     {
       "title": "Vibion V5.0.5 is live now, check it out!",
@@ -938,7 +945,7 @@
       "image": "https://pbs.twimg.com/media/Em79zuUVoAAxYfH?format=jpg&name=large",
       "authorname": "Subham Saha"
     },
- {
+    {
       "title": "UPDATE for Color Line Icon Pack is Live.",
       "description": "27 New Icon Add.",
       "url": "https://play.google.com/store/apps/details?id=color.line.iconpack",
@@ -1197,7 +1204,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_145.jpg",
       "authorname": "RaJ"
     },
-{
+    {
       "title": "Edzon Icon Packs Are Curently On Sale",
       "description": "Upto 70% off on Astrix, Foxbit & Simplit icon packs",
       "url": "https://twitter.com/EdzonDM/status/1324525098121003008?s=20",
@@ -1409,14 +1416,14 @@
     }
   ],
   "widgets": [
-     {
+    {
       "title": "Nebbia/Aleria for KWGT Giveaway",
       "description": "Check it out for more details!",
       "url": "https://twitter.com/FeitenVinicius/status/1330146095796805633?s=20",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_204.jpg",
       "authorname": "Kuladeep"
     },
-     {
+    {
       "title": "Weekly Upadte for Pineapple KWGT is Live",
       "description": "Added few new widgets, check it out!",
       "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
@@ -1994,7 +2001,7 @@
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_49.jpg",
       "authorname": "Abhi"
     },
- {
+    {
       "title": "New Preset Added In Thirsty for KWLP",
       "description": "New Preset Named 'Ultima' Added",
       "url": "https://play.google.com/store/apps/details?id=com.nishantchaudhary.thirsty",
