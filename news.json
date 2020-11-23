@@ -138,6 +138,13 @@
   ],
   "wallpapers": [
     {
+      "title": "Some Walls by JFL",
+      "description": "Go Check them out now!!",
+      "url": "https://twitter.com/wallsbyjfl/status/1330724052378513409?s=19",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_273.jpeg",
+      "authorname": "Kirtan Patel"
+     },
+    {
       "title": "New wallpapers added to Wallsy",
       "description": "Go Check them out now!!",
       "url": "https://twitter.com/SK_wallpapers_/status/1330629295870337025?s=20",
@@ -916,20 +923,27 @@
     }
   ],
   "icons": [
-     {
+    {
+        "title": "Sliced Icon pack got an Update",
+        "description": "20 new Icons are Added(Total 1960 Icons now)",
+        "url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_208.jpg",
+        "authorname": "Kirtan Patel"
+    },
+    {
         "title": "Update for Baccara is out now",
         "description": "22 new icons added. Download it now!!",
         "url": "https://play.google.com/store/apps/details?id=baccara.rose.duke.com",
         "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_207.png",
         "authorname": "Yudha"
-      },
-       {
+    },
+    {
         "title": "One Line Icon Pack got an Update",
         "description": "Two color variations added & also 7 dark wallpapers added",
         "url": "https://play.google.com/store/apps/details?id=one.line.icon.pack",
         "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_206.jpg",
         "authorname": "Kuladeep"
-      },
+    },
     {
       "title": "[SALE] ENIX & CHIC Icon Pack ON SALE",
       "description": "Download them now !!!",
