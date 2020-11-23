@@ -137,22 +137,36 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New wallpapers added to Wallsy",
+      "description": "Go Check them out now!!",
+      "url": "https://twitter.com/SK_wallpapers_/status/1330629295870337025?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_272.jpeg",
+      "authorname": "Yudha"
+     },
+    {
+      "title": "New wallpapers added to Prism Wallpapers",
+      "description": "Go Check them out now!!",
+      "url": "https://twitter.com/PrismWallpapers/status/1330583047691898881?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_271.jpeg",
+      "authorname": "Yudha"
+     },
       {
-      "title": "New Wallpapers by @LorAndCompany",
+      "title": "New wallpapers added to Collections",
       "description": "Go Check them out",
       "url": "https://twitter.com/LorAndCompany/status/1330523104301420545?s=20",
       "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_270.jpg",
       "authorname": "Kuladeep"
      },
     {
-      "title": "Some Walls by Rc",
+      "title": "Some walls by Rc",
       "description": "Go Check them out",
       "url": "https://twitter.com/rc200044/status/1330533294467928067?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_269.jfif",
       "authorname": "Aniket"
     }, 
     {
-      "title": "New Wallpapers available in Wallrod",
+      "title": "New wallpapers available in Wallrod",
       "description": "3 New Walls Added",
       "url": "https://twitter.com/MathyWallrod/status/1330514126242799616?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_268.jfif",
@@ -902,6 +916,13 @@
     }
   ],
   "icons": [
+     {
+        "title": "Update for Baccara is out now",
+        "description": "22 new icons added. Download it now!!",
+        "url": "https://play.google.com/store/apps/details?id=baccara.rose.duke.com",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_207.png",
+        "authorname": "Yudha"
+      },
        {
         "title": "One Line Icon Pack got an Update",
         "description": "Two color variations added & also 7 dark wallpapers added",
