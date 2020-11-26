@@ -38,13 +38,6 @@
   ],
   "news": [
     {
-      "title": "Aphemis KWGT New Update is LIVE on PlayStore !!!",
-      "description": "3 New Widgets Added (Total 39 Widgets Now)",
-      "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_215.jfif",
-      "authorname": "Subham Saha"
-    },
-    {
       "title": "Coves Kwgt Update is Live On Play Store",
       "description": "5 New Widgets Added,Total 100 Widgets Available",
       "url": "https://play.google.com/store/apps/details?id=coves.kustom.pack",
@@ -57,6 +50,13 @@
       "url": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_292.jpg",
       "authorname": "Dhanraj"
+    },
+    {
+      "title": "Aphemis KWGT New Update is LIVE on PlayStore !!!",
+      "description": "3 New Widgets Added (Total 39 Widgets Now)",
+      "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_215.jfif",
+      "authorname": "Subham Saha"
     },
     {
       "title": "Zen for KWGT & KLWP is here",
