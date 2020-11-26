@@ -38,6 +38,20 @@
   ],
   "news": [
     {
+      "title": "Mizu KWGT is on Black Friday Sale for limited time !!",
+      "description": "Upto 70% off , check it now!!",
+      "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_224.jpg",
+      "authorname": "Asad"
+    },
+    {
+      "title": "Vera icon pack is on Black Friday Sale!!",
+      "description": "Upto 50% off depending on country for limited time!!",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_221.jpg",
+      "authorname": "Asad"
+    },
+    {
       "title": "Coves Kwgt Update is Live On Play Store",
       "description": "5 New Widgets Added,Total 100 Widgets Available",
       "url": "https://play.google.com/store/apps/details?id=coves.kustom.pack",
@@ -1085,6 +1099,13 @@
   ],
   "icons": [
     {
+      "title": "Vera icon pack is on Black Friday Sale!!",
+      "description": "Upto 50% off depending on country for limited time!!",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_221.jpg",
+      "authorname": "Asad"
+    },
+    {
       "title": "Pix Minimal Icon Pack is on Sale",
       "description": "Upto 50% off for next 3 days",
       "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixminimal.iconpack",
@@ -1814,6 +1835,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Mizu KWGT is on Black Friday Sale for limited time !!",
+      "description": "Upto 70% off , check it now!!",
+      "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_224.jpg",
+      "authorname": "Asad"
+    },
+    {
+      "title": "First Update for Blueberry KWGT is live now!!",
+      "description": "5 new widgets are added, check it now!!",
+      "url": "https://play.google.com/store/apps/details?id=blueberrykwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_223.jpg",
+      "authorname": "Asad"
+    },
     {
       "title": "All Icon Packs by Gaurav Seth will be on Sale from Tomorrow",
       "description": "Check it out for more details!!",
