@@ -131,6 +131,27 @@
   ],
   "wallpapers": [
     {
+      "title": "Setup Contest by Charlee",
+      "description": "Tap the card for more info",
+      "url": "https://twitter.com/mhcharlee/status/1331683239744954368?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_291.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "New Walls in Wallsy",
+      "description": "Three Pattern Walls Added",
+      "url": "https://twitter.com/SK_wallpapers_/status/1331690575087562752?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_290.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "New Walls in Wallpin",
+      "description": "Three varient of a new wall added",
+      "url": "https://twitter.com/21MaRcO12/status/1331638098812428288?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_289.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "New walls in Nick's album, check it now!",
       "description": "15 new walls are added, get them for free!",
       "url": "https://twitter.com/NickNice85/status/1331573208378650626?s=09",
@@ -1022,6 +1043,13 @@
   ],
   "icons": [
     {
+      "title": "Pix Minimal Icon Pack is on Sale",
+      "description": "Upto 50% off for next 3 days",
+      "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixminimal.iconpack",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_220.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
       "title": "[FREE]Lie Icon Pack by @kurapzs",
       "description": "Go check them!!",
       "url": "https://twitter.com/kurapzs/status/1331607621405589509?s=20",
@@ -1034,7 +1062,7 @@
       "url": "https://play.google.com/store/apps/details?id=com.jndapp.flora.material.iconpack",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_218.jpg",
       "authorname": "Kuladeep"
-    }, 
+    },
     {
       "title": "ColorLine dark icon pack got an Update",
       "description": "34 new icons added,go check them!!",
@@ -1745,12 +1773,19 @@
   ],
   "widgets": [
     {
-    "title": "Update for Burn KWGT is live",
-    "description": "3 New Widgets Added",
-    "url": "https://play.google.com/store/apps/details?id=com.ishaan.burnkwgt",
-    "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_219.jpg",
-    "authorname": "Kuladeep"
-   },
+      "title": "Zen for KWGT & KLWP is here",
+      "description": "25 widgets, 1 KLWP preset & 10 walls & more coming",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelvibe.zen",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_220.jpg",
+      "authorname": "Abhi Saha"
+    },
+    {
+      "title": "Update for Burn KWGT is live",
+      "description": "3 New Widgets Added",
+      "url": "https://play.google.com/store/apps/details?id=com.ishaan.burnkwgt",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_219.jpg",
+      "authorname": "Kuladeep"
+    },
     {
       "title": "Weekly Update for Vanilla KWGT is live",
       "description": "4 New Widgets are Added (Total 53 Widgets now)",
