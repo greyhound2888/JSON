@@ -31,6 +31,13 @@
   ],
   "news": [
     {
+      "title": "[SALE]Prism Premium is on sale ",
+      "description": "Sale ends on 30 nov,Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_300.jpg",
+      "authorname": "Raj"
+    },
+    {
       "title": "Reev Pro Icon Pack is on Sale",
       "description": "Sale ends on Dec 1st, Go grab the deal now!!",
       "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
@@ -172,6 +179,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "[SALE]Prism Premium is on sale ",
+      "description": "Sale ends on 30 nov,Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_300.jpg",
+      "authorname": "Raj"
+    },
     {
       "title": "New walls by Jianoliu",
       "description": "Check them Out",
