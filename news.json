@@ -31,6 +31,13 @@
   ],
   "news": [
     {
+      "title": "[SALE] Nae For Kwgt is on sale",
+      "description": "Special 70% Discount For Indian Buyers,Check It Out",
+      "url": "https://play.google.com/store/apps/details?id=naeforkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_225.jpg",
+      "authorname": "Raj"
+    },
+    {
       "title": "Mizu KWGT is on Black Friday Sale for limited time !!",
       "description": "Upto 70% off , check it now!!",
       "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
@@ -1856,6 +1863,13 @@
     }
   ],
   "widgets": [
+     {
+      "title": "[SALE] Nae For Kwgt is on sale",
+      "description": "Special 70% Discount For Indian Buyers,Check It Out",
+      "url": "https://play.google.com/store/apps/details?id=naeforkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_225.jpg",
+      "authorname": "Raj"
+    },
      {
       "title": "Fuchsia KWGT is on Black Friday sale, check it now!",
       "description": "Upto 50% off for limited time!",
