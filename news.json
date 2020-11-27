@@ -31,6 +31,13 @@
   ],
   "news": [
     {
+      "title": "BackDrops Pro is on sale for 12 Hours",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_303.jpg",
+      "authorname": "Raj"
+    },
+    {
       "title": "[SALE] Prism Premium is on sale ",
       "description": "Sale ends on 30 nov,Check it out",
       "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
@@ -179,6 +186,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "BackDrops Pro is on sale for 12 Hours",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_303.jpg",
+      "authorname": "Raj"
+    },
     {
       "title": "Some New wallpapers released by ABSTRAWALL",
       "description": "Check them out",
