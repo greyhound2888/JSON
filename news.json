@@ -30,7 +30,7 @@
     }
   ],
   "news": [
-    {
+     {
       "title": "[SALE] Aphemis KWGT is now on SALE for a Limited Time",
       "description": "Sale from 26th Nov - 3rd Dec",
       "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
@@ -44,7 +44,14 @@
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_51.jpg",
       "authorname": "Shanky"
     },
-{
+     {
+      "title": "[SALE] Black Friday Sale Starts By Charlee Designs",
+      "description": "Ember , Frosty & AmoledPapers On Sale Till Dec 2 , Check It Out",        
+      "url":"https://play.google.com/store/apps/dev?id=5105091404166060566",
+      "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_51.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "Update For BILFY Icon Pack Is Live",
       "description": "Lots Of Customization Apps Themed , Check Them Out",
       "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
@@ -213,13 +220,6 @@
       "url":"https://twitter.com/ongliong11/status/1332575724583088129?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_304.jpg",
       "authorname": "Kirtan Patel"
-    },
-    {
-      "title": "[SALE] Black Friday Sale Starts By Charlee Designs",
-      "description": "Ember , Frosty & AmoledPapers On Sale Till Dec 2 , Check It Out",        
-      "url":"https://play.google.com/store/apps/dev?id=5105091404166060566",
-      "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_51.jpg",
-      "authorname": "Shanky"
     },
     {
       "title": "[SALE] BackDrops Pro is on sale for 12 Hours",
