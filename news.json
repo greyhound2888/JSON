@@ -1245,7 +1245,14 @@
     }
   ],
   "icons": [
-{
+       {
+        "title": "[NEW LAUNCH][SALE]Aline Icon Pack is now live",
+        "description": "Initial release with 1061 icons",
+        "url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.aline",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_228.jpg",
+        "authorname": "Kuladeep"
+      },
+      {
       "title": "Layers Iconpack got an update",
       "description": "35 new icons added,check them out",
       "url": "https://play.google.com/store/apps/details?id=com.sreerag.layers",
