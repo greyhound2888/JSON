@@ -30,8 +30,15 @@
     }
   ],
   "news": [
+    {
+      "title": "[SALE] Aphemis KWGT is now on SALE for a Limited Time",
+      "description": "Sale from 26th Nov - 3rd Dec",
+      "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/Kwgt_226.jfif",
+      "authorname": "Subham Saha"
+    },
      {
-      "title": "Black Friday Sale Starts By Charlee Designs",
+      "title": "[SALE] Black Friday Sale Starts By Charlee Designs",
       "description": "Ember , Frosty & AmoledPapers On Sale Till Dec 2 , Check It Out",        
       "url":"https://play.google.com/store/apps/dev?id=5105091404166060566",
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_51.jpg",
@@ -45,7 +52,7 @@
       "authorname": "Shanky"
     },
     {
-      "title": "BackDrops Pro is on sale for 12 Hours",
+      "title": "[SALE] BackDrops Pro is on sale for 12 Hours",
       "description": "Check it out",
       "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_303.jpg",
@@ -201,21 +208,21 @@
   ],
   "wallpapers": [
     {
-      "title": "Black Friday Sale Starts By Charlee Designs",
+      "title": "[SALE] Black Friday Sale Starts By Charlee Designs",
       "description": "Ember , Frosty & AmoledPapers On Sale Till Dec 2 , Check It Out",        
       "url":"https://play.google.com/store/apps/dev?id=5105091404166060566",
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_51.jpg",
       "authorname": "Shanky"
     },
     {
-      "title": "BackDrops Pro is on sale for 12 Hours",
+      "title": "[SALE] BackDrops Pro is on sale for 12 Hours",
       "description": "Check it out",
       "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_303.jpg",
       "authorname": "Raj"
     },
     {
-      "title": "Some New wallpapers released by ABSTRAWALL",
+      "title": "[FREE] Some New wallpapers released by ABSTRAWALL",
       "description": "Check them out",
       "url": "https://twitter.com/ABSTRAWALL/status/1332142488300171264?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_302.jpg",
@@ -229,7 +236,7 @@
       "authorname": "Raj"
     },
     {
-      "title": "[SALE]Prism Premium is on sale ",
+      "title": "[SALE] Prism Premium is on sale ",
       "description": "Sale ends on 30 nov,Check it out",
       "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_300.jpg",
@@ -1218,7 +1225,7 @@
       "authorname": "Raj"
     },
      {
-      "title": "Reev Pro Icon Pack is on Sale",
+      "title": "[SALE] Reev Pro Icon Pack is on Sale",
       "description": "Sale ends on Dec 1st, Go grab the deal now!!",
       "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_223.jpg",
@@ -1239,35 +1246,35 @@
       "authorname": "Raj"
        },
       {
-      "title": "All Icon Packs by Gaurav Seth will be on Sale from Tomorrow",
+      "title": "[SALE] All Icon Packs by Gaurav Seth will be on Sale from Tomorrow",
       "description": "Check it out for more details!!",
       "url": "https://play.google.com/store/apps/dev?id=9069378374859819448",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_222.jpg",
       "authorname": "Kirtan Patel"
     }, 
      {
-      "title": "Afterglow and Glaze Icon packs are on  Black Friday sale, check it now!",
+      "title": "[SALE] Afterglow and Glaze Icon packs are on  Black Friday sale, check it now!",
       "description": "Upto 50% off for limited time!",
       "url": "https://play.google.com/store/apps/dev?id=6714123194300223411",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/b_fdaysale.jpg",
       "authorname": "Asad"
     },
     {
-      "title": "Vera icon pack is on Black Friday Sale!!",
+      "title": "[SALE] Vera icon pack is on Black Friday Sale!!",
       "description": "Upto 50% off depending on country for limited time!!",
       "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_221.jpg",
       "authorname": "Asad"
     },
     {
-      "title": "Pix Minimal Icon Pack is on Sale",
+      "title": "[SALE] Pix Minimal Icon Pack is on Sale",
       "description": "Upto 50% off for next 3 days",
       "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixminimal.iconpack",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_220.jpg",
       "authorname": "Abhi Saha"
     },
     {
-      "title": "[FREE]Lie Icon Pack by @kurapzs",
+      "title": "[FREE] Lie Icon Pack by @kurapzs",
       "description": "Go check them!!",
       "url": "https://twitter.com/kurapzs/status/1331607621405589509?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_219.jpg",
@@ -1989,6 +1996,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[SALE] Aphemis KWGT is now on SALE for a Limited Time",
+      "description": "Sale from 26th Nov - 3rd Dec",
+      "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/Kwgt_226.jfif",
+      "authorname": "Subham Saha"
+    },
      {
       "title": "[SALE] Nae For Kwgt is on sale",
       "description": "Special 70% Discount For Indian Buyers Check It Out",
@@ -1997,14 +2011,14 @@
       "authorname": "Raj"
     },
      {
-      "title": "Fuchsia KWGT is on Black Friday sale, check it now!",
+      "title": "[SALE] Fuchsia KWGT is on Black Friday sale, check it now!",
       "description": "Upto 50% off for limited time!",
       "url": "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/b_fdaysale.jpg",
       "authorname": "Asad"
     },
     {
-      "title": "Mizu KWGT is on Black Friday Sale for limited time !!",
+      "title": "[SALE] Mizu KWGT is on Black Friday Sale for limited time !!",
       "description": "Upto 70% off , check it now!!",
       "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_224.jpg",
@@ -2715,7 +2729,7 @@
   ],
   "klwp": [
     {
-      "title": "Black Friday Sale Starts By Charlee Designs",
+      "title": "[SALE] Black Friday Sale Starts By Charlee Designs",
       "description": "Ember , Frosty & AmoledPapers On Sale Till Dec 2 , Check It Out",        
       "url":"https://play.google.com/store/apps/dev?id=5105091404166060566",
       "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_51.jpg",
