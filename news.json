@@ -1317,14 +1317,14 @@
   "icons": [
    {
       "title": "New Update for Nambula Icon pack is live now!!",
-      "description": Added 100+ new icons, check it out!!",
+      "description":" Added 100+ new icons, check it out!!",
       "url": "https://play.google.com/store/apps/details?id=com.panotogomo.nambula",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_231.jpg",
       "authorname": "Asad"
     }, 
     {
       "title": "New Update for Japes Icon pack is live now and is on Sale too!!",
-      "description": Added 35 new  and 4 old icons updated, version bumped to 1.2.03 !!",
+      "description": "Added 35 new and 4 old icons updated, version bumped to 1.2.03 !!",
       "url": "https://play.google.com/store/apps/details?id=suitcase.icons.japes",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_230.jpg",
       "authorname": "Asad"
@@ -2144,7 +2144,7 @@
   ],
   "widgets": [
      {
-      "title": New Weekly Update for Felix KWGT is live now!",
+      "title":"New Weekly Update for Felix KWGT is live now!",
       "description": "Added 6 new beautiful Widget, check it out",
       "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_229.jpg",
