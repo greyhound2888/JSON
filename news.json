@@ -2213,6 +2213,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "New Update for Mizu KWGT is live now!! ",
+      "description": "Added 4 new Widgets, check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_233.jpg",
+      "authorname": "Asad"
+    },
     { 
       "title":"Price Drop Alert!, Circus For Kwgt", 
       "description":"Now Only At $0.99, Grab It Now", 
