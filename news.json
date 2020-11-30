@@ -2171,6 +2171,13 @@
     }
   ],
   "widgets": [
+    {
+      "title":"Passion Kwgt Got An Update", 
+      "description":"6 New Widgets Added, Check them out", 
+      "url":"https://play.google.com/store/apps/details?id=passionkwgt.kustom.pack",
+      "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_230.jpg", 
+      "authorname":"Shanky" 
+    },
      {
       "title":"New Weekly Update for Felix KWGT is live now!",
       "description": "Added 6 new beautiful Widget, check it out",
