@@ -1386,7 +1386,7 @@
   ],
   "icons": [
        {
-      "title": "[NEW LAUNCH][SALE] LineX (Pink,Purple) Edition Icon Packs is Live now",
+      "title": "[NEW LAUNCH][SALE] LineX Pink,Purple Edition Icon Packs is Live now",
       "description": "Go get them now",
       "url": "https://twitter.com/justnewdesigns/status/1333415639076069376?s=20",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_235.jpg",
@@ -2241,6 +2241,13 @@
     }
   ],
   "widgets": [
+     {
+      "title": "Weekly Update for Vanilla KWGT is Live now",
+      "description": "3 new widgets added, Total 56 widgets",
+      "url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_235.jpg",
+      "authorname": "Kuladeep"
+     },
     {
       "title": "Weekly Update for Pineapple KWGT is Live now",
       "description": "Go check it out",
