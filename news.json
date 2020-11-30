@@ -2172,6 +2172,13 @@
   ],
   "widgets": [
     { 
+      "title":"Price Drop Alert!, Circus For Kwgt", 
+      "description":"Now Only At $0.99, Grab It Now", 
+      "url":"https://play.google.com/store/apps/details?id=circusforkwgt.kustom.pack",
+      "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_232.png", 
+      "authorname":"Shanky" 
+    },
+    { 
       "title":"New Update For IOS Widgets For Kwgt", 
       "description":"Couple Of New Widgets Added & Bug Fixes, Check It Out", 
       "url":"https://play.google.com/store/apps/details?id=com.vexcode.ioskwgt",
