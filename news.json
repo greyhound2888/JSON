@@ -30,6 +30,13 @@
     }
   ],
   "news": [
+     { 
+      "title":"[FREE] CandyCons Unwrapped, [SALE] Pixbit Icon Pack", 
+      "description":"Super Cool Icons, Go check them out!!", 
+      "url":"https://play.google.com/store/apps/dev?id=6941105890231522296", 
+      "image":"https://github.com/greyhound2888/iconPacks/raw/master/ip_233.png", 
+      "authorname":"Shanky" 
+     },
      {
       "title": "[SALE] WallRod is on black friday sale",
       "description": "Check it out",
@@ -1336,6 +1343,13 @@
     }
   ],
   "icons": [
+     { 
+      "title":"[FREE] CandyCons Unwrapped, [SALE] Pixbit Icon Pack", 
+      "description":"Super Cool Icons, Go check them out!!", 
+      "url":"https://play.google.com/store/apps/dev?id=6941105890231522296", 
+      "image":"https://github.com/greyhound2888/iconPacks/raw/master/ip_233.png", 
+      "authorname":"Shanky" 
+     },
       {
       "title": "[FREE] Icon packs by Olivera Onias",
       "description": "Multiple are free, Go check them !!",
