@@ -31,3 +31,20 @@ example....if you're adding 4 news to Wallpapers Category, copy paste 1 of them 
 
 6. Don't add shortened link in URL section, even if its provided directy from dev.
    First fully open the link, copy it and paste it in URL section.
+
+7. use tags like these at the front of the title
+[FREE], [SALE], [GIVEAWAY]
+
+
+Timings of Json Editors: 
+
+@abhisahalife b/w 9-10 a.m
+@DhanrajPriyadarshi b/w 11-1 p.m
+@Heisenberg_blue_03 b/w 12-1 p.m
+@J0HNWICK69 b/w 2-3 p.m
+@asad0_o b/w 6-7 p.m
+@spectkiller b/w 9-10 p.m
+@kuladeep96 b/w 11-12 a.m
+@subham2888 b/w 1-3 a.m
+
+
