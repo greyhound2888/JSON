@@ -38,13 +38,13 @@ example....if you're adding 4 news to Wallpapers Category, copy paste 1 of them 
 
 Timings of Json Editors: 
 
-@abhisahalife b/w 9-10 a.m
-@DhanrajPriyadarshi b/w 11-1 p.m
-@Heisenberg_blue_03 b/w 12-1 p.m
-@J0HNWICK69 b/w 2-3 p.m
-@asad0_o b/w 6-7 p.m
-@spectkiller b/w 9-10 p.m
-@kuladeep96 b/w 11-12 a.m
-@subham2888 b/w 1-3 a.m
+> @abhisahalife b/w 9-10 a.m
+> @DhanrajPriyadarshi b/w 11-1 p.m
+> @Heisenberg_blue_03 b/w 12-1 p.m
+> @J0HNWICK69 b/w 2-3 p.m
+> @asad0_o b/w 6-7 p.m
+> @spectkiller b/w 9-10 p.m
+> @kuladeep96 b/w 11-12 a.m
+> @subham2888 b/w 1-3 a.m
 
 
