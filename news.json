@@ -31,6 +31,13 @@
   ],
   "news": [
     {
+      "title": "Update for Proscreens Premium is live now",
+      "description": "Click here to see the changelogs!",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.proscreenspremium",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_335.jpg",
+      "authorname": "RaJ"
+    },
+    {
       "title": "[SALE] Gradient Icon Pack is on Sale throughout the next week",
       "description": "Go Grab this Hot Deal",
       "url": "https://play.google.com/store/apps/details?id=com.vexcode.gradient",
@@ -109,13 +116,6 @@
     }
   ],
   "wallpapers": [
-    {
-      "title": "[UPDATE] Update for Proscreens Premium is live now",
-      "description": "Click here to see the changelogs!",
-      "url": "https://play.google.com/store/apps/details?id=com.iambavith.proscreenspremium",
-      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_335.jpg",
-      "authorname": "RaJ"
-    },
     {
       "title": "Some Walls by Arijit",
       "description": "Go Get them now!!",
