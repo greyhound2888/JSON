@@ -117,6 +117,13 @@
   ],
   "wallpapers": [
     {
+      "title": "Some Icon Wallpapers by dBrand",
+      "description": "Check them now!!",
+      "url": "https://dbrand.com/icons/wallpapers",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_344.png",
+      "authorname": "Kirtan Patel"
+    },
+    {
       "title": "Daily Update for Wallsy",
       "description": "3 New illustration walls added!!!",
       "url": "https://twitter.com/SK_wallpapers_/status/1334587937325924352?s=20",
@@ -484,6 +491,13 @@
     }
   ],
   "widgets": [
+     {
+      "title": "[UPDATE] Weekly Update for Vanilla KWGT is LIVE",
+      "description": "4 New Widgets are Added(Total 60 Widgets now)",
+      "url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_245.jpg",
+      "authorname": "Kirtan Patel"
+    },
     {
       "title": "[UPDATE] First update for Crystal KWGT is live now in PlayStore.",
       "description": "Check it Out!!!",
