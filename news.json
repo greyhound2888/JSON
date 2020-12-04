@@ -117,6 +117,20 @@
   ],
   "wallpapers": [
     {
+      "title": "Daily Update for Wallsy",
+      "description": "3 New illustration walls added!!!",
+      "url": "https://twitter.com/inbaraju_d/status/1334683175210024960?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_343.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "New Wallpapers Added in Wallpin Wallpapers",
+      "description": "2 New walls added!!!",
+      "url": "https://twitter.com/21MaRcO12/status/1334606363780149257?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_342.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
       "title": "New Wallpapers Added in Eve Walls collection",
       "description": "Go Check Them Out!!!",
       "url": "https://twitter.com/mhcharlee/status/1334453400717713409?s=20",
@@ -301,8 +315,15 @@
   ],
   "icons": [
     {
+      "title": "[UPDATE] [SALE] New update of iONS icon pack is live on Play Store, and it is free for a day",
+      "description": "Grab them before the sale ends!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.ions.pack",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_242.png",
+      "authorname": "Dhanraj"
+    },
+    {
       "title": "[SALE] Caelus icon pack is on SALE!!!",
-      "description": "Grab them before the sale ends",
+      "description": "Grab them before the sale ends!!",
       "url": "https://play.google.com/store/apps/details?id=studio14.application.caelus",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_241.png",
       "authorname": "Dhanraj"
@@ -463,6 +484,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[UPDATE] First update for Crystal KWGT is live now in PlayStore.",
+      "description": "Check it Out!!!",
+      "url": "https://play.google.com/store/apps/details?id=crystal.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_244.jpg",
+      "authorname": "Dhanraj"
+    },
     {
       "title": "Free KWGT Widget by Rc",
       "description": "Check it Out!!!",
