@@ -569,6 +569,13 @@
   ],
   "widgets": [
     {
+      "title": "New update for Evoque kwgt is out",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=evoquekwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_252.jpg",
+      "authorname": "Professor"
+    },
+    {
       "title": "Cream Kwgt got an update",
       "description": "5 New widgets added, Check it out",
       "url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
