@@ -639,6 +639,13 @@
   ],
   "widgets": [
     {
+      "title": "New update for element kwgt is out",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_255.jpg",
+      "authorname": "Professor"
+    },
+    {
       "title": "[FREE] Passion kwgt got an update",
       "description": "Check it out",
       "url": "https://play.google.com/store/apps/details?id=passionkwgt.kustom.pack",
