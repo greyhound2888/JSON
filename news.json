@@ -702,6 +702,27 @@
   ],
   "widgets": [
     {
+      "title": "Foxie KWGT got an Update",
+      "description": "3 New Widgets added",
+      "url": "https://play.google.com/store/apps/details?id=foxieforkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_258.jpg",
+      "authorname": "Kuladeep"
+     },
+     {
+      "title": "Freshie KWGT got an Update",
+      "description": "8 New Widgets added",
+      "url": "https://play.google.com/store/apps/details?id=com.freshiekwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_257.jpg",
+      "authorname": "Kuladeep"
+     },
+     {
+    "title": "Weekly update of Felix KWGT is out",
+    "description": "8 New Widgets added, Total 44 Widgets",
+    "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+    "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_256.jpg",
+    "authorname": "Kuladeep"
+   },
+    {
       "title": "New update for element kwgt is out",
       "description": "Check it out",
       "url": "https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
