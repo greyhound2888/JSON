@@ -405,7 +405,28 @@
     }
   ],
   "icons": [
-     {
+    {
+      "title": "Weekly Reev Pro Update is LIVE!",
+      "description": "20 New Icons added, Total 1120 icons",
+      "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_255.jfif",
+      "authorname": "Aniket"
+    }, 
+    {
+      "title": "Beeline Icon Pack Update 1.5 available now",
+      "description": "200+ New Icons added, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_254.jfif",
+      "authorname": "Aniket"
+    }, 
+    {
+      "title": "Japes Icon Pack Updated with 35 new + 2 Updated Icons",
+      "description": "Icons now are more than 1600",
+      "url": "https://play.google.com/store/apps/details?id=suitcase.icons.japes",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_253.jpg",
+      "authorname": "Aniket"
+    }, 
+    {
       "title": "Borealis icon pack got an update",
       "description": "70+ new icons added, Check it out",
       "url": "https://play.google.com/store/apps/details?id=com.unvoid.borealis",
