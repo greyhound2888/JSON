@@ -138,6 +138,13 @@
   ],
   "wallpapers": [
     {
+      "title": "New 30 wallpapers added in MyWallApp",
+      "description": "Check it out",
+      "url": "https://twitter.com/gseth83/status/1335260295086764034?s=09",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_347.jpg",
+      "authorname": "Professor"
+    },
+    {
       "title": "New Wallpapers added in Wallipop",
       "description": "Check it out",
       "url": "https://twitter.com/ArrowWalls/status/1335232072542089216?s=19",
@@ -610,6 +617,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "New update for Blueberry kwgt is out",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=blueberrykwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_253.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "New update for Evoque kwgt is out",
       "description": "Check it out",
