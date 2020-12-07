@@ -137,8 +137,22 @@
     }
   ],
   "wallpapers": [
+      {
+      "title": "New Wallpapers by Jianoliu",
+      "description": "Download them now!!",
+      "url": "https://twitter.com/jianoliu/status/1335658615873490949?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_358.jpeg",
+      "authorname": "Yudha"
+    }, 
     {
-      "title": "4 New Walls Added in pixWalls",
+      "title": "New Wall pack by Jfl",
+      "description": "Check it out now",
+      "url": "https://twitter.com/wallsbyjfl/status/1335798986117181440?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_357.jpeg",
+      "authorname": "Yudha"
+    }, 
+    {
+      "title": "4 New Walls Added in PixWalls",
       "description": "Check it out",
       "url": "https://twitter.com/sreeragag7/status/1335572853844893698?s=20",
       "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_356.png",
