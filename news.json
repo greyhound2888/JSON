@@ -489,7 +489,21 @@
     }
   ],
   "icons": [
-   {
+ {
+ 	"title": "Hera Icon Pack Updated ",
+ 	"description": "Added 50 New icons, Total 2200 icons now",
+ 	"url": "https://play.google.com/store/apps/details?id=studio14.application.hera",
+ 	"image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_267.png",
+ 	"authorname": "Aniket"
+ },
+    {
+ 	"title": "[SALE] Color line dark Icon Pack is on SALE",
+ 	"description": "50% off, depending on country",
+ 	"url": "https://play.google.com/store/apps/details?id=color.line.dark",
+ 	"image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_266.png",
+ 	"authorname": "Aniket"
+ },
+ {
  	"title": "[FREE] [NEW] Mator Icon Pack is live on Google Playstore!",
  	"description": "Available for free till 9 dec, Check it out",
  	"url": "https://play.google.com/store/apps/details?id=com.matorgk.iconpack",
