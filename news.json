@@ -137,6 +137,27 @@
     }
   ],
   "wallpapers": [
+     {
+      "title": "New Update for Prism Wallpapers is now up on playstore",
+      "description": "Go check it out",
+      "url": "https://twitter.com/PrismWallpapers/status/1336330310309400577?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_368.jfif",
+      "authorname": "Aniket"
+    }, 
+    {
+      "title": "[FREE] New walls by Rishi Bafna",
+      "description": "Heavens 2.0, 3 New Walls + alt versions",
+      "url": "https://twitter.com/RshBfn/status/1336322352754221063?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_367.jfif",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "[FREE] New walls by Dave",
+      "description": "Check them out",
+      "url": "https://twitter.com/DaveGeek1/status/1336296645189906432?s=20",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_366.png",
+      "authorname": "Aniket"
+    },
     {
       "title": "[FREE] New walls by Arjit",
       "description": "Check them out",
@@ -505,7 +526,7 @@
  },
     {
  	"title": "[SALE] Color line dark Icon Pack is on SALE",
- 	"description": "50% off, depending on country",
+ 	"description": "50% off, Depending on country",
  	"url": "https://play.google.com/store/apps/details?id=color.line.dark",
  	"image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_266.png",
  	"authorname": "Aniket"
