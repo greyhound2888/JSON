@@ -38,14 +38,39 @@
       "twitter": "https://twitter.com/asad0_o"
     },
     {
+      "name": "RaJ",
+      "image": "https://github.com/greyhound2888/Our-Team/raw/main/raj.png",
+      "twitter": "https://twitter.com/spectkiller?s=20"
+    },
+    {
+      "name": "Raj",
+      "image": "https://pbs.twimg.com/profile_images/1316080784428748803/Id2nKTI2_400x400.jpg",
+      "twitter": "https://twitter.com/PR0FESS0R7?s=20"
+    },
+    {
+      "name": "Shanky",
+      "image": "https://github.com/greyhound2888/Our-Team/raw/main/shanky.jpg",
+      "twitter": "https://twitter.com/SinghSansoa?s=09"
+    },
+    {
+      "name": "Dhanraj",
+      "image": "https://pbs.twimg.com/profile_images/1327212691937628160/EmM7uFoV_400x400.png",
+      "twitter": "https://mobile.twitter.com/BerserkDhanraj"
+    },
+    {
+      "name": "Kuladeep",
+      "image": "https://pbs.twimg.com/profile_images/1330741568920141824/Kkwu5Esc_400x400.jpg",
+      "twitter": "https://twitter.com/96Kuladeep"
+    },
+    {
+      "name": "Aniket",
+      "image": "https://pbs.twimg.com/profile_images/1333071321882710019/lWK2clKs_400x400.jpg",
+      "twitter": "https://twitter.com/Aniketdhamale02?s=09"
+    },
+    {
       "name": "Sangam",
       "image": "https://github.com/greyhound2888/Our-Team/raw/main/sangam.jpg",
       "twitter": "https://twitter.com/sangampandasp9?s=20"
-    },
-    {
-      "name": "Kevin",
-      "image": "https://pbs.twimg.com/profile_images/1279641105181507584/1muWQaBW_400x400.jpg",
-      "twitter": "https://twitter.com/tailoristic?s=20"
     },
     {
       "name": "Rc",
@@ -73,14 +98,10 @@
       "twitter": "https://twitter.com/PB07MANI?s=20"
     },
     {
-      "name": "RaJ",
-      "image": "https://github.com/greyhound2888/Our-Team/raw/main/raj.png",
-      "twitter": "https://twitter.com/spectkiller?s=20"
-    },
-    {
-      "name": "Sahil",
-      "image": "https://pbs.twimg.com/profile_images/1316080784428748803/Id2nKTI2_400x400.jpg",
-      "twitter": "https://twitter.com/PR0FESS0R7?s=20"
+      "name": "Kevin",
+      "image": "https://pbs.twimg.com/profile_images/1279641105181507584/1muWQaBW_400x400.jpg",
+      "twitter": "https://twitter.com/tailoristic?s=20"
     }
+    
   ]
 }
