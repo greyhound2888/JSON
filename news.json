@@ -1002,6 +1002,20 @@
     }
   ],
   "widgets": [
+       {
+        "title": "Style KWGT got an update",
+        "description": "3 new widgets added, total 56 widgets",
+        "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+        "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_268.jpg",
+        "authorname": "Kuladeep"
+      },
+     {
+      "title": "Zen KWGT got an update",
+      "description": "3 new widgets added",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelvibe.zen",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_267.jpg",
+      "authorname": "Kuladeep"
+    },
      {
       "title": "New Update for Cream Kwgt is live now!",
       "description": "Added 8 new widgets added, Check it out",
