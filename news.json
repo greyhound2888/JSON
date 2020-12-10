@@ -1,12 +1,12 @@
 {
   "highlights": [
     {
-      "title": "New Update for Candycons Unwrapped & Pixbit is live now!!",
-      "description": "Candycons bumped to V8.5 & Pixbit bumped to V15.4, check it now!",
-      "url": "https://play.google.com/store/apps/dev?id=6941105890231522296",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/cp.jpg",
+      "title": "[FREE]iOS-X iOS experience for KLWP is live now!",
+      "description": "",
+      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.iosx",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_58.jpg",
       "authorname": "Asad"
-     },
+    },
     {
       "title": "Join Our Telegram Support Group",
       "description": "Click Here to Join !!!",
@@ -158,6 +158,13 @@
     }
   ],
   "wallpapers": [
+       {
+      "title": "New wallpapers added in Wallspaper, check it now!",
+      "description": "Added 15 new walls in sunset category, check it now!",
+      "url": "https://twitter.com/wallspaper2020/status/1336987239532777472?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_378.jpg",
+      "authorname": "Asad"
+    },
        {
         "title": "New wallpapers added to Wallipop",
         "description": "Check them out",
@@ -981,6 +988,13 @@
     }
   ],
   "widgets": [
+     {
+      "title": "New Update for Cream Kwgt is live now!",
+      "description": "Added 8 new widgets added, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_266.jpg",
+      "authorname": "Asad"
+    },
       {
       "title": "Update for Sheer KWGT is now live on playstore",
       "description": "Check out whats new",
@@ -1298,7 +1312,21 @@
     }
   ],
   "klwp": [
+   {
+      "title": "[FREE]iOS-X iOS experience for KLWP is live now!",
+      "description": "Go get now for free!!",
+      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.iosx",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_58.jpg",
+      "authorname": "Asad"
+    },
     {
+      "title": "New update for TooWenty KLWP is live now!",
+      "description": "Added a new preset, total 17 presets,check it now",
+      "url": "https://play.google.com/store/apps/details?id=com.nishantchaudhary.toowenty",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_57.jpg",
+      "authorname": "Asad"
+    },
+   {
       "title": "[FREE] Kustom Pixel 2 Klwp is now available",
       "description": "Go Try It Out",
       "url": "https://twitter.com/GilbertoGM4/status/1319839458590679040?s=09",
