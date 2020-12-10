@@ -24,6 +24,13 @@
   ],
   "news": [
      {
+      "title": "[FREE] Kustom Pixel 2 Klwp is now available",
+      "description": "Go Try It Out",
+      "url": "https://twitter.com/GilbertoGM4/status/1319839458590679040?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_56.jpg",
+      "authorname": "Shanky"
+     },
+     {
       "title": "[GIVEAWAY] [SALE] Get a chance to win WalliPop promo code",
       "description": "Enter the giveaway here!!",
       "url": "https://twitter.com/ArrowWalls/status/1336537357663789058?s=20",
@@ -574,6 +581,20 @@
   ],
   "icons": [
     {
+    "title": "Vinty Icon Pack gets an Update",
+    "description": "Check out whats new",
+    "url": "https://play.google.com/store/apps/details?id=com.esethnet.vinty",
+    "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_272.jpg",
+    "authorname": "Shanky"
+    },
+    {
+    "title": "AlineT icon pack Update is now live on playstore",
+    "description": "Check it out here",
+    "url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.alinet",
+    "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_273.jpg",
+    "authorname": "Shanky"
+    },
+    {
     "title": "Pandemic Icon Pack gets an Update",
     "description": "40+ New icons added, check it out",
     "url": "https://play.google.com/store/apps/details?id=com.vertumus.pandemic",
@@ -947,6 +968,20 @@
   ],
   "widgets": [
       {
+      "title": "Update for Sheer KWGT is now live on playstore",
+      "description": "Check out whats new",
+      "url": "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_265.jpg",
+      "authorname": "Shanky"
+     },
+      {
+      "title": "Christmas for Kwgt will be live tommorow",
+      "description": "Check out more details here",
+      "url": "https://twitter.com/GilbertoGM4/status/1336830342313938946?s=09",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_264.jpg",
+      "authorname": "Shanky"
+     },
+      {
       "title": "Update for Crystal KWGT is live",
       "description": "5 New Widgets Added, Total 40 Widgets, Check them out",
       "url": "https://play.google.com/store/apps/details?id=crystal.kustom.pack",
@@ -1249,6 +1284,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "[FREE] Kustom Pixel 2 Klwp is now available",
+      "description": "Go Try It Out",
+      "url": "https://twitter.com/GilbertoGM4/status/1319839458590679040?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_56.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Gradjent Rebirth Is Now Available In The Free Version Of Gradjent",
       "description": "Go Try It Out",
