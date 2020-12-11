@@ -1,25 +1,25 @@
 {
   "highlights": [
+     {
+          "title": "Wall-E wallpapers is now live on Play store",
+          "description": "Includes 40 walls on initial release more to be added, check it now!!!!",
+          "url": "https://play.google.com/store/apps/details?id=walle.kustom.pack",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_383.jpg",
+          "authorname": "Asad"
+        },
     {
-      "title": "[FREE]iOS-X iOS experience for KLWP is live now!",
-      "description": "",
-      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.iosx",
-      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_58.jpg",
-      "authorname": "Asad"
-    },
+          "title": "Weekly Update for Nebula Icon pack is live now!!",
+          "description": "Added 33 new icons, total 1515 icons, check it now!!",
+          "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_278.jpg",
+          "authorname": "Asad"
+      },
     {
       "title": "Join Our Telegram Support Group",
       "description": "Click Here to Join !!!",
       "url": "https://t.me/SubhamSahaDesigns",
       "image": "https://github.com/greyhound2888/Our-Team/raw/main/support_group.png",
       "authorname": "Subham Saha"
-    },
-    {
-      "title": "Giveaway by Arijit",
-      "description": "Participate in it for a chance to grab some codes!!",
-      "url": "https://twitter.com/arijitbasak_23/status/1330360369546608640?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/wallpapers/master/arijit.giveaway.jpeg",
-      "authorname": "Yudha"
     }
   ],
   "news": [
@@ -29,7 +29,7 @@
         "url": "https://play.google.com/store/apps/details?id=lp.icon.roundies.ada",
         "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_277.jpg",
         "authorname": "Professor"
-       },
+   },
     {
       "title": "[GIVEAWAY][SALE] Anubis Icon Packs are now Available",
       "description": "30 Codes Giveaway, go check them out",
@@ -172,6 +172,20 @@
     }
   ],
   "wallpapers": [
+       {
+          "title": "Wall-E wallpapers is now live on Play store",
+          "description": "Includes 40 walls on initial release more to be added, check it now!!!!",
+          "url": "https://play.google.com/store/apps/details?id=walle.kustom.pack",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_383.jpg",
+          "authorname": "Asad"
+        },
+       {
+          "title": "New wallpapers added in Nick's collection",
+          "description": "Check them out",
+          "url": "https://twitter.com/NickNice85/status/1337330302503497733?s=09",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_382.jpg",
+          "authorname": "Asad"
+        },
        {
           "title": "New landscape wallpapers added in Prism Wallpapers",
           "description": "Check them out",
@@ -636,6 +650,13 @@
     }
   ],
   "icons": [
+       {
+          "title": "Weekly Update for Nebula Icon pack is live now!!",
+          "description": "Added 33 new icons, total 1515 icons, check it now!!",
+          "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_278.jpg",
+          "authorname": "Asad"
+        },
      {
         "title": "[FREE] Roundies ada Icon Pack is free for limited time",
         "description": "Check it out!!",
