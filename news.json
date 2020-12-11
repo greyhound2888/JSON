@@ -23,6 +23,13 @@
     }
   ],
   "news": [
+     {
+          "title": "[SALE] RedLine Icon pack is on Sale.",
+          "description": "10 Promo codes to lucky retweets",
+          "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_281.jpg",
+          "authorname": "RaJ"
+        },
     {
         "title": "[FREE] Roundies ada Icon Pack is free for limited time",
         "description": "Check it out!!",
@@ -657,7 +664,28 @@
     }
   ],
   "icons": [
-       {
+        {
+          "title": "[SALE] RedLine Icon pack is on Sale.",
+          "description": "10 Promo codes to lucky retweets",
+          "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_281.jpg",
+          "authorname": "RaJ"
+        },
+        {
+          "title": "Aline Icon pack is Updated",
+          "description": "Added 50 new icons [total 1150]",
+          "url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.aline",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_280.jpg",
+          "authorname": "RaJ"
+        },
+        {
+          "title": "Update for Galica is out now",
+          "description": "Added 21 New Icons",
+          "url": "https://play.google.com/store/apps/details?id=galica.rose.duke.com",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_279.jpg",
+          "authorname": "RaJ"
+        },  
+    {
           "title": "Weekly Update for Nebula Icon pack is live now!!",
           "description": "Added 33 new icons, total 1515 icons, check it now!!",
           "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
@@ -1072,6 +1100,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Finesta KWGT V5.0 Update live on playstore",
+      "description": "Added 8 New Widgets [total 82]",
+      "url": "https://play.google.com/store/apps/details?id=finestakwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_272.jpg",
+      "authorname": "RaJ"
+    },
     {
       "title": "Neuon KWGT got an update",
       "description": "Check it out",
