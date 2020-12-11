@@ -24,6 +24,13 @@
   ],
   "news": [
     {
+        "title": "[FREE] Roundies ada Icon Pack is free for limited time",
+        "description": "Check it out!!",
+        "url": "https://play.google.com/store/apps/details?id=lp.icon.roundies.ada",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_277.jpg",
+        "authorname": "Professor"
+       },
+    {
       "title": "[GIVEAWAY][SALE] Anubis Icon Packs are now Available",
       "description": "30 Codes Giveaway, go check them out",
       "url": "https://twitter.com/EatosApps/status/1337036699550019588?s=20",
@@ -165,6 +172,13 @@
     }
   ],
   "wallpapers": [
+       {
+          "title": "New landscape wallpapers added in Prism Wallpapers",
+          "description": "Check them out",
+          "url": "https://twitter.com/PrismWallpapers/status/1337304998917545986?s=19",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_380.jpg",
+          "authorname": "Professor"
+        },
        {
           "title": "Swift Walls got an major update",
           "description": "New designs, new filters, 700+ new wallpapers, go check them",
@@ -622,6 +636,13 @@
     }
   ],
   "icons": [
+     {
+        "title": "[FREE] Roundies ada Icon Pack is free for limited time",
+        "description": "Check it out!!",
+        "url": "https://play.google.com/store/apps/details?id=lp.icon.roundies.ada",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_277.jpg",
+        "authorname": "Professor"
+       },
        {
         "title": "[SALE] Borealis Icon Pack is on sale",
         "description": "50% off, go check it out!!",
@@ -1023,6 +1044,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "New widgets added in Mizu KWGT",
+      "description": "Check them out",
+      "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_270.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "Update for Shadow Kwgt is now live on playstore",
       "description": "Check out whats new",
