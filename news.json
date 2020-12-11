@@ -23,14 +23,21 @@
     }
   ],
   "news": [
-     {
+    {
+      "title": "[GIVEAWAY][SALE] Anubis Icon Packs are now Available",
+      "description": "30 Codes Giveaway, go check them out",
+      "url": "https://twitter.com/EatosApps/status/1337036699550019588?s=20",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_275.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "[FREE] Kustom Pixel 2 Klwp is now available",
       "description": "Go Try It Out",
       "url": "https://twitter.com/GilbertoGM4/status/1319839458590679040?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_56.jpg",
       "authorname": "Shanky"
-     },
-     {
+    },
+    {
       "title": "[GIVEAWAY] [SALE] Get a chance to win WalliPop promo code",
       "description": "Enter the giveaway here!!",
       "url": "https://twitter.com/ArrowWalls/status/1336537357663789058?s=20",
@@ -1016,13 +1023,20 @@
     }
   ],
   "widgets": [
-       {
-        "title": "Style KWGT got an update",
-        "description": "3 new widgets added, total 56 widgets",
-        "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
-        "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_268.jpg",
-        "authorname": "Kuladeep"
-      },
+    {
+      "title": "Update for Shadow Kwgt is now live on playstore",
+      "description": "Check out whats new",
+      "url": "https://play.google.com/store/apps/details?id=shadowkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_269.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Style KWGT got an update",
+      "description": "3 new widgets added, total 56 widgets",
+      "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_268.jpg",
+      "authorname": "Kuladeep"
+     },
      {
       "title": "Zen KWGT got an update",
       "description": "3 new widgets added",
