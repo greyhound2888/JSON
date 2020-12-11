@@ -1045,6 +1045,13 @@
   ],
   "widgets": [
     {
+      "title": "Neuon KWGT got an update",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=neuonkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_271.jpg",
+      "authorname": "Professor"
+},
+    {
       "title": "New widgets added in Mizu KWGT",
       "description": "Check them out",
       "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
