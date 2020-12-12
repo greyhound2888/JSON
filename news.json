@@ -24,6 +24,13 @@
   ],
   "news": [
      {
+          "title": "[SALE] Crayon Icon Pack is on Sale",
+          "description": "10 Free Promo codes to Lucky retweets in a 3 days",
+          "url": "https://twitter.com/justnewdesigns/status/1337762691465662467?s=20",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_286.jpg",
+          "authorname": "Aniket"
+        }, 
+    {
           "title": "[SALE] RedLine Icon pack is on Sale.",
           "description": "10 Promo codes to lucky retweets",
           "url": "https://twitter.com/justnewdesigns/status/1337435279913672705?s=09",
@@ -685,7 +692,21 @@
     }
   ],
   "icons": [
-       {
+    {
+          "title": "[SALE] Crayon Icon Pack is on Sale",
+          "description": "10 Free Promo codes to Lucky retweets in a 3 days",
+          "url": "https://twitter.com/justnewdesigns/status/1337762691465662467?s=20",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_286.jpg",
+          "authorname": "Aniket"
+        },  
+    {
+          "title": "[SALE] Xperia Icon Pack is on Sale",
+          "description": "Go check it out",
+          "url": "https://play.google.com/store/apps/details?id=com.cris87.xperia",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_285.jpg",
+          "authorname": "Aniket"
+        },   
+    {
           "title": "New Update for Squared Icon pack is live!",
           "description": "Version bumped to 3.2.0, added 30+ new icons, check it now!!",
           "url": "https://play.google.com/store/apps/details?id=com.sreerag.squared",
