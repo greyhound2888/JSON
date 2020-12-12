@@ -685,6 +685,13 @@
     }
   ],
   "icons": [
+       {
+          "title": "New Update for Squared Icon pack is live!",
+          "description": "Version bumped to 3.2.0, added 30+ new icons, check it now!!",
+          "url": "https://play.google.com/store/apps/details?id=com.sreerag.squared",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_284.jpg",
+          "authorname": "Asad"
+        },
         {
           "title": "[SALE] RedLine Icon pack is on Sale.",
           "description": "10 Promo codes to lucky retweets",
