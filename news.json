@@ -1121,7 +1121,14 @@
     }
   ],
   "widgets": [
-    {
+   {
+      "title": "New Update for iOsMiXKwgt is live now!!",
+      "description": "Introduced new app icon, added 10 new iOS widgets, total 100 now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.iosmixkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_273.jpg",
+      "authorname": "Asad"
+    },
+   {
       "title": "Finesta KWGT V5.0 Update live on playstore",
       "description": "Added 8 New Widgets [total 82]",
       "url": "https://play.google.com/store/apps/details?id=finestakwgt.kustom.pack",
