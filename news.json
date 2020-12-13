@@ -692,9 +692,37 @@
     }
   ],
   "icons": [
+        {
+          "title": "[SALE] MIU! Carbon icon pack is current on sale",
+          "description": "Go check it out",
+          "url": "https://play.google.com/store/apps/details?id=com.cris87.miuicarbon",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_290.jpg",
+          "authorname": "Shanky"
+        },
+        {
+          "title": "Update for Baccara adaptive icon pack is live on play store",
+          "description": "20 new icons added in the update, go check it out",
+          "url": "https://play.google.com/store/apps/details?id=baccara.rose.duke.com",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_289.jpg",
+          "authorname": "Shanky"
+        },
+        {
+          "title": "[SALE] Catalyst Premium icon pack is currently on sale",
+          "description": "Go grab it at 70% off right now",
+          "url": "https://play.google.com/store/apps/details?id=com.catalystmedia.iconpack.catalystux.applications.CandyBar",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_288.jpg",
+          "authorname": "Shanky"
+        },
+        {
+          "title": "A couple of free icon packs by Olivera Onias Designs",
+          "description": "Click here to get the free icons",
+          "url": "https://play.google.com/store/apps/dev?id=8582752175205301328",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_287.jpg",
+          "authorname": "Shanky"
+        },
     {
           "title": "[SALE] Crayon Icon Pack is on Sale",
-          "description": "10 Free Promo codes to Lucky retweets in a 3 days",
+          "description": "10 Free Promo codes to Lucky retweets in 3 days",
           "url": "https://twitter.com/justnewdesigns/status/1337762691465662467?s=20",
           "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_286.jpg",
           "authorname": "Aniket"
