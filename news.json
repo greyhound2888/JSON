@@ -1648,7 +1648,14 @@
     }
   ],
   "klwp": [
-   {
+    {
+      "title": "[FREE] New Free Package of themes for KLWP is live on PlayStore",
+      "description": "Go get now for free",
+      "url": "https://play.google.com/store/apps/details?id=sharedthemecollectionforklwpvol2.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_59.jpg",
+      "authorname": "Aniket"
+    },
+    {
       "title": "[FREE]iOS-X iOS experience for KLWP is live now!",
       "description": "Go get now for free!!",
       "url": "https://play.google.com/store/apps/details?id=ml.undefyned.iosx",
