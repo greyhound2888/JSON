@@ -1,5 +1,12 @@
 {
   "highlights": [
+    {
+      "title": "Aphemis KWGT New Update is LIVE!!!",
+      "description": "Added 3 new widgets, total count 42 now, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_281.jpg",
+      "authorname": "Dhanraj"
+    },
      {
       "title": "Weekly Update for Reev Pro is live now!!",
       "description": "Added 3 new widgets and 21 new icons, also fixed icons activities, total 1141 icons now!!",
@@ -207,6 +214,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New wallpapers added to Wall-E Wallpapers",
+      "description": "Check it out!!!",
+      "url": "https://twitter.com/ChrisJ4ck/status/1338512109550886913?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_393.jpg",
+      "authorname": "Dhanraj"
+    },
      {
       "title": "[UPDATE] New Update for Wall Vibes is Live",
       "description": "14 New Cyberpunk Walls are Added",
@@ -748,6 +762,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "[UPDATE]New icons added to Caelus Icon Packs!!",
+      "description": "50 new icons coming soon in Caelus icon packs! 1250 icons in total now in all 3 packs.!!",
+      "url": "https://play.google.com/store/apps/dev?id=7550572979310204381",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_296.jpg",
+      "authorname": "Dhanraj"
+    },
   {
       "title": "Weekly Update for Reev Pro is live now!!",
       "description": "Added 3 new widgets and 21 new icons, also fixed icons activities, total 1141 icons now!!",
@@ -1269,14 +1290,28 @@
   ],
   "widgets": [
     {
-      "title": "New Update for Like Kwgt is live now!",
-      "description": "Added 10 new widgets, total count 70 now, Check it out",
+      "title": "Aphemis KWGT New Update is LIVE!!!",
+      "description": "Added 3 new widgets, total count 42 now, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_281.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "New Update for Aleria KWGT is live now!",
+      "description": "Added 4 new widgets, total count 69 now, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=dev.widgetology.aleria",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_280.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "New Update for Like KWGT is live now!",
+      "description": "Added 10 new widgets, total 70 widgets now, Check it out",
       "url": "https://play.google.com/store/apps/details?id=com.likekwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_279.jpg",
       "authorname": "Asad"
     },
     {
-      "title": "Weekly Update for Enterprise Kwgt is live now!",
+      "title": "Weekly Update for Enterprise KWGT is live now!",
       "description": "Added 5 new widgets, Check it out",
       "url": "https://play.google.com/store/apps/details?id=enterprisekwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_278.jpg",
@@ -1683,6 +1718,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "New preset Petal is added to Ember KLWP",
+      "description": "Check it out!!!",
+      "url": "https://play.google.com/store/apps/details?id=pl.mhcharlee.ember",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_60.jpg",
+      "authorname": "Dhanraj"
+    },
     {
       "title": "[FREE] New Free Package of themes for KLWP is live on PlayStore",
       "description": "Go get now for free",
