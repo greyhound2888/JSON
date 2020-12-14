@@ -1,12 +1,12 @@
 {
   "highlights": [
      {
-          "title": "Wall-E wallpapers is now live on Play store",
-          "description": "Includes 40 walls on initial release more to be added, check it now!!!!",
-          "url": "https://play.google.com/store/apps/details?id=walle.kustom.pack",
-          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_383.jpg",
-          "authorname": "Asad"
-        },
+      "title": "Weekly Update for Reev Pro is live now!!",
+      "description": "Added 3 new widgets and 21 new icons, also fixed icons activities, total 1141 icons now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_295.jpg",
+      "authorname": "Asad"
+    },
     {
           "title": "Weekly Update for Nebula Icon pack is live now!!",
           "description": "Added 33 new icons, total 1515 icons, check it now!!",
@@ -748,7 +748,14 @@
     }
   ],
   "icons": [
-    {
+  {
+      "title": "Weekly Update for Reev Pro is live now!!",
+      "description": "Added 3 new widgets and 21 new icons, also fixed icons activities, total 1141 icons now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_295.jpg",
+      "authorname": "Asad"
+    },
+   {
       "title": "Sliced Icon Pack Got An Update",
       "description": "20 New Icons are Added, Go check them now!!",
       "url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
@@ -1261,7 +1268,14 @@
     }
   ],
   "widgets": [
-     {
+    {
+      "title": "Weekly Update for Enterprise Kwgt is live now!",
+      "description": "5 new widgets are added, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=enterprisekwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_278.jpg",
+      "authorname": "Asad"
+    },
+    {
       "title": "Weekly update for Felix KWGT is now live on PlayStore ",
       "description": "Added 3 New Widgets (Total 47 Widgets Now)",
       "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
