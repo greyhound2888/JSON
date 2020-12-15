@@ -31,6 +31,13 @@
   ],
   "news": [
     {
+      "title": "[SALE] One4KWGT Is on sale!",
+      "description": "Upto 50% off, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4kwgtpro",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_283.jpg",
+      "authorname": "Professor"
+},
+    {
       "title": "[FREE] Entire Wallpaper Collections Google Drive Folder by @Arthur1992aS",
       "description": "Take a look Now !!!",
       "url": "https://twitter.com/Arthur1992aS/status/1337528071805669376?s=09",
@@ -214,6 +221,20 @@
     }
   ],
   "wallpapers": [
+    {
+          "title": "[FREE] New walls by Jianoliu",
+          "description": "Click Them out",
+          "url": "https://twitter.com/jianoliu/status/1338736757542547456?s=20",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_395.jpg",
+          "authorname": "Professor"
+},
+    {
+          "title": "[FREE] New telegram channel for walls by Naito",
+          "description": "Click here to join",
+          "url": "https://twitter.com/not_naito/status/1338725532771368962?s=09",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_394.jpg",
+          "authorname": "Professor"
+},
     {
       "title": "New wallpapers added to Wall-E Wallpapers",
       "description": "Check it out!!!",
@@ -763,6 +784,13 @@
   ],
   "icons": [
     {
+        "title": "New update for Chic icon pack is out",
+        "description": "Check it out!!",
+        "url": "https://play.google.com/store/apps/details?id=dev.lknninex.chic",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_297.jpg",
+        "authorname": "Professor"
+       },
+    {
       "title": "[UPDATE]New icons added to Caelus Icon Packs!!",
       "description": "50 new icons coming soon in Caelus icon packs! 1250 icons in total now in all 3 packs.!!",
       "url": "https://play.google.com/store/apps/dev?id=7550572979310204381",
@@ -1289,6 +1317,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[SALE] One4KWGT Is on sale!",
+      "description": "Upto 50% off, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4kwgtpro",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_283.jpg",
+      "authorname": "Professor"
+},
+    {
+      "title": "Pineapple KWGT got an update",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_282.jpg",
+      "authorname": "Professor"
+},
     {
       "title": "Aphemis KWGT New Update is LIVE!!!",
       "description": "Added 3 new widgets, total count 42 now, Check it out",
