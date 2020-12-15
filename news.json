@@ -1,18 +1,25 @@
 {
   "highlights": [
-    {
+  {
+          "title": "Prism Giveaway!!",
+          "description": "!!",
+          "url": "https://t.me/PrismWallpapers/1710",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/Prgway.jpg",
+          "authorname": "Asad"
+  },
+ {
+          "title": "Metal Redefined is Live with early bird Sale for limited time!!",
+          "description": "Released with 2500+ icons, sale ends in 6 days from now!!",
+          "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Metalv2",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_299.jpg",
+          "authorname": "Asad"
+  },  
+  {
       "title": "Aphemis KWGT New Update is LIVE!!!",
       "description": "Added 3 new widgets, total count 42 now, Check it out",
       "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_281.jpg",
       "authorname": "Dhanraj"
-    },
-     {
-      "title": "Weekly Update for Reev Pro is live now!!",
-      "description": "Added 3 new widgets and 21 new icons, also fixed icons activities, total 1141 icons now!!",
-      "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_295.jpg",
-      "authorname": "Asad"
     },
     {
           "title": "Weekly Update for Nebula Icon pack is live now!!",
@@ -221,6 +228,13 @@
     }
   ],
   "wallpapers": [
+      {
+          "title": "[FREE] Dark Gradient Walls ",
+          "description": "check it out!!",
+          "url": "https://twitter.com/sreeragag7/status/1338831372836868099?s=20",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_396.jpg",
+          "authorname": "Asad"
+     },
     {
           "title": "[FREE] New walls by Jianoliu",
           "description": "Click Them out",
@@ -783,6 +797,20 @@
     }
   ],
   "icons": [
+    {
+          "title": "Metal Redefined is Live with early bird Sale for limited time!!",
+          "description": "Released with 2500+ icons, sale ends in 6 days from now!!",
+          "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Metalv2",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_299.jpg",
+          "authorname": "Asad"
+  },
+  {
+          "title": "[FREE] Oranux- Icon pack free for limited time",
+          "description": "check it out, before sale ends!!",
+          "url": "https://play.google.com/store/apps/details?id=com.rainystudio.oranuxiconpack",
+          "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_298.jpg",
+          "authorname": "Asad"
+   },
     {
         "title": "New update for Chic icon pack is out",
         "description": "Check it out!!",
