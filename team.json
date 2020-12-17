@@ -2,13 +2,25 @@
   "concept": [
     {
       "name": "Subham Saha",
+      "image": "https://pbs.twimg.com/profile_images/1258417892166717443/-MJ8a9hS_400x400.jpg",
       "twitter": "https://twitter.com/subham2888"
     }
   ],
   "programmer": [
     {
-      "name": "iamBavith",
-      "twitter": "https://twitter.com/iambavith"
+      "name": "Kevin",
+      "image": "https://pbs.twimg.com/profile_images/1279641105181507584/1muWQaBW_400x400.jpg",
+      "twitter": "https://twitter.com/tailoristic?s=20"
+    },
+    {
+      "name": "Kirtan",
+      "image": "https://github.com/greyhound2888/Our-Team/raw/main/kirtan.jpg",
+      "twitter": "https://twitter.com/_heisenberg_03"
+    },
+    {
+      "name": "DevKage",
+      "image": "https://yt3.ggpht.com/ytc/AAUvwngD-9sevNmPIfnCrHCchGeMvmjCN9gBdaV37lVC=s88-c-k-c0x00ffffff-no-rj",
+      "twitter": "https://www.youtube.com/devkage"
     }
   ],
   "managers": [
