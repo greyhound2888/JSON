@@ -38,6 +38,13 @@
   ],
   "news": [
     {
+      "title": "[New Launch] Grasunt KWGT Live On PS",
+      "description": "20 gradient-based widgets at initial release",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.grasunt",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_291.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[SALE] Nova icon pack is on Sale",
       "description": "Upto 50% off, Check it out!!",
       "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
@@ -1438,7 +1445,7 @@
   ],
   "widgets": [
     {
-      "title": "Grasunt KWGT Live On PS",
+      "title": "[New Launch] Grasunt KWGT Live On PS",
       "description": "20 gradient-based widgets at initial release",
       "url": "https://play.google.com/store/apps/details?id=com.iambavith.grasunt",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_291.jpg",
