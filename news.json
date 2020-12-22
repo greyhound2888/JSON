@@ -38,6 +38,13 @@
   ],
   "news": [
     {
+        "title": "[SALE] Nova icon pack is on Sale",
+        "description": "Upto 50% off, Check it out!!",
+        "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_306.jpg",
+        "authorname": "Professor"
+       },
+    {
       "title": "Metal Redefined is Live with early bird Sale for limited time!!",
       "description": "Released with 2500+ icons, sale ends in 6 days from now!!",
       "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Metalv2",
@@ -883,6 +890,13 @@
   ],
   "icons": [
     {
+        "title": "[SALE] Nova icon pack is on Sale",
+        "description": "Upto 50% off, Check it out!!",
+        "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_306.jpg",
+        "authorname": "Professor"
+       },
+    {
       "title": "Japes HD icon pack Update",
       "description": "75 new icon added",
       "url": "https://play.google.com/store/apps/details?id=suitcase.icons.japes",
@@ -1413,65 +1427,16 @@
       "url": "https://play.google.com/store/apps/details?id=com.sreerag.layers",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_227.jpg",
       "authorname": "Raj"
-    },
-    {
-      "title": "[GIVEAWAY] 50 promo codes giveaway for CreamyPro Icon pack",
-      "description": "Click here to get more info",
-      "url": "https://twitter.com/asn360/status/1332651991101673472?s=09",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_226.jpg",
-      "authorname": "Raj"
-    },
-    {
-      "title": "Update For BILFY Icon Pack Is Live",
-      "description": "Lots Of Customization Apps Themed , Check Them Out",
-      "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_225.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "Nebula Weekly update is out",
-      "description": "40 New icons added Check them out",
-      "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_224.jpg",
-      "authorname": "Raj"
-    },
-    {
-      "title": "[SALE] Reev Pro Icon Pack is on Sale",
-      "description": "Sale ends on Dec 1st, Go grab the deal now!!",
-      "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_223.jpg",
-      "authorname": "Kirtan Patel"
-    },
-    {
-      "title": "Giveaway For IGGY Icon Pack",
-      "description": "Check Tweet For More Info",
-      "url": "https://twitter.com/AstinedDesign/status/1331971383241416704?s=09",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/Ip_223.jpg",
-      "authorname": "Raj/Yudha"
-    },
-    {
-      "title": "Aprikola Icon Pack got an update",
-      "description": "23 new icons added,Check Them Now",
-      "url": "https://play.google.com/store/apps/details?id=aprikola.rose.duke.com",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_222.jpg",
-      "authorname": "Raj"
-    },
-    {
-      "title": "[SALE] All Icon Packs by Gaurav Seth will be on Sale from Tomorrow",
-      "description": "Check it out for more details!!",
-      "url": "https://play.google.com/store/apps/dev?id=9069378374859819448",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_222.jpg",
-      "authorname": "Kirtan Patel"
-    },
-    {
-      "title": "[SALE] Afterglow and Glaze Icon packs are on  Black Friday sale, check it now!",
-      "description": "Upto 50% off for limited time!",
-      "url": "https://play.google.com/store/apps/dev?id=6714123194300223411",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/b_fdaysale.jpg",
-      "authorname": "Asad"
-    }
+    }, 
   ],
   "widgets": [
+{
+      "title": "New widgets added in Neuon KWGT",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=neuonkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_289.jpg",
+      "authorname": "Professor"
+},
     {
       "title": "Gem Kwgt got a new Update",
       "description": " 10 new Widgets Added",
@@ -1857,99 +1822,15 @@
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_234.jfif",
       "authorname": "Aniket"
     },
-    {
-      "title": "New Update for Mizu KWGT is live now!! ",
-      "description": "Added 4 new Widgets, check it out!!",
-      "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_233.jpg",
-      "authorname": "Asad"
-    },
-    {
-      "title": "Price Drop Alert!, Circus For Kwgt",
-      "description": "Now Only At $0.99, Grab It Now",
-      "url": "https://play.google.com/store/apps/details?id=circusforkwgt.kustom.pack",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_232.png",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "New Update For IOS Widgets For Kwgt",
-      "description": "Couple Of New Widgets Added & Bug Fixes, Check It Out",
-      "url": "https://play.google.com/store/apps/details?id=com.vexcode.ioskwgt",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_231.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "Passion Kwgt Got An Update",
-      "description": "6 New Widgets Added, Check them out",
-      "url": "https://play.google.com/store/apps/details?id=passionkwgt.kustom.pack",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_230.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "New Weekly Update for Felix KWGT is live now!",
-      "description": "Added 6 new beautiful Widget, check it out",
-      "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_229.jpg",
-      "authorname": "Asad"
-    },
-    {
-      "title": "Enterprise KWGT got an update  ",
-      "description": "Added 5 new beautiful Widget, check it out",
-      "url": "https://play.google.com/store/apps/details?id=enterprisekwgt.kustom.pack",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_228.jpg",
-      "authorname": "Asad"
-    },
-    {
-      "title": "Lucent KWGT got an Update",
-      "description": "Added 2 new Widget, total 173 now, check it out",
-      "url": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_227.jpg",
-      "authorname": "Asad"
-    },
-    {
-      "title": "[SALE] Aphemis KWGT is now on SALE for a Limited Time",
-      "description": "Sale from 26th Nov - 3rd Dec",
-      "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_226.jfif",
-      "authorname": "Subham Saha"
-    },
-    {
-      "title": "[SALE] Nae For Kwgt is on sale",
-      "description": "Special 70% Discount For Indian Buyers Check It Out",
-      "url": "https://play.google.com/store/apps/details?id=naeforkwgt.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/Kwgt_225.jpg",
-      "authorname": "Raj"
-    },
-    {
-      "title": "[SALE] Fuchsia KWGT is on Black Friday sale, check it now!",
-      "description": "Upto 50% off for limited time!",
-      "url": "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/b_fdaysale.jpg",
-      "authorname": "Asad"
-    },
-    {
-      "title": "[SALE] Mizu KWGT is on Black Friday Sale for limited time !!",
-      "description": "Upto 70% off , check it now!!",
-      "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_224.jpg",
-      "authorname": "Asad"
-    },
-    {
-      "title": "First Update for Blueberry KWGT is live now!!",
-      "description": "5 new widgets are added, check it now!!",
-      "url": "https://play.google.com/store/apps/details?id=blueberrykwgt.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_223.jpg",
-      "authorname": "Asad"
-    },
-    {
-      "title": "Coves Kwgt Update is Live On Play Store",
-      "description": "5 New Widgets Added,Total 100 Widgets Available",
-      "url": "https://play.google.com/store/apps/details?id=coves.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_221.jpg",
-      "authorname": "Dhanraj"
-    }
   ],
   "klwp": [
+    {
+      "title": "[NEW LAUNCH] [SALE] Livix KLWP Is live on playstore",
+      "description": "It's currently on 60% Sale, Check it out",
+      "url": "https://twitter.com/pixelvibe15/status/1341264719550832640?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_63.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "A new preset Too Smooth is added to TooWenty for KLWP",
       "description": "Check it out!!!",
