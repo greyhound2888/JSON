@@ -243,6 +243,13 @@
   ],
   "wallpapers": [
     {
+      "title": "[Free] New Christmas Walls in Wallpeppers",
+      "description": "5 new Christamas-themed walls added",
+      "url": "https://twitter.com/imundefyned/status/1341359712760041472?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_408.jfif",
+      "authorname": "Abhi"
+    },
+    {
       "title": "2 New Wallpapers added to the Mono collection on google photos",
       "description": "Check out the new wallpapers added to the collection",
       "url": "https://twitter.com/DaveGeek1/status/1341088935355838465?s=09",
@@ -1430,6 +1437,21 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Grasunt KWGT Live On PS",
+      "description": "20 gradient-based widgets at initial release",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.grasunt",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_291.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Blueberry KWGT Update",
+      "description": "5 new widgets added",
+      "url": "https://play.google.com/store/apps/details?id=blueberrykwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_290.jfif",
+      "authorname": "Abhi"
+    },
+
     {
       "title": "New widgets added in Neuon KWGT",
       "description": "Check it out",
