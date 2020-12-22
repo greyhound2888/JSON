@@ -38,12 +38,12 @@
   ],
   "news": [
     {
-        "title": "[SALE] Nova icon pack is on Sale",
-        "description": "Upto 50% off, Check it out!!",
-        "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
-        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_306.jpg",
-        "authorname": "Professor"
-       },
+      "title": "[SALE] Nova icon pack is on Sale",
+      "description": "Upto 50% off, Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_306.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "Metal Redefined is Live with early bird Sale for limited time!!",
       "description": "Released with 2500+ icons, sale ends in 6 days from now!!",
@@ -890,12 +890,12 @@
   ],
   "icons": [
     {
-        "title": "[SALE] Nova icon pack is on Sale",
-        "description": "Upto 50% off, Check it out!!",
-        "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
-        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_306.jpg",
-        "authorname": "Professor"
-       },
+      "title": "[SALE] Nova icon pack is on Sale",
+      "description": "Upto 50% off, Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_306.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "Japes HD icon pack Update",
       "description": "75 new icon added",
@@ -1427,23 +1427,23 @@
       "url": "https://play.google.com/store/apps/details?id=com.sreerag.layers",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_227.jpg",
       "authorname": "Raj"
-    }, 
+    }
   ],
   "widgets": [
-{
+    {
       "title": "New widgets added in Neuon KWGT",
       "description": "Check it out",
       "url": "https://play.google.com/store/apps/details?id=neuonkwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_289.jpg",
       "authorname": "Professor"
-},
+    },
     {
       "title": "Gem Kwgt got a new Update",
       "description": " 10 new Widgets Added",
       "url": "https://play.google.com/store/apps/details?id=com.gemkwgtbyahmad.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_288.jpg",
       "authorname": "Yudha"
-    },  
+    },
     {
       "title": "Style KWGT New Update",
       "description": "4 new widgets added",
@@ -1821,7 +1821,7 @@
       "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_234.jfif",
       "authorname": "Aniket"
-    },
+    }
   ],
   "klwp": [
     {
