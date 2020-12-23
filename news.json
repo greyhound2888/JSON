@@ -38,6 +38,13 @@
   ],
   "news": [
      {
+          "title": "New Christmas walls added in Unusual Wallpapers",
+          "description": "Check them out",
+          "url": "https://twitter.com/akinhd/status/1341410275191353346?s=09",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_412.jpg",
+          "authorname": "Professor"
+},
+     {
       "title": "[GIVEAWAY] NFY666 Wall Collection!!",
       "description": "Check out the tweet for more details",
       "url": "https://twitter.com/notforyou666/status/1341441614049386496?s=20",
@@ -938,6 +945,20 @@
     }
   ],
   "icons": [
+     {
+        "title": "New update for Fluent icon pack is out",
+        "description": "Check it out!!",
+        "url": "https://play.google.com/store/apps/details?id=com.mihul.fluent",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_308.jpg",
+        "authorname": "Professor"
+       },
+     {
+        "title": "Bedo icon pack got an update",
+        "description": "100 New icons added, Check it out!!",
+        "url": "https://play.google.com/store/apps/details?id=com.myap.bedo",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_307.jpg",
+        "authorname": "Professor"
+       },
      {
       "title": "Belle Pro is Updated",
       "description": " 41 New icons added. Check it out!!",
