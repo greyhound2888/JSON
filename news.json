@@ -37,7 +37,21 @@
     }
   ],
   "news": [
-     {
+    {
+        "title": "[GIVEAWAY] Christmas Special giveaway is hosted by Lor and Company",
+        "description": "Click here to get to the giveaway",
+        "url": "https://twitter.com/LorAndCompany/status/1342146303271206914?s=20",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_318.jpg",
+        "authorname": "RaJ"
+       }, 
+    {
+        "title": "[GIVEAWAY] Christmas Special giveaway is hosted by Bhaskar Dey",
+        "description": "Click here to get to the giveaway",
+        "url": "https://twitter.com/iammrbhaskar/status/1342140168979980288?s=1",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_317.jpg",
+        "authorname": "RaJ"
+       }, 
+    {
         "title": "[SALE] [GIVEAWAY] Nova icon pack is on Sale!",
         "description": "Click here to get to the giveaway of 20 codes",
         "url": "https://twitter.com/One4Studio/status/1342135918044569607?s=19",
