@@ -38,6 +38,20 @@
   ],
   "news": [
      {
+        "title": "[SALE] [GIVEAWAY] Nova icon pack is on Sale!",
+        "description": "Click here to get to the giveaway of 20 codes",
+        "url": "https://twitter.com/One4Studio/status/1342135918044569607?s=19",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_314.jpg",
+        "authorname": "RaJ"
+       },
+    {
+          "title": "New wallpapers in Wallrod [Christmas Special]",
+          "description": "Check them out",
+          "url": "https://twitter.com/MathyWallrod/status/1342103685082574850?s=19",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_423.jpg",
+          "authorname": "RaJ"
+},
+    {
         "title": "[GIVEAWAY] Selene Icon Pack ",
         "description": "20 Codes giveaway, Check it out",
         "url": "https://twitter.com/One4Studio/status/1342046923373621248?s=09",
@@ -333,7 +347,42 @@
     }
   ],
   "wallpapers": [
-     {
+    {
+          "title": "New wallpapers in Succubi's Drive [Christmas Special]",
+          "description": "Check them out",
+          "url": "https://twitter.com/Succu6i/status/1341860003913805824?s=19",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_426.jpg",
+          "authorname": "RaJ"
+},
+    {
+          "title": "New wallpapers in Wallsy",
+          "description": "3 Abstract walls added",
+          "url": "https://twitter.com/NickNice85/status/1342108843053101057?s=09",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_425.jpg",
+          "authorname": "RaJ"
+},
+    {
+          "title": "New wallpapers in Absolutely Wallpapers",
+          "description": "20 new wallpapers added",
+          "url": "https://twitter.com/NickNice85/status/1342108843053101057?s=09",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_424.jpg",
+          "authorname": "RaJ"
+},
+    {
+          "title": "New wallpapers in Wallrod [Christmas Special]",
+          "description": "Check them out",
+          "url": "https://twitter.com/MathyWallrod/status/1342103685082574850?s=19",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_423.jpg",
+          "authorname": "RaJ"
+},
+    {
+          "title": "New wallpapers in Pix Wallpapers",
+          "description": "Check them out",
+          "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_422.jpg",
+          "authorname": "RaJ"
+}, 
+    {
           "title": "New minimal wallpapers added in prism wallpapers",
           "description": "Check them out",
           "url": "https://twitter.com/PrismWallpapers/status/1342016052998246405?s=20",
@@ -1050,7 +1099,21 @@
     }
   ],
   "icons": [
-     {
+    {
+        "title": "[GIVEAWAY] Beeline icon packs",
+        "description": "Click here to get to the giveaway",
+        "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athena",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_315.jpg",
+        "authorname": "RaJ"
+       }, 
+    {
+        "title": "[SALE] [GIVEAWAY] Nova icon pack is on Sale!",
+        "description": "Click here to get to the giveaway of 20 codes",
+        "url": "https://twitter.com/One4Studio/status/1342135918044569607?s=19",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_314.jpg",
+        "authorname": "RaJ"
+       },
+    {
         "title": "[SALE] Hera icon pack is on Sale!",
         "description": "Upto 50% off, Check it out",
         "url": "https://play.google.com/store/apps/details?id=studio14.application.hera",
