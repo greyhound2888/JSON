@@ -38,6 +38,20 @@
   ],
   "news": [
      {
+        "title": "[GIVEAWAY] Selene icon pack giveaway",
+        "description": "20 Codes giveaway, Check it out",
+        "url": "https://twitter.com/One4Studio/status/1342046923373621248?s=09",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_311.jpg",
+        "authorname": "Professor"
+       },
+     {
+        "title": "[SALE] Hera icon pack is on Sale!",
+        "description": "Upto 50% off, Check it out",
+        "url": "https://play.google.com/store/apps/details?id=studio14.application.hera",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_313.jpg",
+        "authorname": "Professor"
+       },
+     {
           "title": "[SALE] Nova launcher Prime is on sale",
           "description": "10Rs to indian buyers and 0.99 cents usd for others, Must check it out",
           "url": "https://twitter.com/Nova_Launcher/status/1341953050920026112?s=19",
@@ -1036,6 +1050,20 @@
     }
   ],
   "icons": [
+     {
+        "title": "[SALE] Hera icon pack is on Sale!",
+        "description": "Upto 50% off, Check it out",
+        "url": "https://play.google.com/store/apps/details?id=studio14.application.hera",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_313.jpg",
+        "authorname": "Professor"
+       },
+     {
+        "title": "[GIVEAWAY] Selene icon pack giveaway",
+        "description": "20 Codes giveaway, Check it out",
+        "url": "https://twitter.com/One4Studio/status/1342046923373621248?s=09",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_311.jpg",
+        "authorname": "Professor"
+       },
      {
         "title": "[GIVEAWAY] 30 Promo codes for Fluidity icon pack",
         "description": "Click here to know more",
