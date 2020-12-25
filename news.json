@@ -38,6 +38,20 @@
   ],
   "news": [
     {
+          "title": "All apps by ThemesOnFire are on Sale",
+          "description": "Upto 50% off, Check it out",
+          "url": "https://play.google.com/store/apps/dev?id=8561966994171804539",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_432.jpg",
+          "authorname": "Professor"
+},
+    {
+        "title": "[SALE] Sliced icon pack is on sale",
+        "description": "Check it out",
+        "url": "https://twitter.com/RahulKDinesh/status/1342340229928079361?s=19",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_322.jpg",
+        "authorname": "Professor"
+       },
+    {
       "title": "[SALE] Felix KWGT is on Sale!",
       "description": "Upto 50% off, Grab it before the sale ends",
       "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
@@ -403,6 +417,13 @@
     }
   ],
   "wallpapers": [
+    {
+          "title": "[FREE] New gradient walls by Jackson",
+          "description": "Check them out",
+          "url": "https://twitter.com/jacksonhayes701/status/1342369208881934336?s=09",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_431.jpg",
+          "authorname": "Professor"
+},
     {
           "title": "New Christmas walls added in WalliPop wallpapers",
           "description": "Check it out",
@@ -1184,6 +1205,13 @@
   ],
   "icons": [
     {
+        "title": "[SALE] Sliced icon pack is on sale",
+        "description": "Check it out",
+        "url": "https://twitter.com/RahulKDinesh/status/1342340229928079361?s=19",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_322.jpg",
+        "authorname": "Professor"
+       },
+    {
         "title": "[SALE] Fluent icon pack is on sale",
         "description": "Upto 50% off, Check it out",
         "url": "https://play.google.com/store/apps/details?id=com.mihul.fluent",
@@ -1808,6 +1836,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "New update for poma KWGT is out",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.poma.kustom.pixshoot",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_300.jpg",
+      "authorname": "Professor"
+},
     {
       "title": "[SALE] Felix KWGT is on Sale!",
       "description": "Upto 50% off, Grab it before the sale ends",
