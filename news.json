@@ -38,6 +38,20 @@
   ],
   "news": [
     {
+          "title": "All apps by DreamOn are on Sale",
+          "description": "Check it out",
+          "url": "https://play.google.com/store/apps/dev?id=5241686688256238518",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_433.jpg",
+          "authorname": "Professor"
+},
+    {
+      "title": "[NEW LAUNCH] Abstract pro for KWGT [BETA] is live on PlayStore",
+      "description": "Check it out",
+      "url": "https://twitter.com/shm_dsgn/status/1342405450713600008?s=09",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_301.jpg",
+      "authorname": "Professor"
+},
+    {
           "title": "All apps by ThemesOnFire are on Sale",
           "description": "Upto 50% off, Check it out",
           "url": "https://play.google.com/store/apps/dev?id=8561966994171804539",
@@ -1205,6 +1219,13 @@
   ],
   "icons": [
     {
+        "title": "Borealis icon pack got an update",
+        "description": "Check it out",
+        "url": "https://play.google.com/store/apps/details?id=com.unvoid.borealis",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_323.jpg",
+        "authorname": "Professor"
+       },
+    {
         "title": "[SALE] Sliced icon pack is on sale",
         "description": "Check it out",
         "url": "https://twitter.com/RahulKDinesh/status/1342340229928079361?s=19",
@@ -1836,6 +1857,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[NEW LAUNCH] Abstract pro for KWGT [BETA] is live on PlayStore",
+      "description": "Check it out",
+      "url": "https://twitter.com/shm_dsgn/status/1342405450713600008?s=09",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_301.jpg",
+      "authorname": "Professor"
+},
     {
       "title": "New update for poma KWGT is out",
       "description": "Check it out",
