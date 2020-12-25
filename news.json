@@ -38,6 +38,20 @@
   ],
   "news": [
     {
+      "title": "[SALE] Felix KWGT is on Sale!",
+      "description": "Upto 50% off, Grab it before the sale ends",
+      "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_298.jpg",
+      "authorname": "Professor"
+},
+    {
+        "title": "[SALE] Fluent icon pack is on sale",
+        "description": "Upto 50% off, Check it out",
+        "url": "https://play.google.com/store/apps/details?id=com.mihul.fluent",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_311.jpg",
+        "authorname": "Professor"
+       },
+    {
       "title": "[Giveaway] Bladexdesigns giving away 3 of his paid icon packs",
       "description": "Enroll yourself for the giveaway here",
       "url": "https://twitter.com/bladexdesigns/status/1342307383523987456?s=09",
@@ -389,6 +403,27 @@
     }
   ],
   "wallpapers": [
+    {
+          "title": "New Christmas walls added in WalliPop wallpapers",
+          "description": "Check it out",
+          "url": "https://twitter.com/ArrowWalls/status/1342350468068954112?s=09",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_424.jpg",
+          "authorname": "Professor"
+},
+    {
+          "title": "New wallpapers added in Unusual wallpapers",
+          "description": "Check it out",
+          "url": "https://twitter.com/akinhd/status/1342346825106255872?s=09",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_423.jpg",
+          "authorname": "Professor"
+},
+    {
+          "title": "New wallpapers added in Whalepapers pro",
+          "description": "Check them out",
+          "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_422.jpg",
+          "authorname": "Professor"
+},
     {
       "title": "Wallspaper update is now live",
       "description": "8 new walls added to Christmas category, check it out",
@@ -1149,6 +1184,13 @@
   ],
   "icons": [
     {
+        "title": "[SALE] Fluent icon pack is on sale",
+        "description": "Upto 50% off, Check it out",
+        "url": "https://play.google.com/store/apps/details?id=com.mihul.fluent",
+        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_311.jpg",
+        "authorname": "Professor"
+       },
+    {
       "title": "[Giveaway] Bladexdesigns giving away 3 of his paid icon packs",
       "description": "Enroll yourself for the giveaway here",
       "url": "https://twitter.com/bladexdesigns/status/1342307383523987456?s=09",
@@ -1766,6 +1808,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[SALE] Felix KWGT is on Sale!",
+      "description": "Upto 50% off, Grab it before the sale ends",
+      "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_298.jpg",
+      "authorname": "Professor"
+},
     {
       "title": "[Sale] Radish & Sheer Kwgt are on sale",
       "description": "Go grab them before the deal ends",
