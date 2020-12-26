@@ -45,6 +45,13 @@
   ],
   "news": [
     {
+      "title": "[NEW LAUNCH] Serene Reborn is live on Playstore with whoopin' 50 % OFF as Early Bird Sale.",
+      "description": "Grab the Unique all in one Collection of Widgets, Walls and KLWP here",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelvibe.serene2",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_306.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
       "title": "[SALE] Christmas-New Year SALE of Nebula Icon Pack & Lucent KWGT for upto 50% Off",
       "description": "SALE will last till 1st January, 2021",
       "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
@@ -445,6 +452,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "[SALE] Pixurr Wallpapers is on Christmas & New Year SALE for upto 50% off ",
+      "description": "SALE starts today and lasts till 1st January, 2021",
+      "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_330.jpg",
+      "authorname": "Subham Saha"
+    },
     {
       "title": "[FREE] New gradient walls by Jackson",
       "description": "Check them out",
@@ -1920,6 +1934,34 @@
   ],
   "widgets": [
     {
+      "title": "[SALE] Christmas-New Year SALE of Lucent KWGT for upto 50% Off",
+      "description": "SALE will last till 1st January, 2021",
+      "url": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_326.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "New Updates for MyOskwgt V-24.0 is rolling out",
+      "description": "6 New Widgets Added (Total 245 Widgets Now)",
+      "url": "https://play.google.com/store/apps/details?id=com.myoskwgtsbyahmad.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_305.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "iOS widgets got Updated with the New Google gmail and drive Widgets",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.vexcode.ioskwgt",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_304.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "Weekly Update for MoonLight KWGT is live on Playstore.",
+      "description": "6 New Awesome Cool Widgets Added (Total 85 Widgets Now)",
+      "url": "https://play.google.com/store/apps/details?id=com.ishaan.moonlightkwgt",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_303.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
       "title": "[NEW LAUNCH] Abstract pro for KWGT is live on PlayStore",
       "description": "Check it out",
       "url": "https://twitter.com/shm_dsgn/status/1342405450713600008?s=09",
@@ -2397,6 +2439,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "[NEW LAUNCH] Serene Reborn is live on Playstore with whoopin' 50 % OFF as Early Bird Sale.",
+      "description": "Grab the Unique all in one Collection of Widgets, Walls and KLWP here",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelvibe.serene2",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_306.jpg",
+      "authorname": "Subham Saha"
+    },
     {
       "title": "[NEW LAUNCH] [SALE] Livix KLWP Is live on playstore",
       "description": "It's currently on 60% Sale, Check it out",
