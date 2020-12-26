@@ -1,6 +1,13 @@
 {
   "highlights": [
     {
+      "title": "[SALE] BILFY Icon Pack is on Christmas & New Year SALE for upto 50% off ",
+      "description": "SALE starts today and lasts till 1st January, 2021",
+      "url": "https://play.google.com/store/apps/dev?id=8296016850098230132",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_330.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
       "title": "BitLit meets Flutter",
       "description": "Click here!!",
       "url": "https://twitter.com/BitLit5/status/1340754428643528705?s=09",
@@ -38,47 +45,54 @@
   ],
   "news": [
     {
-          "title": "[SALE] Apps by DreamOn",
-          "description": "Check it out",
-          "url": "https://play.google.com/store/apps/dev?id=5241686688256238518",
-          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_433.jpg",
-          "authorname": "Professor"
-},
+      "title": "[SALE] Christmas-New Year SALE of Nebula Icon Pack & Lucent KWGT for upto 50% Off",
+      "description": "SALE will last till 1st January, 2021",
+      "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_326.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "[SALE] Apps by DreamOn",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/dev?id=5241686688256238518",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_433.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "[NEW LAUNCH] Abstract pro for Kwgt is live on PlayStore",
       "description": "Check it out",
       "url": "https://twitter.com/shm_dsgn/status/1342405450713600008?s=09",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_301.jpg",
       "authorname": "Professor"
-},
+    },
     {
-          "title": "All apps by ThemesOnFire are on Sale",
-          "description": "Upto 50% off, Check it out",
-          "url": "https://play.google.com/store/apps/dev?id=8561966994171804539",
-          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_432.jpg",
-          "authorname": "Professor"
-},
+      "title": "All apps by ThemesOnFire are on Sale",
+      "description": "Upto 50% off, Check it out",
+      "url": "https://play.google.com/store/apps/dev?id=8561966994171804539",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_432.jpg",
+      "authorname": "Professor"
+    },
     {
-        "title": "[SALE] Sliced icon pack is on sale",
-        "description": "Check it out",
-        "url": "https://twitter.com/RahulKDinesh/status/1342340229928079361?s=19",
-        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_322.jpg",
-        "authorname": "Professor"
-       },
+      "title": "[SALE] Sliced icon pack is on sale",
+      "description": "Check it out",
+      "url": "https://twitter.com/RahulKDinesh/status/1342340229928079361?s=19",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_322.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "[SALE] Felix KWGT is on Sale!",
       "description": "Upto 50% off, Grab it before the sale ends",
       "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_299.jpg",
       "authorname": "Professor"
-},
+    },
     {
-        "title": "[SALE] Fluent icon pack is on sale",
-        "description": "Upto 50% off, Check it out",
-        "url": "https://play.google.com/store/apps/details?id=com.mihul.fluent",
-        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_321.jpg",
-        "authorname": "Professor"
-       },
+      "title": "[SALE] Fluent icon pack is on sale",
+      "description": "Upto 50% off, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.mihul.fluent",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_321.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "[Giveaway] Bladexdesigns giving away 3 of his paid icon packs",
       "description": "Enroll yourself for the giveaway here",
@@ -432,33 +446,33 @@
   ],
   "wallpapers": [
     {
-          "title": "[FREE] New gradient walls by Jackson",
-          "description": "Check them out",
-          "url": "https://twitter.com/jacksonhayes701/status/1342369208881934336?s=09",
-          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_431.jpg",
-          "authorname": "Professor"
-},
+      "title": "[FREE] New gradient walls by Jackson",
+      "description": "Check them out",
+      "url": "https://twitter.com/jacksonhayes701/status/1342369208881934336?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_431.jpg",
+      "authorname": "Professor"
+    },
     {
-          "title": "New Christmas walls added in WalliPop wallpapers",
-          "description": "Check it out",
-          "url": "https://twitter.com/ArrowWalls/status/1342350468068954112?s=09",
-          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_430.jpg",
-          "authorname": "Professor"
-},
+      "title": "New Christmas walls added in WalliPop wallpapers",
+      "description": "Check it out",
+      "url": "https://twitter.com/ArrowWalls/status/1342350468068954112?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_430.jpg",
+      "authorname": "Professor"
+    },
     {
-          "title": "New wallpapers added in Unusual wallpapers",
-          "description": "Check it out",
-          "url": "https://twitter.com/akinhd/status/1342346825106255872?s=09",
-          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_429.jpg",
-          "authorname": "Professor"
-},
+      "title": "New wallpapers added in Unusual wallpapers",
+      "description": "Check it out",
+      "url": "https://twitter.com/akinhd/status/1342346825106255872?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_429.jpg",
+      "authorname": "Professor"
+    },
     {
-          "title": "New wallpapers added in Whalepapers pro",
-          "description": "Check them out",
-          "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
-          "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_428.jpg",
-          "authorname": "Professor"
-},
+      "title": "New wallpapers added in Whalepapers pro",
+      "description": "Check them out",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_428.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "Wallspaper update is now live",
       "description": "8 new walls added to Christmas category, check it out",
@@ -599,7 +613,6 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_404.jfif",
       "authorname": "Abhi"
     },
-
     {
       "title": "New Walls added to AmoledPapers",
       "description": "8 New Walls Added in Liquid Collection",
@@ -1219,26 +1232,75 @@
   ],
   "icons": [
     {
-        "title": "Borealis icon pack got an update",
-        "description": "Check it out",
-        "url": "https://play.google.com/store/apps/details?id=com.unvoid.borealis",
-        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_323.jpg",
-        "authorname": "Professor"
-       },
+      "title": "[SALE] BILFY Icon Pack is on Christmas & New Year SALE for upto 50% off ",
+      "description": "SALE starts today and lasts till 1st January, 2021",
+      "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_330.jpg",
+      "authorname": "Subham Saha"
+    },
     {
-        "title": "[SALE] Sliced icon pack is on sale",
-        "description": "Check it out",
-        "url": "https://twitter.com/RahulKDinesh/status/1342340229928079361?s=19",
-        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_322.jpg",
-        "authorname": "Professor"
-       },
+      "title": "Aprikola Icon Pack New Update V-1.17.1 is out now with 21 New Icons",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=aprikola.rose.duke.com",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_329.jpg",
+      "authorname": "Subham Saha"
+    },
     {
-        "title": "[SALE] Fluent icon pack is on sale",
-        "description": "Upto 50% off, Check it out",
-        "url": "https://play.google.com/store/apps/details?id=com.mihul.fluent",
-        "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_321.jpg",
-        "authorname": "Professor"
-       },
+      "title": "Japes Icon Pack New Update V-1.2.07 is LIVE on PlayStore",
+      "description": "50 new icons, including Josh, JioTV, Fiverr, AccuBattery, Unacademy",
+      "url": "https://play.google.com/store/apps/details?id=suitcase.icons.japes",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_329.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "[SALE] Bliss Icon Pack Updated to V-1.8.5 with 50 New Icons and also on SALE Now",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Bliss",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_327.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "[SALE] Christmas-New Year SALE of Nebula Icon Pack for upto 50% Off",
+      "description": "SALE will last till 1st January, 2021",
+      "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_326.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "[GIVEAWAY] Nova Dark Icon Pack Giveaway (20 Codes up for grabs)",
+      "description": "Check out the Rules here !!!",
+      "url": "https://twitter.com/One4Studio/status/1342444983715041280?s=20",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_325.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "[GIVEAWAY] Crayon Icon Pack Giveaway (10 Codes up for grabs)",
+      "description": "Check out the Rules here !!!",
+      "url": "https://twitter.com/iammrbhaskar/status/1342426984652054528?s=20",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_324.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "Borealis icon pack got an update",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.unvoid.borealis",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_323.jpg",
+      "authorname": "Professor"
+    },
+    {
+      "title": "[SALE] Sliced icon pack is on sale",
+      "description": "Check it out",
+      "url": "https://twitter.com/RahulKDinesh/status/1342340229928079361?s=19",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_322.jpg",
+      "authorname": "Professor"
+    },
+    {
+      "title": "[SALE] Fluent icon pack is on sale",
+      "description": "Upto 50% off, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.mihul.fluent",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_321.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "[Giveaway] Bladexdesigns giving away 3 of his paid icon packs",
       "description": "Enroll yourself for the giveaway here",
@@ -1863,21 +1925,21 @@
       "url": "https://twitter.com/shm_dsgn/status/1342405450713600008?s=09",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_301.jpg",
       "authorname": "Professor"
-},
+    },
     {
       "title": "New update for Poma Kwgt is out",
       "description": "Check it out",
       "url": "https://play.google.com/store/apps/details?id=com.poma.kustom.pixshoot",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_300.jpg",
       "authorname": "Professor"
-},
+    },
     {
       "title": "[SALE] Felix KWGT is on Sale!",
       "description": "Upto 50% off, Grab it before the sale ends",
       "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_299.jpg",
       "authorname": "Professor"
-},
+    },
     {
       "title": "[Sale] Radish & Sheer Kwgt are on sale",
       "description": "Go grab them before the deal ends",
@@ -1941,7 +2003,6 @@
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_290.jfif",
       "authorname": "Abhi"
     },
-
     {
       "title": "New widgets added in Neuon KWGT",
       "description": "Check it out",
