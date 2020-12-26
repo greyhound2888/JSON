@@ -44,6 +44,13 @@
     }
   ],
   "news": [
+     {
+      "title": "New Walls Added in Pixurr Wallpapers",
+      "description": "26 New Wallpapers Added, Go check them out",
+      "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_436.jpg",
+      "authorname": "Aniket"
+    },
     {
       "title": "[NEW LAUNCH] Serene Reborn is live on Playstore with whoopin' 50 % OFF as Early Bird Sale.",
       "description": "Grab the Unique all in one Collection of Widgets, Walls and KLWP here",
@@ -452,6 +459,27 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New Walls Added in Pixurr Wallpapers",
+      "description": "26 New Wallpapers Added, Go check them out",
+      "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_436.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "New Walls Added in Wallsy wallpapers",
+      "description": "2 Pattern Walls Added, Check them out",
+      "url": "https://twitter.com/SK_wallpapers_/status/1342837915370409984?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_435.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "New Wallpapers Added in Wall-E wallpapers",
+      "description": "Go check out",
+      "url": "https://twitter.com/ChrisJ4ck/status/1342469564446216193?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_434.jpg",
+      "authorname": "Aniket"
+    },
     {
       "title": "[SALE] Pixurr Wallpapers is on Christmas & New Year SALE for upto 50% off ",
       "description": "SALE starts today and lasts till 1st January, 2021",
