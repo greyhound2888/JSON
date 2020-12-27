@@ -45,6 +45,13 @@
   ],
   "news": [
     {
+      "title": "[NEW] Fondant KLWP Is live on playstore",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=fondantneumorphicklwp.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_64.jpg",
+      "authorname": "RaJ"
+    },
+    {
       "title": "[NEW] Lhotse KWGT is live on Playstore!",
       "description": "Get it now!",
       "url": "https://play.google.com/store/apps/details?id=lhotsekwgt.kustom.pack",
@@ -2586,6 +2593,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "[NEW] Fondant KLWP Is live on playstore",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=fondantneumorphicklwp.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_64.jpg",
+      "authorname": "RaJ"
+    },
     {
       "title": "[NEW LAUNCH] Serene Reborn is live on Playstore with whoopin' 50 % OFF as Early Bird Sale.",
       "description": "Grab the Unique all in one Collection of Widgets, Walls and KLWP here",
