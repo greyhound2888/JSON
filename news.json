@@ -45,6 +45,20 @@
   ],
   "news": [
     {
+      "title": "[New] Evolve kwgt is now live on playstore",
+      "description": "Early bird sale is on, grab it now",
+      "url": "https://play.google.com/store/apps/details?id=evolve.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_318.jpg",
+      "authorname": "Shanky"
+    }, 
+    {
+      "title": "[SALE] All the icon packs by Lkn9x are on Christmas sale",
+      "description": "Go grab them before the sale ends",
+      "url": "https://twitter.com/lkn9x/status/1343860427017613314?s=09",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_344.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "[New] Purplemod icons are now live on playstore",
       "description": "Go grab them now",
       "url": "https://play.google.com/store/apps/details?id=com.dreamon.purplemod",
@@ -508,6 +522,20 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "Among Us wallpaper by Arrow walls",
+      "description": "Have a look for more details",
+      "url": "https://twitter.com/ArrowWalls/status/1343881952365957123?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_446.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "New Wallpapers Added to Whalepapers Pro",
+      "description": "Check them out",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_447.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "New Wallpapers Added in Wallrod wallpapers",
       "description": "4 New Walls Added, check them out",
@@ -1386,6 +1414,27 @@
   ],
   "icons": [
     {
+      "title": "All the icon packs by Lkn9x are on Christmas sale",
+      "description": "Go grab them before the sale ends",
+      "url": "https://twitter.com/lkn9x/status/1343860427017613314?s=09",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_344.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Japes icon pack got an update",
+      "description": "Check out whatsnew",
+      "url": "https://twitter.com/suitcaselabs/status/1343872573008969729?s=09",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_343.jpg",
+      "authorname": "Shanky"
+    }, 
+    {
+      "title": "Sonnambula icon pack update is live",
+      "description": "100 new icons added, Go check them out now",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.sonnambula",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_342.jpg",
+      "authorname": "Shanky"
+    }, 
+    {
       "title": "Purplemod icons are now live on playstore",
       "description": "Go grab them now",
       "url": "https://play.google.com/store/apps/details?id=com.dreamon.purplemod",
@@ -2150,6 +2199,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Evolve kwgt is now live on playstore",
+      "description": "Early bird sale is on, grab it now",
+      "url": "https://play.google.com/store/apps/details?id=evolve.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_318.jpg",
+      "authorname": "Shanky"
+    }, 
+    {
+      "title": "Burn & Moonlight Kwgt are on a year end sale",
+      "description": "Grab the deal before sale ends",
+      "url": "https://play.google.com/store/apps/dev?id=9064542573824101676",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_319.jpg",
+      "authorname": "Shanky"
+    }, 
     {
       "title": "Orca for kwgt got an update",
       "description": "3 new widgets added, check them out",
