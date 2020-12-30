@@ -45,6 +45,13 @@
   ],
   "news": [
     {
+      "title": "[Sale] Biggest sale by JustNewDesigns",
+      "description": "10 Free icon packs and 12 On sale, Hurry grab them now",
+      "url": "https://play.google.com/store/apps/dev?id=6871333323804023406",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_349.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "[Sale] Huge discount on Finesta, Fiction kwgt and Mixture klwp",
       "description": "What a deal!! 70% off",
       "url": "https://play.google.com/store/apps/dev?id=5559664342362929202",
@@ -564,6 +571,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New walls added to Unusual Wallpapers",
+      "description": "Go check them out right now",
+      "url": "https://twitter.com/akinhd/status/1344136582874296320?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_448.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Among Us wallpaper by Arrow walls",
       "description": "Have a look for more details",
@@ -1455,6 +1469,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "Biggest sale by JustNewDesigns",
+      "description": "10 Free icon packs and 12 On sale, Hurry grab them now",
+      "url": "https://play.google.com/store/apps/dev?id=6871333323804023406",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_349.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Candycons and Pixbit icon pack update is live",
       "description": "Go check out the new icons",
