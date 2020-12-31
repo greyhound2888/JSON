@@ -45,6 +45,13 @@
   ],
   "news": [
     {
+      "title": "[Sale] Pix Minimal black and white icon pack",
+      "description": "Go grab them, 50% off",
+      "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixminimal.iconpack",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_354.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "[Giveaway] Hera dark icon pack",
       "description": "Enter the giveaway here",
       "url": "https://twitter.com/One4Studio/status/1344204904148168704?s=09",
@@ -586,8 +593,15 @@
   ],
   "wallpapers": [
     {
+      "title": "4 New wallpapers added to Metal redefined iconpack",
+      "description": "Go check them out",
+      "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Metalv2",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_450.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "15 New Free Walls Abstract Mess Added to Mywallapp",
-      "description": "Go check them oot",
+      "description": "Go check them out",
       "url": "https://twitter.com/gseth83/status/1344285703455182848?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_449.jpg",
       "authorname": "Aniket"
@@ -1490,6 +1504,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "[Sale] Pix Minimal black and white icon pack",
+      "description": "Go grab them, 50% off",
+      "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixminimal.iconpack",
+      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_354.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Metal Redefined Icon pack Updated with 65 New icons",
       "description": "Go check it out",
