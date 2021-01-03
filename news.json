@@ -52,14 +52,21 @@
   ],
   "news": [
     {
-      "title": "The all new Evoque kwgt is coming soon",
-      "description": "Stay tuned for the update to come",
+      "title": "[GIVEAWAY] Athena Dark icon pack",
+      "description": "Check out the tweet for more details!!",
+      "url": "https://twitter.com/One4Studio/status/1345684847034064896?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_372.jpg",
+      "authorname": "Yudha"
+    },
+    {
+      "title": "Evoque kwgt update live",
+      "description": "Check it out!!",
       "url": "https://twitter.com/droidbeauty/status/1345376400602247169?s=09",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_333.jpg",
       "authorname": "Shanky"
     },
     {
-      "title": "[Giveaway]Duo icon pack",
+      "title": "[Giveaway] Duo icon pack",
       "description": "Hurry be a part of the giveaway",
       "url": "https://twitter.com/iammrbhaskar/status/1345315569424240643?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_369.jpg",
@@ -210,412 +217,6 @@
       "description": " Free pro version for 30 winners, Go register yourself",
       "url": "https://twitter.com/gcantoni_/status/1342903929374461954?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_437.jpg",
-      "authorname": "Shanky"
-    },
-     {
-      "title": "New Walls Added in Pixurr Wallpapers",
-      "description": "26 New Wallpapers Added, Go check them out",
-      "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_436.jpg",
-      "authorname": "Aniket"
-    },
-    {
-      "title": "[NEW LAUNCH] Serene Reborn is live on Playstore with whoopin' 50 % OFF as Early Bird Sale.",
-      "description": "Grab the Unique all in one Collection of Widgets, Walls and KLWP here",
-      "url": "https://play.google.com/store/apps/details?id=com.pixelvibe.serene2",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_306.jpg",
-      "authorname": "Subham Saha"
-    },
-    {
-      "title": "[SALE] Christmas-New Year SALE of Nebula Icon Pack & Lucent KWGT for upto 50% Off",
-      "description": "SALE will last till 1st January, 2021",
-      "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_326.jpg",
-      "authorname": "Subham Saha"
-    },
-    {
-      "title": "[SALE] Apps by DreamOn",
-      "description": "Check it out",
-      "url": "https://play.google.com/store/apps/dev?id=5241686688256238518",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_433.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[NEW LAUNCH] Abstract pro for Kwgt is live on PlayStore",
-      "description": "Check it out",
-      "url": "https://twitter.com/shm_dsgn/status/1342405450713600008?s=09",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_301.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "All apps by ThemesOnFire are on Sale",
-      "description": "Upto 50% off, Check it out",
-      "url": "https://play.google.com/store/apps/dev?id=8561966994171804539",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_432.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[SALE] Sliced icon pack is on sale",
-      "description": "Check it out",
-      "url": "https://twitter.com/RahulKDinesh/status/1342340229928079361?s=19",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_322.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[SALE] Felix KWGT is on Sale!",
-      "description": "Upto 50% off, Grab it before the sale ends",
-      "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_299.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[SALE] Fluent icon pack is on sale",
-      "description": "Upto 50% off, Check it out",
-      "url": "https://play.google.com/store/apps/details?id=com.mihul.fluent",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_321.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[Giveaway] Bladexdesigns giving away 3 of his paid icon packs",
-      "description": "Enroll yourself for the giveaway here",
-      "url": "https://twitter.com/bladexdesigns/status/1342307383523987456?s=09",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_320.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[Sale] All apps by Vignesh vicky are on sale",
-      "description": "Go grab them before the sale ends",
-      "url": "https://play.google.com/store/apps/dev?id=5597854943914621048",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/vignesh_giveaway.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[Sale] Icon packs by Ezdon are on sale",
-      "description": "Go grab them",
-      "url": "https://play.google.com/store/apps/dev?id=8091370783080636082",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_319.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[Sale] Radish & Sheer Kwgt are on sale",
-      "description": "Go grab them before the deal ends",
-      "url": "https://play.google.com/store/apps/dev?id=5615419703628842500",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_298.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[GIVEAWAY] Christmas Special giveaway is hosted by Lor and Company",
-      "description": "Click here to get to the giveaway",
-      "url": "https://twitter.com/LorAndCompany/status/1342146303271206914?s=20",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_318.jpg",
-      "authorname": "RaJ"
-    },
-    {
-      "title": "[GIVEAWAY] Christmas Special giveaway is hosted by Bhaskar Dey",
-      "description": "Click here to get to the giveaway",
-      "url": "https://twitter.com/iammrbhaskar/status/1342140168979980288?s=1",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_317.jpg",
-      "authorname": "RaJ"
-    },
-    {
-      "title": "[SALE] [GIVEAWAY] Nova icon pack is on Sale!",
-      "description": "Click here to get to the giveaway of 20 codes",
-      "url": "https://twitter.com/One4Studio/status/1342135918044569607?s=19",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_314.jpg",
-      "authorname": "RaJ"
-    },
-    {
-      "title": "New wallpapers in Wallrod [Christmas Special]",
-      "description": "Check them out",
-      "url": "https://twitter.com/MathyWallrod/status/1342103685082574850?s=19",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_423.jpg",
-      "authorname": "RaJ"
-    },
-    {
-      "title": "[GIVEAWAY] Selene Icon Pack ",
-      "description": "20 Codes giveaway, Check it out",
-      "url": "https://twitter.com/One4Studio/status/1342046923373621248?s=09",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_312.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[SALE] Hera Icon Pack",
-      "description": "Upto 50% off, Check it out",
-      "url": "https://play.google.com/store/apps/details?id=studio14.application.hera",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_313.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[SALE] Nova launcher Prime is on sale",
-      "description": "10Rs for indian buyers and 0.99 cents usd for others, Must check it out",
-      "url": "https://twitter.com/Nova_Launcher/status/1341953050920026112?s=19",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_418.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[GIVEAWAY] 30 Promo codes for Fluidity icon pack",
-      "description": "Click here to know more",
-      "url": "https://twitter.com/asn360/status/1341785519596847108?s=09",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_311.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[SALE] Grasunt kwgt is on sale ",
-      "description": "Check it out",
-      "url": "https://twitter.com/iambavith/status/1341922157903761408?s=09",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_294.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[SALE] One4Walls Pro key is on special discount",
-      "description": "Upto 50% off, Check it out",
-      "url": "https://twitter.com/One4Studio/status/1341880051265110024?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_416.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[GIVEAWAY] 200 Promo codes for 24 Apps",
-      "description": "Check it out",
-      "url": "https://twitter.com/LorAndCompany/status/1341739513089904642?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_415.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[GIVEAWAY] Prism Wallpapers & Setups 20 Codes giveaway!",
-      "description": "Nebula icon pack & Pixcards kwgt for one lucky winner, Check it out",
-      "url": "https://twitter.com/PrismWallpapers/status/1341639050239696899?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_413.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[GIVEAWAY] One4Studio MEGA Giveaway from tomorrow",
-      "description": "400 Promo codes giveaway, Click here to know more",
-      "url": "https://twitter.com/One4Studio/status/1341725858579492864?s=19",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_309.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "New Christmas walls added in Unusual Wallpapers",
-      "description": "Check them out",
-      "url": "https://twitter.com/akinhd/status/1341410275191353346?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_412.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[GIVEAWAY] NFY666 Wall Collection!!",
-      "description": "Check out the tweet for more details",
-      "url": "https://twitter.com/notforyou666/status/1341441614049386496?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_410.jpeg",
-      "authorname": "Yudha"
-    },
-    {
-      "title": "[GIVEAWAY] One4Walls got a massive update & 5 Promocodes giveaway",
-      "description": "Brand new dashboard, 500 free & premium walls",
-      "url": "https://twitter.com/One4Studio/status/1341398615315652615?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_409.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[New Launch] Grasunt KWGT Live On PS",
-      "description": "20 gradient-based widgets at initial release",
-      "url": "https://play.google.com/store/apps/details?id=com.iambavith.grasunt",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_291.jpg",
-      "authorname": "Abhi"
-    },
-    {
-      "title": "[SALE] Nova icon pack is on Sale",
-      "description": "Upto 50% off, Check it out!!",
-      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_306.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "Metal Redefined is Live with early bird Sale for limited time!!",
-      "description": "Released with 2500+ icons, sale ends in 6 days from now!!",
-      "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Metalv2",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_299.jpg",
-      "authorname": "Asad"
-    },
-    {
-      "title": "[SALE] One4KWGT Is on sale!",
-      "description": "Upto 50% off, Check it out",
-      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4kwgtpro",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_283.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[FREE] Entire Wallpaper Collections Google Drive Folder by @Arthur1992aS",
-      "description": "Take a look Now !!!",
-      "url": "https://twitter.com/Arthur1992aS/status/1337528071805669376?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_389.png",
-      "authorname": "Subham Saha"
-    },
-    {
-      "title": "Lucent KWGT New Update is LIVE on PlayStore",
-      "description": "2 New Beautiful Analog Clocks Added (Total 139 Widgets Now)",
-      "url": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_276.jfif",
-      "authorname": "Subham Saha"
-    },
-    {
-      "title": "Pineapple KWGT New Update is LIVE on PlayStore",
-      "description": "3 New Widgets Added (Total 186 Widgets Now)",
-      "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_275.jfif",
-      "authorname": "Subham Saha"
-    },
-    {
-      "title": "[SALE] Crayon Icon Pack is on Sale",
-      "description": "10 Free Promo codes to Lucky retweets in a 3 days",
-      "url": "https://twitter.com/justnewdesigns/status/1337762691465662467?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_286.jpg",
-      "authorname": "Aniket"
-    },
-    {
-      "title": "[SALE] RedLine Icon pack is on Sale.",
-      "description": "10 Promo codes to lucky retweets",
-      "url": "https://twitter.com/justnewdesigns/status/1337435279913672705?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_283.jpg",
-      "authorname": "RaJ"
-    },
-    {
-      "title": "[FREE] Roundies ada Icon Pack is free for limited time",
-      "description": "Check it out!!",
-      "url": "https://play.google.com/store/apps/details?id=lp.icon.roundies.ada",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_282.jpg",
-      "authorname": "Professor"
-    },
-    {
-      "title": "[GIVEAWAY][SALE] Anubis Icon Packs are now Available",
-      "description": "30 Codes Giveaway, go check them out",
-      "url": "https://twitter.com/EatosApps/status/1337036699550019588?s=20",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_275.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[FREE] Kustom Pixel 2 Klwp is now available",
-      "description": "Go Try It Out",
-      "url": "https://twitter.com/GilbertoGM4/status/1319839458590679040?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_56.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[GIVEAWAY] [SALE] Get a chance to win WalliPop promo code",
-      "description": "Enter the giveaway here!!",
-      "url": "https://twitter.com/ArrowWalls/status/1336537357663789058?s=20",
-      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_371.jpg",
-      "authorname": "Kuladeep"
-    },
-    {
-      "title": "[GIVEAWAY] [SALE] 25 Promo codes giveaway for BeeLine Icon Pack",
-      "description": "Click here for more details",
-      "url": "https://twitter.com/HeyAlphaOne/status/1336642103825219584?s=20",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_269.jpg",
-      "authorname": "Kuladeep"
-    },
-    {
-      "title": "[NEW] AlineT Icon Pack is live on Google Playstore!",
-      "description": "Initial release with 1100 Icons, 10 Wallpapers & 3 KWGT Widgets",
-      "url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.alinet",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_251.png",
-      "authorname": "RaJ"
-    },
-    {
-      "title": "[GIVEAWAY] Purple/Pink Linex icon packs giveaway",
-      "description": "50 Promocodes each, click here for more details",
-      "url": "https://twitter.com/justnewdesigns/status/1334859644594896899?s=20",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_249.jpg",
-      "authorname": "Kuladeep"
-    },
-    {
-      "title": "Get a chance to win Smart IOS Style Kwgt Promo Codes",
-      "description": "Enter the giveaway here!!!",
-      "url": "https://twitter.com/Seamoon757/status/1334836646068555777?s=09",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_247.png",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[NEW LAUNCH] Sheer For KWGT is Live On Play Store",
-      "description": "Check it Out!!!",
-      "url": "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_242.jpg",
-      "authorname": "Dhanraj"
-    },
-    {
-      "title": "Update for Proscreens Premium is live now",
-      "description": "Click here to see the changelogs!",
-      "url": "https://play.google.com/store/apps/details?id=com.iambavith.proscreenspremium",
-      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_335.jpg",
-      "authorname": "RaJ"
-    },
-    {
-      "title": "[SALE] Gradient Icon Pack is on Sale throughout the next week",
-      "description": "Go Grab this Hot Deal",
-      "url": "https://play.google.com/store/apps/details?id=com.vexcode.gradient",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_237.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "Crystal Kwgt is now live on Playstore",
-      "description": "Go grab it now",
-      "url": "https://play.google.com/store/apps/details?id=crystal.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_238.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[NEW LAUNCH] [SALE] LineX Pink, Purple edition icon packs are live now",
-      "description": "Go get them now",
-      "url": "https://twitter.com/justnewdesigns/status/1333415639076069376?s=20",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_235.jpg",
-      "authorname": "Kuladeep"
-    },
-    {
-      "title": "[New Launch] Wallvibes Wallpapers is Live Now on Playstore with an early bird sale (50% off).",
-      "description": "Go Check It Out!!",
-      "url": "https://twitter.com/pixelvibe15/status/1333283304703995911?s=20",
-      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_321.jpg",
-      "authorname": "Dhanraj"
-    },
-    {
-      "title": "[FREE] CandyCons Unwrapped, [SALE] Pixbit Icon Pack",
-      "description": "Super Cool Icons, Go check them out!!",
-      "url": "https://play.google.com/store/apps/dev?id=6941105890231522296",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_233.png",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[SALE] WallRod is on black friday sale",
-      "description": "Check it out",
-      "url": "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_306.jpg",
-      "authorname": "Raj"
-    },
-    {
-      "title": "[GIVEAWAY] 50 promo codes giveaway for CreamyPro Icon pack",
-      "description": "Click here to get more info",
-      "url": "https://twitter.com/asn360/status/1332651991101673472?s=09",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_226.jpg",
-      "authorname": "Raj"
-    },
-    {
-      "title": "[SALE] Aphemis KWGT is now on SALE for a Limited Time",
-      "description": "Sale from 26th Nov - 3rd Dec",
-      "url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_226.jfif",
-      "authorname": "Subham Saha"
-    },
-    {
-      "title": "[SALE] Black Friday Sale Starts By Charlee Designs",
-      "description": "Ember , Frosty & AmoledPapers On Sale Till Dec 2 , Check It Out",
-      "url": "https://play.google.com/store/apps/dev?id=5105091404166060566",
-      "image": "https://github.com/greyhound2888/klwp/raw/master/klwp_51.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "Update For BILFY Icon Pack Is Live",
-      "description": "Lots Of Customization Apps Themed , Check Them Out",
-      "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_225.jpg",
       "authorname": "Shanky"
     },
     {
@@ -951,6 +552,41 @@
     }
   ],
   "icons": [
+     {
+      "title": "Belle Icon Pack [Free] has been updated",
+      "description": "Check out the new icons added!!",
+      "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Belle",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_374.png",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "Squared Icon Pack got an Update",
+      "description": "40 new Icons added. Check it out",
+      "url": "https://t.co/FKTTlp9Vfy",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_373.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "[GIVEAWAY] Athena Dark icon pack",
+      "description": "Check out the tweet for more details!!",
+      "url": "https://twitter.com/One4Studio/status/1345684847034064896?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_372.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "Aline icon pack got an update",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.aline",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_371.jpg",
+      "authorname": "Yudha"
+    },
+      {
+      "title": "Japes icon pack update is live",
+      "description": "Check out the new icons added",
+      "url": "https://bit.ly/japes_icons",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_370.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "Belle Pro icon pack update is live",
       "description": "Check out the new icons added",
