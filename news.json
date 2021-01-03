@@ -545,7 +545,14 @@
     }
   ],
   "icons": [
-     {
+    {
+      "title": "[NEW] Dark Red Icon pack is now live on playstore",
+      "description": "Go grab it",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.darkred",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_375.jpg",
+      "authorname": "Aniket"
+    }, 
+    {
       "title": "Belle Icon Pack [Free] has been updated",
       "description": "Check out the new icons added!!",
       "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Belle",
