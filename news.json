@@ -45,6 +45,13 @@
   ],
   "news": [
     {
+      "title": "[Giveaway] Paper Cut Icon Pack",
+      "description": "Also app on sale for limited period",
+      "url": "https://twitter.com/asn360/status/1346332450096439297?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_384.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[New] The all new Eve Kwgt now live on playstore",
       "description": "30 beautiful widgets, Go grab it now",
       "url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
@@ -629,6 +636,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "[Giveaway] Paper Cut Icon Pack",
+      "description": "Also app on sale for limited period",
+      "url": "https://twitter.com/asn360/status/1346332450096439297?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_384.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "Baccara Icon pack update is now live on playstore",
       "description": "Go check out whatsnew",
@@ -1682,7 +1696,21 @@
   ],
   "widgets": [
     {
-      "title": "[New] The all new Eve KWGT now live on playstore",
+      "title": "Enterprise KWGT Update",
+      "description": "5 New Widgets Added",
+      "url": "https://play.google.com/store/apps/details?id=enterprisekwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_343.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "KPro KWGT Update",
+      "description": "8 New Widgets Added (Total 45 Widgets)",
+      "url": "https://play.google.com/store/apps/details?id=kprokwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_342.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[New] Eve KWGT now live on playstore",
       "description": "30 beautiful widgets, Go grab it now",
       "url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
       "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_341.jpg",
@@ -2433,7 +2461,14 @@
   ],
   "klwp": [
     {
-      "title": "Free klwp by Dave",
+      "title": "[Free] Orizon KLWP by Niteesh",
+      "description": "Try it out",
+      "url": "https://twitter.com/N1T5H/status/1346359751169466369?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_73.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Free] KWLP by Dave",
       "description": "Try it out",
       "url": "https://twitter.com/droidbeauty/status/1345787204753358850?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_72.jpg",
