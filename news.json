@@ -45,6 +45,34 @@
   ],
   "news": [
     {
+      "title": "[New] The all new Eve Kwgt now live on playstore",
+      "description": "30 beautiful widgets, Go grab it now",
+      "url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_341.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Glowline Icon pack",
+      "description": "Its a mega giveaway, Try your luck now",
+      "url": "https://twitter.com/HeyAlphaOne/status/1346100353641504768?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_378.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Mintie kwgt",
+      "description": "Enter the giveaway now",
+      "url": "https://twitter.com/iammrbhaskar/status/1346025550427484160?s=09",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_338.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] AlineT Icon pack",
+      "description": "Update is also live, Click here",
+      "url": "https://twitter.com/One4Studio/status/1346186969492189184?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_381.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "[NEW] Dark Red Icon pack is now live on playstore",
       "description": "Go grab it",
       "url": "https://play.google.com/store/apps/details?id=com.panotogomo.darkred",
@@ -228,6 +256,41 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New walls added to wallbydave drive",
+      "description": "Check them out",
+      "url": "https://twitter.com/droidbeauty/status/1345833392928129029?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_471.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "New years Update for Collections by Lor and Co is live",
+      "description": "A lot of new walls added, Check them out",
+      "url": "https://twitter.com/LorAndCompany/status/1345812517700812800?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_470.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "New walls added to Wallrod",
+      "description": "Check out the new walls added",
+      "url": "https://twitter.com/MathyWallrod/status/1345892756808474624?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_469.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "New category lighthouse added to Wallspaper",
+      "description": "Check out whatsnew",
+      "url": "https://twitter.com/wallspaper2020/status/1345794524321206279?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_468.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Fresh walls added to Amoledpapers",
+      "description": "Check them out here",
+      "url": "https://twitter.com/mhcharlee/status/1346181482432368641?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_467.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Setups' Contest by Prism Wallpapers",
       "description": "Click for more details",
@@ -566,6 +629,62 @@
     }
   ],
   "icons": [
+    {
+      "title": "Baccara Icon pack update is now live on playstore",
+      "description": "Go check out whatsnew",
+      "url": "https://play.google.com/store/apps/details?id=baccara.rose.duke.com",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_383.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Aline Icon pack Update is now live on playstore",
+      "description": "Go grab it",
+      "url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.aline",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_382.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] AlineT Icon pack",
+      "description": "Update is also live, Click here",
+      "url": "https://twitter.com/One4Studio/status/1346186969492189184?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_381.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Update for Sliced Icon pack is live",
+      "description": "Check it out now",
+      "url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_380.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Fkat 3D Icon pack update is now live on playstore",
+      "description": "Go check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.flat3d",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_379.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Glowline Icon pack",
+      "description": "Its a mega giveaway, Try your luck now",
+      "url": "https://twitter.com/HeyAlphaOne/status/1346100353641504768?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_378.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[FREE] Lillian Free con pack is now live on playstore",
+      "description": "Go grab it",
+      "url": "https://play.google.com/store/apps/details?id=com.lillian.free.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_377.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Update for Reev Pro icon pack is live",
+      "description": "Go check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_376.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "[NEW] Dark Red Icon pack is now live on playstore",
       "description": "Go grab it",
@@ -1563,6 +1682,48 @@
   ],
   "widgets": [
     {
+      "title": "[New] The all new Eve Kwgt now live on playstore",
+      "description": "30 beautiful widgets, Go grab it now",
+      "url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_341.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Havoc update is now live",
+      "description": "Lots of changes made, Go check them out now",
+      "url": "https://twitter.com/iamkalemc/status/1345949996047339527?s=09",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_340.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Cream Kwgt update is live",
+      "description": "Go check it out now",
+      "url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_339.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Mintie kwgt",
+      "description": "Enter the giveaway now",
+      "url": "https://twitter.com/iammrbhaskar/status/1346025550427484160?s=09",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_338.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Smart IOS style widgets for kwgt update is now live on playstore",
+      "description": "Go check it out now",
+      "url": "https://play.google.com/store/apps/details?id=smartiosstylewidgets.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_337.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "IOSMix kwgt update is now live on playstore",
+      "description": "Go check them out now",
+      "url": "https://play.google.com/store/apps/details?id=com.iosmixkwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_336.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "Felix kwgt update is now live on playstore",
       "description": "9 beautiful widgets added, Go check them out now",
       "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
@@ -2272,6 +2433,12 @@
   ],
   "klwp": [
     {
+      "title": "Free klwp by droidbeauty",
+      "description": "Go grab it",
+      "url": "https://twitter.com/droidbeauty/status/1345787204753358850?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_72.jpg",
+      "authorname": "Shanky"
+    },
       "title": "New preset Tali available in Skarp for klwp",
       "description": "Check it out",
       "url": "https://twitter.com/U2073521/status/1345380692411166720?s=09",
