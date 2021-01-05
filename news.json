@@ -45,7 +45,14 @@
   ],
   "news": [
     {
-      "title": "[GIVEAWAY] Win Free Promo Code of Beeline Icon pack",
+      "title": "[GIVEAWAY] Win Promo Code of Beeline Icon pack",
+      "description": "Click here for more details",
+      "url": "https://twitter.com/Seamoon757/status/1346459796225073152?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_387.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[GIVEAWAY] Win Promo Code of Beeline Icon pack",
       "description": "Click here for more details",
       "url": "https://twitter.com/Seamoon757/status/1346459796225073152?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_386.jpg",
@@ -1737,6 +1744,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[Sale] Eve KWGT",
+      "description": "Grab it before ends",
+      "url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_345.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Elements KWGT 4.4 update is here",
+      "description": "6 new widgets added (143 in total)",
+      "url": "https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_344.jfif",
+      "authorname": "Abhi"
+    },
     {
       "title": "Enterprise KWGT Update",
       "description": "5 New Widgets Added",
