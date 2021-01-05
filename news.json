@@ -8,20 +8,6 @@
       "authorname": "Aniket"
     },
     {
-      "title": "[SALE] BILFY Icon Pack is on Christmas & New Year SALE for upto 50% off ",
-      "description": "SALE starts today and lasts till 1st January, 2021",
-      "url": "https://play.google.com/store/apps/dev?id=8296016850098230132",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_330.jpg",
-      "authorname": "Subham Saha"
-    },
-    {
-      "title": "[FREE] Bluric, Jono Pro, Spheroid, Basicone and other Icon Packs by Indigo Madina are now FREE",
-      "description": "Grab now before it's late !!!",
-      "url": "https://play.google.com/store/apps/dev?id=6570707982773161647",
-      "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_360.jpg",
-      "authorname": "Subham Saha"
-    },
-    {
       "title": "BitLit meets Flutter",
       "description": "Click here!!",
       "url": "https://twitter.com/BitLit5/status/1340754428643528705?s=09",
@@ -44,6 +30,13 @@
     }
   ],
   "news": [
+    {
+      "title": "[Sale] Eve KWGT",
+      "description": "Grab it before ends",
+      "url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_345.jfif",
+      "authorname": "Abhi"
+    },
     {
       "title": "[GIVEAWAY] Win Promo Code of Beeline Icon pack",
       "description": "Click here for more details",
