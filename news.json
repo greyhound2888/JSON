@@ -31,6 +31,13 @@
   ],
   "news": [
      {
+      "title": "[GIVEAWAY]MyOS KWGT!! ",
+      "description": "Head over to the tweet for more details.",
+      "url": "https://twitter.com/Android_Whix/status/1347132338514370560?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_354.jpg",
+      "authorname": "Asad"
+    },
+     {
       "title": "[GIVEAWAY] Burn Kwgt",
       "description": "Head over to the tweet for more details!!",
       "url": "https://twitter.com/iammrbhaskar/status/1347124434759340035?s=20",
@@ -756,6 +763,13 @@
   ],
   "icons": [
     {
+      "title": "New Update for Garis Light Icon Pack is live now!!",
+      "description": "Added 100+ new icons, Check it out !!!",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.garisl",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_392.jpg",
+      "authorname": "Asad"
+    },
+    {
       "title": "New Weekly Update for Japes Icon pack is live now!!",
       "description": "Added 39 new icons, fixed 5 new icons, Check it out",
       "url": "https://play.google.com/store/apps/details?id=suitcase.icons.japes",
@@ -1388,10 +1402,31 @@
   ],
   "widgets": [
      {
+      "title": "New Update for Pineapple KWGT is live now!! ",
+      "description": "Version bumped to V5.8, total count 198, check it now!!",
+      "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_356.jpg",
+      "authorname": "Asad"
+    },
+     {
+      "title": "New Update for Mizu KWGT is live now!! ",
+      "description": "Added 3 new widgets, check it now!!",
+      "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_355.jpg",
+      "authorname": "Asad"
+    },
+     {
+      "title": "[GIVEAWAY]MyOS KWGT!! ",
+      "description": "Head over to the tweet for more details.",
+      "url": "https://twitter.com/Android_Whix/status/1347132338514370560?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_354.jpg",
+      "authorname": "Asad"
+    },
+     {
       "title": "New Update for Avocado KWGT is live now, check it now",
       "description": "Added 2 new widgets, total count 124 now!!",
       "url": "https://play.google.com/store/apps/details?id=pl.mhcharlee.avocadokwgt",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_353.jpg",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_353.jpg",
       "authorname": "Asad"
     },
     {
