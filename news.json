@@ -31,6 +31,13 @@
   ],
   "news": [
     {
+      "title": "[NEW] Material Reborn Icon pack is launched today",
+      "description": "Check it out !!!",
+      "url": "https://play.google.com/store/apps/details?id=com.pashapuma.material.reborn.icons",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_393.jpg",
+      "authorname": "RaJ"
+    },
+    {
       "title": "[Giveaway] Frosty for KLWP by Charlee designs",
       "description": "Its a friendly giveaway, go make your friend happy",
       "url": "https://twitter.com/mhcharlee/status/1347328531475423242?s=09",
@@ -765,10 +772,18 @@
       "description": "Go get them now!!",
       "url": "https://twitter.com/mhcharlee/status/1332752561217171457?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_315.jpg",
+      
       "authorname": "Asad"
     }
   ],
   "icons": [
+    {
+      "title": "[NEW] Material Reborn Icon pack is launched today",
+      "description": "Check it out !!!",
+      "url": "https://play.google.com/store/apps/details?id=com.pashapuma.material.reborn.icons",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_393.jpg",
+      "authorname": "RaJ"
+    },
     {
       "title": "New Update for Garis Light Icon Pack is live now!!",
       "description": "Added 100+ new icons, Check it out !!!",
@@ -1408,7 +1423,14 @@
     }
   ],
   "widgets": [
-     {
+    {
+      "title": "Crystal KWGT Update [ v 4.0 ]",
+      "description": "Added 5 new widgets [Total 64 widgets]",
+      "url": "https://play.google.com/store/apps/details?id=crystal.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_357.jpg",
+      "authorname": "RaJ"
+    }, 
+    {
       "title": "New Update for Pineapple KWGT is live now!! ",
       "description": "Version bumped to V5.8, total count 198, check it now!!",
       "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
