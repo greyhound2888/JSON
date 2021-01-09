@@ -24,6 +24,20 @@
   ],
   "news": [
     {
+      "title": "[Giveaway] Wallpin Wallpaper",
+      "description": "Don't miss out !!",
+      "url": "https://twitter.com/iammrbhaskar/status/1347832850507186176?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_490.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Free] Silk Walls by Rishi",
+      "description": "3 varient available on Gdrive",
+      "url": "https://twitter.com/RshBfn/status/1347881393259302914?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_487.jfif",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[New Launch] Celia Walls App is Live!!",
       "description": "Check it out",
       "url": "https://play.google.com/store/apps/details?id=vht.celiawall.app",
@@ -31,14 +45,7 @@
       "authorname": "Abhi"
     },
     {
-      "title": "[Giveaway] Olympia Icon Pack is live on Play Store",
-      "description": "Enter the giveaway here, also check out the update",
-      "url": "https://twitter.com/panoto_gomo/status/1347566998297870336?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_395.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[NEW] Material Reborn Icon pack is launched today",
+      "title": "[NEW] Material Reborn Icon pack is Live",
       "description": "Check it out !!!",
       "url": "https://play.google.com/store/apps/details?id=com.pashapuma.material.reborn.icons",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_393.jpg",
@@ -326,6 +333,34 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "[Giveaway] Wallpin Wallpaper",
+      "description": "Don't miss out !!",
+      "url": "https://twitter.com/iammrbhaskar/status/1347832850507186176?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_490.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[New Launch] Dark Droid Wall App is Live",
+      "description": "Check it out !!",
+      "url": "https://play.google.com/store/apps/details?id=com.lazywolf.darkdroid",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_489.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "New Walls in Amoled Papers",
+      "description": "6 New Wall Added in Landscape Collection",
+      "url": "https://twitter.com/mhcharlee/status/1347855584750673922?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_488.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Free] Silk Walls by Rishi",
+      "description": "3 varient available on Gdrive",
+      "url": "https://twitter.com/RshBfn/status/1347881393259302914?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_487.jfif",
+      "authorname": "Abhi"
+    },
     {
       "title": "New Wallpapers added in Dave's Shared Album",
       "description": "11 New Wallpapers added. Check it out",
@@ -1458,6 +1493,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Burn KWGT Update",
+      "description": "7 Widgets Added (Total 45 Widgets)",
+      "url": "https://play.google.com/store/apps/details?id=com.ishaan.burnkwgt",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_363.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Serene Reborn KWGT Update",
+      "description": "3 Widgets Added (Total 46 Widgets)",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelvibe.serene2",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_362.jfif",
+      "authorname": "Abhi"
+    },
     {
       "title": "Style KWGT Update",
       "description": "5 New Widgets Added",
