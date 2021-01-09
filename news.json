@@ -341,6 +341,13 @@
   ],
   "wallpapers": [
     {
+      "title": "[New Launch] Celia Walls App is Live!!",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=vht.celiawall.app0",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_485.jfif",
+      "authorname": "Abhi"
+    },
+    {
       "title": "New wallpapers added to One4Wall!!!",
       "description": "Mostly in Amoled category (both free and premium walls)!!",
       "url": "https://twitter.com/One4Studio/status/1347515347621044224?s=20",
@@ -1458,6 +1465,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Style KWGT Update",
+      "description": "5 New Widgets Added",
+      "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_361.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "KPro KWGT Update",
+      "description": "5 New Widgets Added",
+      "url": "https://play.google.com/store/apps/details?id=kprokwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_360.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "Aleria KWGT update is live",
       "description": "Check it out now",
