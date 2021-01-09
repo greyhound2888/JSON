@@ -31,6 +31,13 @@
   ],
   "news": [
     {
+      "title": "[Giveaway] Olympia Icon Pack is live on Play Store",
+      "description": "Enter the giveaway here, also check out the update",
+      "url": "https://twitter.com/panoto_gomo/status/1347566998297870336?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_395.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "[NEW] Material Reborn Icon pack is launched today",
       "description": "Check it out !!!",
       "url": "https://play.google.com/store/apps/details?id=com.pashapuma.material.reborn.icons",
@@ -792,6 +799,13 @@
   ],
   "icons": [
     {
+      "title": "[Giveaway] Olympia Icon Pack is live on Play Store",
+      "description": "Enter the giveaway here, also check out the update",
+      "url": "https://twitter.com/panoto_gomo/status/1347566998297870336?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_395.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "Weekly update for Nebula Icon Pack is live on Play Store",
       "description": "Check it out !!!",
       "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
@@ -1444,6 +1458,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Aleria KWGT update is live",
+      "description": "Check it out now",
+      "url": "https://play.google.com/store/apps/details?id=dev.widgetology.aleria",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_359.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Update for Elements KWGT is live",
+      "description": "Check out whatsnew",
+      "url": "https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_360.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "[GIVEAWAY] Finesta KWGT",
       "description": "Win Free Promo Code of Super Elegant FINESTA KWGT",
