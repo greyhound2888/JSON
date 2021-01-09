@@ -1,18 +1,11 @@
 {
   "highlights": [
     {
-      "title": "Setups' Contest by Prism Wallpapers",
-      "description": "Click for more details",
-      "url": "https://twitter.com/PrismWallpapers/status/1345765554154471430?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_466.jpg",
-      "authorname": "Aniket"
-    },
-    {
-      "title": "BitLit meets Flutter",
-      "description": "Click here!!",
-      "url": "https://twitter.com/BitLit5/status/1340754428643528705?s=09",
-      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_397.jpg",
-      "authorname": "Shanky"
+      "title": "Weekly update for Nebula Icon Pack is live on Play Store",
+      "description": "Check it out !!!",
+      "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_394.jpg",
+      "authorname": "Dhanraj"
     },
     {
       "title": "[GIVEAWAY] One4Studio MEGA Giveaway from tomorrow",
@@ -20,6 +13,13 @@
       "url": "https://twitter.com/One4Studio/status/1341725858579492864?s=19",
       "image": "https://github.com/greyhound2888/iconPacks/raw/master/ip_309.jpg",
       "authorname": "Professor"
+    },
+    {
+      "title": "BitLit meets Flutter",
+      "description": "Click here!!",
+      "url": "https://twitter.com/BitLit5/status/1340754428643528705?s=09",
+      "image": "https://github.com/greyhound2888/Wallpapers/raw/master/wall_397.jpg",
+      "authorname": "Shanky"
     },
     {
       "title": "Join Our Telegram Support Group",
@@ -30,6 +30,13 @@
     }
   ],
   "news": [
+    {
+      "title": "[New Launch] Celia Walls App is Live!!",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=vht.celiawall.app0",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_485.jfif",
+      "authorname": "Abhi"
+    },
     {
       "title": "[Giveaway] Olympia Icon Pack is live on Play Store",
       "description": "Enter the giveaway here, also check out the update",
@@ -348,8 +355,8 @@
       "authorname": "Abhi"
     },
     {
-      "title": "New wallpapers added to One4Wall!!!",
-      "description": "Mostly in Amoled category (both free and premium walls)!!",
+      "title": "New wallpapers added to One4Wall !!",
+      "description": "Mostly in Amoled category (both free and premium walls)",
       "url": "https://twitter.com/One4Studio/status/1347515347621044224?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_484.jpg",
       "authorname": "Dhanraj"
