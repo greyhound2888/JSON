@@ -24,6 +24,13 @@
   ],
   "news": [
     {
+      "title": "Felix KWGT Update",
+      "description": "7 Widgets Added (Total 74 Widgets)",
+      "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_370.jfif",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[Free]Yudha added new wallpapers to his collection",
       "description": "A couple of amazing fluid walls added, go check them out",
       "url": "https://twitter.com/yudhajit_ghosh/status/1348170484559478784?s=09",
@@ -348,8 +355,30 @@
   ],
   "wallpapers": [
     {
-      "title": "[Free]Yudha added new wallpapers to his collection",
-      "description": "A couple of amazing fluid walls added, go check them out",
+      "title": "New Walls in Wall Vibes",
+      "description": "8 New MonoTone Walls Added",
+      "url": "https://twitter.com/pixelvibe15/status/1348256575568285700?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_497.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Contest] Screenie Screen Of the Day",
+      "description": "Upload homescreen & win Wallspaper promo code",
+      "url": "https://twitter.com/Myscreenie_com/status/1348235855845064704?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_496.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Free] New Walls in Nick Photo Album",
+      "description": "15 New Walls Added",
+      "url": "https://twitter.com/NickNice85/status/1348219395013828608?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_495.jpg",
+      "authorname": "Abhi"
+    },
+    
+    {
+      "title": "[Free] New Walls by Yudha",
+      "description": "A couple of amazing fluid walls for your next homescreen setup",
       "url": "https://twitter.com/yudhajit_ghosh/status/1348170484559478784?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_494.jpg",
       "authorname": "Shanky"
