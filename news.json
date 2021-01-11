@@ -24,6 +24,34 @@
   ],
   "news": [
     {
+      "title": "[NEW]  Coral KWGT is now live on Playstore",
+      "description": "30 widgets on initial release, Go get it",
+      "url": "https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_375.jpg",
+      "authorname": "Aniket"
+    }, 
+    {
+      "title": "[SALE] Mizu KWGT is reduced to 70% till 13th january",
+      "description": "Grab it before it's too late",
+      "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_374.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "[FREE] Gradient Icon pack is Free for limited time",
+      "description": "Go grab it now",
+      "url": "https://play.google.com/store/apps/details?id=com.vexcode.gradient",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_405.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "[Giveaway] Pix Minimal Black/White Icon Pack",
+      "description": "Click for details",
+      "url": "https://twitter.com/iammrbhaskar/status/1348543777997115394?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_401.jpg",
+      "authorname": "Aniket"
+    },
+    {
       "title": "[Giveaway] Lhotse KWGT and Aura KLWP",
       "description": "Enter the giveaway now",
       "url": "https://twitter.com/theandrofreak/status/1348222269596684288?s=09",
@@ -968,6 +996,41 @@
   ],
   "icons": [
     {
+      "title": "[FREE] Gradient Icon pack is Free for limited time",
+      "description": "Go grab it now",
+      "url": "https://play.google.com/store/apps/details?id=com.vexcode.gradient",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_405.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "One line Icon pack price has dropped in India",
+      "description": "Go grab it now",
+      "url": "https://play.google.com/store/apps/details?id=one.line.icon.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_404.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "[New] Dark Blue Icon Pack is live on Play Store",
+      "description": "Currently on Sale,Go grab it",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.darkblue",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_403.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "CHIC Icon Pack Update  now live on Play Store",
+      "description": "Go check it out",
+      "url": "https://play.google.com/store/apps/details?id=dev.lknninex.chic",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_402.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "[Giveaway] Pix Minimal Black/White Icon Pack",
+      "description": "Click for details",
+      "url": "https://twitter.com/iammrbhaskar/status/1348543777997115394?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_401.jpg",
+      "authorname": "Aniket"
+    },
+    {
       "title": "[Giveaway] Anubis round icon pack",
       "description": "Enter the giveaway for this brand new icon pack",
       "url": "https://twitter.com/EatosApps/status/1348334141205463042?s=09",
@@ -1662,6 +1725,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[NEW]  Coral KWGT is now live on Playstore",
+      "description": "30 widgets on initial release, Go get it",
+      "url": "https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_375.jpg",
+      "authorname": "Aniket"
+    }, 
+    {
+      "title": "[SALE] Mizu KWGT is reduced to 70% till 13th january",
+      "description": "Grab it before it's too late",
+      "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_374.jpg",
+      "authorname": "Aniket"
+    },
     {
       "title": "[Giveaway] Lhotse KWGT and Aura KLWP",
       "description": "Enter the giveaway now",
