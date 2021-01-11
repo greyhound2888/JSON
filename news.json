@@ -24,6 +24,34 @@
   ],
   "news": [
     {
+      "title": "[Giveaway] Lhotse KWGT and Aura KLWP",
+      "description": "Enter the giveaway now",
+      "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_372.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Celia walls",
+      "description": "Click here to learn more about this giveaway",
+      "url": "https://twitter.com/vhthinh_at/status/1348277913959813121?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_373.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Anubis round icon pack",
+      "description": "Enter the giveaway for this brand new icon pack",
+      "url": "https://twitter.com/EatosApps/status/1348334141205463042?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_400.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Anubis black round icon pack",
+      "description": "Try you luck and win this brand new icon pack",
+      "url": "https://twitter.com/EatosApps/status/1348334457934147584?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_399.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "Felix KWGT Update",
       "description": "7 Widgets Added (Total 74 Widgets)",
       "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
@@ -361,6 +389,27 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New Walls added by Jackson Hayes to his collection",
+      "description": "Check out the stunning wallpapers",
+      "url": "https://twitter.com/jacksonhayes701/status/1348321747280400387?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_500.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "New Wallpapers added by Digmotmag's telegram channel",
+      "description": "Check them out now",
+      "url": "https://twitter.com/digmotmag/status/1348315269186408450?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_499.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "New Walls added to Noir Arts collection",
+      "description": "Some gradient wallpapers added check them out",
+      "url": "https://twitter.com/noir_arts/status/1348280615427309569?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_498.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "New Walls in Wall Vibes",
       "description": "8 New MonoTone Walls Added",
@@ -918,6 +967,27 @@
     }
   ],
   "icons": [
+    {
+      "title": "[Giveaway] Anubis round icon pack",
+      "description": "Enter the giveaway for this brand new icon pack",
+      "url": "https://twitter.com/EatosApps/status/1348334141205463042?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_400.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Anubis black round icon pack",
+      "description": "Try you luck and win this brand new icon pack",
+      "url": "https://twitter.com/EatosApps/status/1348334457934147584?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_399.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[New] Dark tosca icon pack is now live on playstore",
+      "description": "Go check it out!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.darktosca",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_398.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "[Giveaway] One Line Icon Pack",
       "description": "Try your luck. Result in next 24hr.",
@@ -1592,6 +1662,27 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[Giveaway] Lhotse KWGT and Aura KLWP",
+      "description": "Enter the giveaway now",
+      "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_372.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Tapon KWGT update is live",
+      "description": "Check out whatsnew!!",
+      "url": "https://play.google.com/store/apps/details?id=tapon.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_371.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Celia walls",
+      "description": "Click here to learn more about this giveaway",
+      "url": "https://twitter.com/vhthinh_at/status/1348277913959813121?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_373.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Felix KWGT Update",
       "description": "7 Widgets Added (Total 74 Widgets)",
@@ -2553,6 +2644,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "[Giveaway] Lhotse KWGT and Aura KLWP",
+      "description": "Enter the giveaway now",
+      "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_372.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Free KLWP preset by Charlee Designs",
       "description": "Grab it!!!",
