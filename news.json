@@ -24,20 +24,20 @@
   ],
   "news": [
     {
+      "title": "[NEW] [Giveaway] Coral KWGT is now live on Playstore and Giveaway",
+      "description": "30 widgets on initial release, Check it out!!",
+      "url": "https://twitter.com/theandrofreak/status/1348898205254127620?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_375.jpg",
+      "authorname": "Aniket"
+    },
+    {
       "title": "[Giveaway] Homestack KLWP",
       "description": "Enter the giveaway now",
       "url": "https://twitter.com/digmotmag/status/1348649975811604480?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_77.jpg",
       "authorname": "Shanky"
     },
-    {
-      "title": "[NEW]  Coral KWGT is now live on Playstore",
-      "description": "30 widgets on initial release, Go get it",
-      "url": "https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_375.jpg",
-      "authorname": "Aniket"
-    }, 
-    {
+     {
       "title": "[Sale] Mizu KWGT is on a massive sale",
       "description": "70% off, Grab it now",
       "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
@@ -1045,6 +1045,13 @@
   ],
   "icons": [
     {
+      "title": "Japes Icon Pack got an update",
+      "description": "107 new icons added!!",
+      "url": "https://play.google.com/store/apps/details?id=suitcase.icons.japes&hl=en_IN&gl=US",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_408.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
       "title": "Creamy Pro icon pack's update is live",
       "description": "Check it out",
       "url": "https://play.google.com/store/apps/details?id=com.creamyproiconpack",
@@ -1789,17 +1796,37 @@
   ],
   "widgets": [
     {
+      "title": "Weekly update for Zen KWGT is live in the Playstore!!",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelvibe.zen",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_379.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "[GIVEAWAY] Moon Light KWGT!!",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/iammrbhaskar/status/1348939617609818112?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_378.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "[UPDATE] Khameleon KWGT v1.6 now live on Play Store",
+      "description": "4 new widgets added!!",
+      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.khameleon",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_377.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
       "title": "Stable release of Abstract Pro for KWGT is out",
       "description": "5 new widgets added too",
       "url": "https://play.google.com/store/apps/details?id=abstractpro.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_376.jpg",
       "authorname": "Abhi"
     }, 
-   
-    {
-      "title": "[NEW] Coral KWGT is now live on Playstore",
-      "description": "30 widgets on initial release, Go get it",
-      "url": "https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
+   {
+      "title": "[NEW] [Giveaway] Coral KWGT is now live on Playstore and Giveaway",
+      "description": "30 widgets on initial release, Check it out!!",
+      "url": "https://twitter.com/theandrofreak/status/1348898205254127620?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_375.jpg",
       "authorname": "Aniket"
     }, 
