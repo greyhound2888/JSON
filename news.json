@@ -418,9 +418,16 @@
   ],
   "wallpapers": [
     {
+      "title": "New walls in WhalePapers",
+      "description": "Three walls added",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_505.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "New walls available in WallPin",
       "description": "2 walls added",
-      "url": "https://twitter.com/LorAndCompany/status/1348653139008782336?s=20",
+      "url": "https://twitter.com/21MaRcO12/status/1348727225055670275?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_504.jfif",
       "authorname": "Abhi"
     },
@@ -1754,7 +1761,15 @@
   ],
   "widgets": [
     {
-      "title": "[NEW]  Coral KWGT is now live on Playstore",
+      "title": "Stable release of Abstract Pro for KWGT is out",
+      "description": "5 new widgets added too",
+      "url": "https://play.google.com/store/apps/details?id=abstractpro.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_376.jpg",
+      "authorname": "Abhi"
+    }, 
+   
+    {
+      "title": "[NEW] Coral KWGT is now live on Playstore",
       "description": "30 widgets on initial release, Go get it",
       "url": "https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_375.jpg",
