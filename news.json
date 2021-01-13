@@ -24,6 +24,27 @@
   ],
   "news": [
     {
+      "title": "[Giveaway] 5 Promocodes of Abstract Pro",
+      "description": "Try your luck. Result in next 48 hrs.",
+      "url": "https://twitter.com/theandrofreak/status/1349339310198202369?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_381.jfif",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "[Giveaway] Pix Pie Icon Pack",
+      "description": "Try your luck. Result in next 24hrs.",
+      "url": "https://twitter.com/iammrbhaskar/status/1349295277920772096?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_412.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "iOS KWGT currently free!!",
+      "description": "Only for today",
+      "url": "https://play.google.com/store/apps/details?id=com.vexcode.ioskwgt",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_380.jfif",
+      "authorname": "Dhanraj"
+    },
+    {
       "title": "[NEW] [Giveaway] Coral KWGT is now live on Playstore and Giveaway",
       "description": "30 widgets on initial release, Check it out!!",
       "url": "https://twitter.com/theandrofreak/status/1348898205254127620?s=20",
@@ -42,20 +63,6 @@
       "description": "70% off, Grab it now",
       "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_374.jpg",
-      "authorname": "Aniket"
-    },
-    {
-      "title": "[FREE] Gradient Icon pack is Free for limited time",
-      "description": "Go grab it now",
-      "url": "https://play.google.com/store/apps/details?id=com.vexcode.gradient",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_405.jpg",
-      "authorname": "Aniket"
-    },
-    {
-      "title": "[Giveaway] Pix Minimal Black/White Icon Pack",
-      "description": "Click for details",
-      "url": "https://twitter.com/iammrbhaskar/status/1348543777997115394?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_401.jpg",
       "authorname": "Aniket"
     },
     {
@@ -1060,7 +1067,7 @@
   "icons": [
     {
       "title": "[Giveaway] Pix Pie Icon Pack",
-      "description": "Try your luck. Result in next 24hrs",
+      "description": "Try your luck. Result in next 24hrs.",
       "url": "https://twitter.com/iammrbhaskar/status/1349295277920772096?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_412.jfif",
       "authorname": "Abhi"
@@ -1837,6 +1844,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[Giveaway] 5 Promocodes of Abstract Pro",
+      "description": "Try your luck. Result in next 48 hrs.",
+      "url": "https://twitter.com/theandrofreak/status/1349339310198202369?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_381.jfif",
+      "authorname": "Dhanraj"
+    },
     {
       "title": "iOS KWGT currently free!!",
       "description": "Only for today",
