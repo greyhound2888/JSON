@@ -23,6 +23,20 @@
     }
   ],
   "news": [
+      {
+      "title": "[GIVEAWAY] Sheer KWGT got an Update as well",
+      "description": "Head over to the tweet for more details!!",
+      "url": "https://twitter.com/jacksonhayes701/status/1349627927462199297?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_384.jpg",
+      "authorname": "Yudha"
+    },
+       {
+      "title": "[SALE] AlineT Icon Pack",
+      "description": "Grab it now!!",
+      "url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.alinet",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_411.jfif",
+      "authorname": "Yudha"
+    },
     {
       "title": "[New] [Free] Minante KLWP is live on playstore",
       "description": "Grab it now!!",
@@ -45,18 +59,11 @@
       "authorname": "Abhi"
     },
     {
-      "title": "iOS KWGT currently free!!",
-      "description": "Only for today",
+      "title": "IOS KWGT is currently Free!!",
+      "description": "Grab it before the sale ends!!",
       "url": "https://play.google.com/store/apps/details?id=com.vexcode.ioskwgt",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_380.jfif",
       "authorname": "Dhanraj"
-    },
-    {
-      "title": "[NEW] [Giveaway] Coral KWGT is now live on Playstore and Giveaway",
-      "description": "30 widgets on initial release, Check it out!!",
-      "url": "https://twitter.com/theandrofreak/status/1348898205254127620?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_375.jpg",
-      "authorname": "Aniket"
     },
     {
       "title": "[Giveaway] Homestack KLWP",
@@ -73,34 +80,6 @@
       "authorname": "Aniket"
     },
     {
-      "title": "[Giveaway] Lhotse KWGT and Aura KLWP",
-      "description": "Enter the giveaway now",
-      "url": "https://twitter.com/theandrofreak/status/1348222269596684288?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_372.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[Giveaway] Celia walls",
-      "description": "Click here to learn more about this giveaway",
-      "url": "https://twitter.com/vhthinh_at/status/1348277913959813121?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_373.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[Giveaway] Anubis round icon pack",
-      "description": "Enter the giveaway for this brand new icon pack",
-      "url": "https://twitter.com/EatosApps/status/1348334141205463042?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_400.jpg",
-      "authorname": "Shanky"
-    },
-    {
-      "title": "[Giveaway] Anubis black round icon pack",
-      "description": "Try you luck and win this brand new icon pack",
-      "url": "https://twitter.com/EatosApps/status/1348334457934147584?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_399.jpg",
-      "authorname": "Shanky"
-    },
-    {
       "title": "Felix KWGT Update",
       "description": "7 Widgets Added (Total 74 Widgets)",
       "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
@@ -108,14 +87,7 @@
       "authorname": "Abhi"
     },
     {
-      "title": "[Giveaway] One Line Icon Pack",
-      "description": "Try your luck. Result in next 24hr.",
-      "url": "https://twitter.com/iammrbhaskar/status/1348223315794485248?s=20k",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_397.jfif",
-      "authorname": "Abhi"
-    },
-    {
-      "title": "[Free]Yudha added new wallpapers to his collection",
+      "title": "[Free] Yudha added new wallpapers to his collection",
       "description": "A couple of amazing fluid walls added, go check them out",
       "url": "https://twitter.com/yudhajit_ghosh/status/1348170484559478784?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_494.jpg",
@@ -127,13 +99,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.asn360.creamy.dark.iconpack",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_396.jpg",
       "authorname": "Shanky"
-    },
-    {
-      "title": "[Giveaway] Wallpin Wallpaper",
-      "description": "Don't miss out !!",
-      "url": "https://twitter.com/iammrbhaskar/status/1347832850507186176?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_490.jfif",
-      "authorname": "Abhi"
     },
     {
       "title": "[Free] Silk Walls by Rishi",
@@ -162,20 +127,6 @@
       "url": "https://twitter.com/mhcharlee/status/1347328531475423242?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_75.jpg",
       "authorname": "Shanky"
-    },
-    {
-      "title": "[GIVEAWAY] MyOS KWGT!! ",
-      "description": "Head over to the tweet for more details.",
-      "url": "https://twitter.com/Android_Whix/status/1347132338514370560?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_354.jpg",
-      "authorname": "Asad"
-    },
-    {
-      "title": "[GIVEAWAY] Burn Kwgt",
-      "description": "Head over to the tweet for more details!!",
-      "url": "https://twitter.com/iammrbhaskar/status/1347124434759340035?s=20",
-      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_352.jpg",
-      "authorname": "Yudha"
     },
     {
       "title": "[GIVEAWAY] Prism Wallpapers",
@@ -1353,13 +1304,6 @@
       "authorname": "Shanky"
     },
     {
-      "title": "[Giveaway] Glowline Icon pack",
-      "description": "Its a mega giveaway. Try your luck now",
-      "url": "https://twitter.com/HeyAlphaOne/status/1346100353641504768?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_378.jpg",
-      "authorname": "Shanky"
-    },
-    {
       "title": "[FREE] Lillian Icon pack is now live on playstore",
       "description": "Go grab it",
       "url": "https://play.google.com/store/apps/details?id=com.lillian.free.iconpack",
@@ -1893,6 +1837,20 @@
     }
   ],
   "widgets": [
+     {
+      "title": "[GIVEAWAY] Sheer KWGT got an Update as well",
+      "description": "Head over to the tweet for more details!!",
+      "url": "https://twitter.com/jacksonhayes701/status/1349627927462199297?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_384.jpg",
+      "authorname": "Yudha"
+    },
+    {
+      "title": "Pineapple KWGT got its Final Update",
+      "description": "Check it out now!!",
+      "url": "https://play.google.com/store/apps/details?id=pineapplekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_383.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "Update for blueberry KWGT is live",
       "description": "Check it out now!!",
