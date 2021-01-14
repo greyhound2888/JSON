@@ -23,14 +23,14 @@
     }
   ],
   "news": [
-      {
+    {
       "title": "[GIVEAWAY] Sheer KWGT got an Update as well",
       "description": "Head over to the tweet for more details!!",
       "url": "https://twitter.com/jacksonhayes701/status/1349627927462199297?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_384.jpg",
       "authorname": "Yudha"
     },
-       {
+    {
       "title": "[SALE] AlineT Icon Pack",
       "description": "Grab it now!!",
       "url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.alinet",
@@ -72,7 +72,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_77.jpg",
       "authorname": "Shanky"
     },
-     {
+    {
       "title": "[Sale] Mizu KWGT is on a massive sale",
       "description": "70% off, Grab it now",
       "url": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
@@ -389,7 +389,7 @@
     }
   ],
   "wallpapers": [
-      {
+    {
       "title": "[FREE] New Walls by Vinoth",
       "description": "Check them out now!!",
       "url": "https://twitter.com/helvetiica/status/1349410664570380288?s=20",
@@ -1495,20 +1495,41 @@
   ],
   "widgets": [
     {
+      "title": "Lhotse KWGT Updated to v1.2",
+      "description": "Added 5 new widgets (35 in total)",
+      "url": "https://twitter.com/Seamoon757/status/1349709298675421184?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_389.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Giveaway] Libra KWGT",
+      "description": "Try your luck. Result in 48hrs",
+      "url": "https://twitter.com/Seamoon757/status/1349709298675421184?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_388.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Like KWGT Updated to v7.1",
+      "description": "10 widgets added (Total 90 widgets)",
+      "url": "https://play.google.com/store/apps/details?id=com.likekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_387.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "First Update for Coral KWGT is live on Playstore!",
       "description": "5 New widgets added. Update it now!!",
       "url": "https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_386.jpg",
       "authorname": "Yudha"
     },
-        {
+    {
       "title": "Style Kwgt got an Update",
       "description": "4 New widgets added. Update it now!!",
       "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_385.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "[GIVEAWAY] Sheer KWGT got an Update as well",
       "description": "Head over to the tweet for more details!!",
       "url": "https://twitter.com/jacksonhayes701/status/1349627927462199297?s=20",
@@ -1570,14 +1591,14 @@
       "url": "https://play.google.com/store/apps/details?id=abstractpro.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_376.jpg",
       "authorname": "Abhi"
-    }, 
-   {
+    },
+    {
       "title": "[NEW] [Giveaway] Coral KWGT is now live on Playstore and Giveaway",
       "description": "30 widgets on initial release, Check it out!!",
       "url": "https://twitter.com/theandrofreak/status/1348898205254127620?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_375.jpg",
       "authorname": "Aniket"
-    }, 
+    },
     {
       "title": "[Sale] Mizu KWGT is on a massive sale",
       "description": "70% off, Grab it now",
