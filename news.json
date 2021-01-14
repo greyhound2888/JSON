@@ -389,6 +389,13 @@
     }
   ],
   "wallpapers": [
+      {
+      "title": "[FREE] New Walls by Vinoth",
+      "description": "Check them out now!!",
+      "url": "https://twitter.com/helvetiica/status/1349410664570380288?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_511.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "Joy Walls got an update",
       "description": "Check it out",
@@ -1837,6 +1844,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "First Update for Coral KWGT is live on Playstore!",
+      "description": "5 New widgets added. Update it now!!",
+      "url": "https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_386.jpg",
+      "authorname": "Yudha"
+    },
+        {
+      "title": "Style Kwgt got an Update",
+      "description": "4 New widgets added. Update it now!!",
+      "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_385.jpg",
+      "authorname": "Yudha"
+    },
      {
       "title": "[GIVEAWAY] Sheer KWGT got an Update as well",
       "description": "Head over to the tweet for more details!!",
