@@ -24,6 +24,13 @@
   ],
   "news": [
     {
+      "title": "[New] [Free] Minante KLWP is live on playstore",
+      "description": "Grab it now!!",
+      "url": "https://play.google.com/store/apps/details?id=minanteminimalklwp.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_80.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "[Giveaway] 5 Promocodes of Abstract Pro",
       "description": "Try your luck. Result in next 48 hrs.",
       "url": "https://twitter.com/theandrofreak/status/1349339310198202369?s=20",
@@ -431,6 +438,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "[Free] A couple of cool walls for you guys",
+      "description": "Check them out!!",
+      "url": "https://twitter.com/arijitbasak_23/status/1349373573652123649?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_509.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "New wallpapers added to Wallrod",
       "description": "Check them out right now!!",
@@ -1065,6 +1079,34 @@
     }
   ],
   "icons": [
+    {
+      "title": "[Free] Try out Reev icons before buying the pro version",
+      "description": "Go check them out",
+      "url": "https://play.google.com/store/apps/details?id=com.reevicons.grabsterstudios",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_416.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Vera icon pack uodate is live",
+      "description": "Check out whatsnew in the update",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_415.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Layers icon pack got an update",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.sreerag.layers",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_414.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Flora icon pack got an update",
+      "description": "Click here to check whatsnew",
+      "url": "https://play.google.com/store/apps/details?id=com.jndapp.flora.material.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_413.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "[Giveaway] Pix Pie Icon Pack",
       "description": "Try your luck. Result in next 24hrs.",
@@ -1844,6 +1886,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Update for blueberry KWGT is live",
+      "description": "Check it out now!!",
+      "url": "https://play.google.com/store/apps/details?id=blueberrykwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_382.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "[Giveaway] 5 Promocodes of Abstract Pro",
       "description": "Try your luck. Result in next 48 hrs.",
@@ -2882,6 +2931,20 @@
     }
   ],
   "klwp": [
+    {
+      "title": "[Free] Cassiopeia KLWP updated with a new preset Mind Palace",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=pl.mhcharlee.cassiopeia",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_79.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[New] [Free] Minante KLWP is live on playstore",
+      "description": "Grab it now!!",
+      "url": "https://play.google.com/store/apps/details?id=minanteminimalklwp.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_80.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Wind KLWP Update",
       "description": "A new preset added",
