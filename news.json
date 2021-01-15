@@ -785,8 +785,15 @@
     }
   ],
   "icons": [
+     {
+      "title": "Nebula Icons Update",
+      "description": "35 new icons added (Total 1680+ icons)",
+      "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_418.jfif",
+      "authorname": "Abhi"
+    },
     {
-      "title": "All the 3 variants of Caelus icon pack got an update",
+      "title": "All 3 variants of Caelus icon pack got an update",
       "description": "30 new icons added to each, Go check them out",
       "url": "https://play.google.com/store/apps/dev?id=7550572979310204381",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_417.jpg",
@@ -1242,6 +1249,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[Giveaway] Like KWGT 5 Promocodes",
+      "description": "Try your luck. Result in 48hrs",
+      "url": "https://twitter.com/Android_Whix/status/1349791048147619841?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_391.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Crystal KWGT Updated to v.4.5",
+      "description": "5 new widgets added (Total 69 widgets now)",
+      "url": "https://play.google.com/store/apps/details?id=crystal.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_390.jfif",
+      "authorname": "Abhi"
+    },
     {
       "title": "Lhotse KWGT Updated to v1.2",
       "description": "Added 5 new widgets (35 in total)",
