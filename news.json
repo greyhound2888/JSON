@@ -137,6 +137,13 @@
     }
   ],
   "wallpapers": [
+     {
+      "title": "[Free] Wavy Walls by Dave",
+      "description": "3 new walls added in the album",
+      "url": "https://twitter.com/droidbeauty/tatus/1350545911261368320?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_530.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "WallderLust Pro update is live",
       "description": "Check out what this update brings to you!!",
@@ -919,6 +926,20 @@
   ],
   "icons": [
      {
+      "title": "Tessa Icon Pack v.1.0.6",
+      "description": "900+ icons in the pack",
+      "url": "https://play.google.com/store/apps/details?id=com.icarus.tessa",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_420.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Duo Icon Pack Update",
+      "description": "40 new icons added",
+      "url": "https://play.google.com/store/apps/details?id=com.sreerag.duo",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_419.jpg",
+      "authorname": "Abhi"
+    },
+     {
       "title": "Nebula Icons Update",
       "description": "35 new icons added (Total 1680+ icons)",
       "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
@@ -1382,6 +1403,20 @@
     }
   ],
   "widgets": [
+      {
+      "title": "[Giveaway] Dave's KWGT",
+      "description": "10 promocodes of each apps",
+      "url": "https://twitter.com/droidbeauty/status/1350795956300689411?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_400.jpg",
+      "authorname": "Abhi"
+    },
+     {
+      "title": "[Giveaway] Majestic KWGT",
+      "description": "Try your luck. Result in 48hrs.",
+      "url": "https://twitter.com/Seamoon757/status/1350785017241333765?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_399.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "[Free] Vanilla KWGT update is live",
       "description": "Check out for more details",
