@@ -1508,6 +1508,13 @@
     }
   ],
   "widgets": [
+       {
+    "title": "[NEW] Neu Cards 1 KWGT",
+    "description": "Check it out!!",
+    "url": "https://play.google.com/store/apps/details?id=com.neucards1forkwgt.kustom.pack",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_402.jpg",
+    "authorname": "Kuladeep"
+      },
     {
       "title": "[Giveaway] Cool KWGT",
       "description": "Be a part of this giveaway right now!!!",
