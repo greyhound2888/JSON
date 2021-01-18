@@ -24,6 +24,13 @@
   ],
   "news": [
     {
+      "title": "[SALE] Selene icon pack is on sale",
+      "description": "Upto 50% off, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.selene",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_422.jpg",
+      "authorname": "Professor"
+    },
+    {
       "title": "[Giveaway] Cool KWGT",
       "description": "Be a part of this giveaway right now!!!",
       "url": "https://twitter.com/tizenharom13/status/1350818737725825025?s=09",
@@ -158,6 +165,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New Walls Added to Wallpin wallpapers",
+      "description": "Check them out",
+      "url": "https://twitter.com/21MaRcO12/status/1351087667388289024?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_533.jpg",
+      "authorname": "Professor"
+    }, 
     {
       "title": "New walls added to Collections Wallpapers by Lor & Company",
       "description": "Go check out the amazing wallpapers added",
@@ -960,6 +974,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "[SALE] Selene icon pack is on sale",
+      "description": "Upto 50% off, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.selene",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_422.jpg",
+      "authorname": "Professor"
+    },
     {
       "title": "Update for Sliced icon pack is live",
       "description": "25 new icons added to the pack",
