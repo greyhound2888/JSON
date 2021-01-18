@@ -1508,6 +1508,13 @@
     }
   ],
   "widgets": [
+         {
+      "title": "[NEW] Xion for KWGT",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/Android15Kustom/status/1350497616631648261?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_403.jpg",
+      "authorname": "Kuladeep"
+     },
        {
     "title": "[NEW] Neu Cards 1 KWGT",
     "description": "Check it out!!",
@@ -2693,6 +2700,13 @@
     }
   ],
   "klwp": [
+        {
+      "title": "[NEW] Floki for KLWP",
+      "description": "Go check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=flokiforklwp.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_83.jpg",
+      "authorname": "Kuladeep"
+    },
     {
       "title": "[Free] Some freebies for you guys",
       "description": "Walls, KLWPs & Mockups, Get them all now",
