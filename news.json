@@ -23,6 +23,13 @@
     }
   ],
   "news": [
+    {
+      "title": "[Giveaway] Cool KWGT",
+      "description": "Be a part of this giveaway right now!!!",
+      "url": "https://twitter.com/tizenharom13/status/1350818737725825025?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_401.jpg",
+      "authorname": "Shanky"
+    },
      {
       "title": "[Giveaway] Dave's KWGT",
       "description": "10 promo codes of each app",
@@ -151,6 +158,20 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New walls added to Collections Wallpapers by Lor & Company",
+      "description": "Go check out the amazing wallpapers added",
+      "url": "https://twitter.com/LorAndCompany/status/1350882499958767618?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_532.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "New walls now available on Wallrod",
+      "description": "Check them out now",
+      "url": "https://twitter.com/MathyWallrod/status/1350833477537722377?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_531.jpg",
+      "authorname": "Shanky"
+    },
      {
       "title": "[Free] Wavy Walls by Dave",
       "description": "3 new walls added in the album",
@@ -939,6 +960,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "Update for Sliced icon pack is live",
+      "description": "25 new icons added to the pack",
+      "url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_421.jpg",
+      "authorname": "Shanky"
+    },
      {
       "title": "Tessa Icon Pack v.1.0.6",
       "description": "900+ icons in the pack",
@@ -1417,6 +1445,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[Giveaway] Cool KWGT",
+      "description": "Be a part of this giveaway right now!!!",
+      "url": "https://twitter.com/tizenharom13/status/1350818737725825025?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_401.jpg",
+      "authorname": "Shanky"
+    },
       {
       "title": "[Giveaway] Dave's KWGT",
       "description": "10 promo codes of each app",
