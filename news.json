@@ -23,6 +23,13 @@
     }
   ],
   "news": [
+      {
+      "title": "[NEW] Peanut Iconpack is live",
+      "description": "Check it out now!!",
+      "url": "https://play.google.com/store/apps/details?id=dev.awze.peanut.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_425.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "[SALE] Selene icon pack is on sale",
       "description": "Upto 50% off, Check it out",
@@ -165,6 +172,20 @@
     }
   ],
   "wallpapers": [
+       {
+      "title": "New Walls added to Dave's Collection",
+      "description": "17 new walls added. Check them out",
+      "url": "https://twitter.com/droidbeauty/status/1351154641053081615?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_535.jpg",
+      "authorname": "Yudha"
+    }, 
+     {
+      "title": "New Walls by Nick Nice",
+      "description": "Check them out!!",
+      "url": "https://twitter.com/NickNice85/status/1351142722913099776?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_534.jpg",
+      "authorname": "Yudha"
+    }, 
     {
       "title": "New Walls Added to Wallpin wallpapers",
       "description": "Check them out",
@@ -974,6 +995,20 @@
     }
   ],
   "icons": [
+      {
+      "title": "[NEW] Peanut Iconpack is live",
+      "description": "Check it out now!!",
+      "url": "https://play.google.com/store/apps/details?id=dev.awze.peanut.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_425.jpg",
+      "authorname": "Yudha"
+    },
+      {
+      "title": "Aprikola got an update",
+      "description": "32 new icons added. Check it out",
+      "url": "https://play.google.com/store/apps/details?id=aprikola.rose.duke.com",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_424.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "New update for japes icon pack is out",
       "description": "Check it out",
