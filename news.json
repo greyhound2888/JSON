@@ -23,7 +23,21 @@
     }
   ],
   "news": [
-      {
+    {
+      "title": "[FREE] ios 14 Widgets for KWGT is 100% off",
+      "description": "Go get it now",
+      "url": "https://play.google.com/store/apps/details?id=ios14widgetsforkwgt.techchop.media",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_405.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "[SALE] One4KWGT Pro is on sale, up to 50% off",
+      "description": "Go grab it",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4kwgtpro",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_404.jpg",
+      "authorname": "Aniket"
+     },  
+    {
       "title": "[NEW] Peanut Iconpack is live",
       "description": "Check it out now!!",
       "url": "https://play.google.com/store/apps/details?id=dev.awze.peanut.app",
@@ -814,6 +828,27 @@
   ],
   "icons": [
     {
+      "title": "Poma icon Pack update is live mow",
+      "description": "Added 300 new icons, check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.pixshoot.pomaiconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_429.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "Pushon Icon pack got a update",
+      "description": " 62 New Icons Added",
+      "url": "https://play.google.com/store/apps/details?id=com.esethnet.pushon",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_428.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "Hera Icon pack updated with 151 new icons",
+      "description": "Total 2460 icons now",
+      "url": "https://play.google.com/store/apps/details?id=studio14.application.hera",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_427.jpg",
+      "authorname": "Aniket"
+    },
+    {
       "title": "Reev Pro icon pack weekly update is live",
       "description": "Check out whatsnew!!!",
       "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
@@ -1333,7 +1368,28 @@
     }
   ],
   "widgets": [
-         {
+    {
+      "title": "[NEW] Thirty KWGT with a new minimal design is live now",
+      "description": "Go check it out",
+      "url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_406.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "[FREE] ios 14 Widgets for KWGT is 100% off",
+      "description": "Go get it now",
+      "url": "https://play.google.com/store/apps/details?id=ios14widgetsforkwgt.techchop.media",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_405.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "[SALE] One4KWGT Pro is on sale, up to 50% off",
+      "description": "Go grab it",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4kwgtpro",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_404.jpg",
+      "authorname": "Aniket"
+     },
+    {
       "title": "[NEW] Xion for KWGT",
       "description": "Check it out!!",
       "url": "https://twitter.com/Android15Kustom/status/1350497616631648261?s=20",
