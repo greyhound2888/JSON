@@ -24,6 +24,13 @@
   ],
   "news": [
     {
+      "title": "[Free] All apps by Pixshoot are totally free for a day",
+      "description": "Hit that install button, Get all the apps for free!!!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.pixshoot.pomaiconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_409.jpg",
+      "authorname": "Shanky"
+     },
+    {
       "title": "[Giveaway] Creamy dark icon pack",
       "description": "30 promo codes giveaway, Enter now!!!",
       "url": "https://twitter.com/asn360/status/1351723491985301506?s=09",
@@ -193,6 +200,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "[Free] New Wallpapers added to AsdlorDesigns collection",
+      "description": "Go check them out now",
+      "url": "https://twitter.com/jacksonhayes701/status/1351790185957056517?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_540.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "New Wallpapers added to Unusual Wallpapers",
       "description": "Check out the new walls added now",
@@ -1389,6 +1403,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "KPro KWGT update is live on playstore",
+      "description": "Go check out the new widgets added",
+      "url": "https://play.google.com/store/apps/details?id=kprokwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_408.jpg",
+      "authorname": "Shanky"
+     },
     {
       "title": "[Free] Havoc KWGT got an update",
       "description": "Go check it out",
