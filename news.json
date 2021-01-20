@@ -200,7 +200,13 @@
     }
   ],
   "wallpapers": [
-    
+        {
+      "title": "New Wallpapers added in Celia Walls",
+      "description": "Go check them out now",
+      "url": "https://twitter.com/vhthinh_at/status/1351895546697445379?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_544.jpg",
+      "authorname": "Kuladeep"
+    },
      {
       "title": "[Free] New Wallpapers by Nayelle",
       "description": "5 mesh style gradients. Go check them out now",
