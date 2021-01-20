@@ -1187,6 +1187,13 @@
     }
   ],
   "widgets": [
+   {
+    "title": "iOsMiX KWGT got an update",
+    "description": "10 new widgets added",
+    "url": "https://play.google.com/store/apps/details?id=com.iosmixkwgt.kustom.pack",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_410.jpg",
+    "authorname": "Kuladeep"
+   },
     {
       "title": "KPro KWGT update is live on playstore",
       "description": "Go check out the new widgets added",
