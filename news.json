@@ -221,6 +221,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New wallpapers added to Wallrod",
+      "description": "Check them out now!!!",
+      "url": "https://twitter.com/MathyWallrod/status/1352189183654326274?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_550.jpg",
+      "authorname": "Shanky"
+    },
      {
       "title": "[Free] Walls by HC",
       "description": "Grab them now",
@@ -1256,6 +1263,13 @@
     }
   ],
   "widgets": [
+    {
+    "title": "TapOn KWGT update is live",
+    "description": "Check it out now",
+    "url": "https://play.google.com/store/apps/details?id=tapon.kustom.pack",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_412.png",
+    "authorname": "Shanky"
+   },
     {
     "title": "Vanilla KWGT got an update",
     "description": "Check it out now",
