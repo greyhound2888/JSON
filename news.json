@@ -24,6 +24,20 @@
   ],
   "news": [
     {
+      "title": "[New] Storm Cerise Icon Pack is live on playstore",
+      "description": "Go grab it now!!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.sam.storm.cerise",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_437.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[New] Mavron Icon Pack is live on playstore",
+      "description": "Grab it now!!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.mavron.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_436.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "[Sale] Nambula Icon Pack",
       "description": "Grab it now!!!!",
       "url": "https://play.google.com/store/apps/details?id=com.panotogomo.nambula",
@@ -235,6 +249,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New wallpapers added to Wall-E Wallpapers",
+      "description": "10 new wallpapers added, Check them out now",
+      "url": "https://twitter.com/ChrisJ4ck/status/1352562418262683649?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_553.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "New wallpapers added to Whalepapers Pro",
       "description": "Check out the new wallpapers added",
@@ -722,6 +743,27 @@
     }
   ],
   "icons": [
+    {
+      "title": "[Sale] Vera Icon Pack",
+      "description": "50% Off, Grab it now!!",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_438.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[New] Storm Cerise Icon Pack is live on playstore",
+      "description": "Go grab it now!!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.sam.storm.cerise",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_437.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[New] Mavron Icon Pack is live on playstore",
+      "description": "Grab it now!!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.mavron.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_436.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "[Sale] Nambula Icon Pack",
       "description": "Grab it now!!!!",
@@ -1305,6 +1347,13 @@
     }
   ],
   "widgets": [
+    {
+    "title": "Eve KWGT V3.0 update is live",
+    "description": "Check out whatsnew in the update",
+    "url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_414.jpg",
+    "authorname": "Shanky"
+   },
     {
     "title": "Style KWGT update is live",
     "description": "Check out whatsnew in the update",
