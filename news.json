@@ -23,6 +23,20 @@
     }
   ],
   "news": [
+    {
+      "title": "[Sale] Nambula Icon Pack",
+      "description": "Grab it now!!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.nambula",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_435.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Bubblegum Remix Icons",
+      "description": "20 copies are being given away for free, Register yourself here",
+      "url": "https://twitter.com/itsCrx/status/1352345956575027201?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_434.jpg",
+      "authorname": "Shanky"
+    },
         {
       "title": "[Free] Walls by HC",
       "description": "Grab them now",
@@ -221,6 +235,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New wallpapers added to One4Wall both free and premium collection",
+      "description": "Check them out now!!!",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.wallpaper.one4wall",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_551.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "New wallpapers added to Wallrod",
       "description": "Check them out now!!!",
@@ -694,6 +715,20 @@
     }
   ],
   "icons": [
+    {
+      "title": "[Sale] Nambula Icon Pack",
+      "description": "Grab it now!!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.nambula",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_435.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Bubblegum Remix Icons",
+      "description": "20 copies are being given away for free, Register yourself here",
+      "url": "https://twitter.com/itsCrx/status/1352345956575027201?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_434.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Update for Poma Big Sur Round Icon Pack is live",
       "description": "300 new icons added, Grab it now",
@@ -1263,6 +1298,13 @@
     }
   ],
   "widgets": [
+    {
+    "title": "Style KWGT update is live",
+    "description": "Check out whatsnew in the update",
+    "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_413.jpg",
+    "authorname": "Shanky"
+   },
     {
     "title": "TapOn KWGT update is live",
     "description": "Check it out now",
