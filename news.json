@@ -24,11 +24,25 @@
   ],
   "news": [
     {
+    "title": "[Giveaway] Foxie KWGT",
+    "description": "10 Promo codes, Get a chance to win one for yourself",
+    "url": "https://twitter.com/Seamoon757/status/1352881882225123328?s=09",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_418.jpg",
+    "authorname": "Shanky"
+   },
+    {
+    "title": "[Giveaway] Dark Droid Wallpapers",
+    "description": "Try your luck",
+    "url": "https://twitter.com/SanketN8/status/1352855876747423746?s=09",
+    "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_558.jpg",
+    "authorname": "Shanky"
+   },
+    {
     "title": "[New] [Giveaway] Elara KWGT is live on playstore",
     "description": "What you are waiting for, Get a chance to win this for free",
     "url": "https://twitter.com/codenameakshay/status/1352873211269025792?s=09",
     "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_417.jpg",
-    "authorname": "Kuladeep"
+    "authorname": "Shanky"
    },
     {
       "title": "[NEW] Fluent iO-Esque for KLWP is now live",
@@ -270,6 +284,20 @@
     }
   ],
   "wallpapers": [
+    {
+    "title": "New wallpapers added to Wallwibes",
+    "description": "6 new wallpapers added",
+    "url": "https://twitter.com/pixelvibe15/status/1352885844357615617?s=09",
+    "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_559.jpg",
+    "authorname": "Shanky"
+   },
+    {
+    "title": "[Giveaway] Dark Droid Wallpapers",
+    "description": "Try your luck",
+    "url": "https://twitter.com/SanketN8/status/1352855876747423746?s=09",
+    "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_558.jpg",
+    "authorname": "Shanky"
+   },
     {
     "title": "[Free] Bokeh Live Wallpaper",
     "description": "Grab it now",
@@ -1425,11 +1453,18 @@
   ],
   "widgets": [
     {
+    "title": "[Giveaway] Foxie KWGT",
+    "description": "10 Promo codes, Get a chance to win one for yourself",
+    "url": "https://twitter.com/Seamoon757/status/1352881882225123328?s=09",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_418.jpg",
+    "authorname": "Shanky"
+   },
+    {
     "title": "[New] [Giveaway] Elara KWGT is live on playstore",
     "description": "What you are waiting for, Get a chance to win this for free",
     "url": "https://twitter.com/codenameakshay/status/1352873211269025792?s=09",
     "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_417.jpg",
-    "authorname": "Kuladeep"
+    "authorname": "Shanky"
    },
     {
     "title": "First update for the all new Thirty KWGT is live",
