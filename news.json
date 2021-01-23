@@ -24,6 +24,27 @@
   ],
   "news": [
     {
+    "title": "[New] [Giveaway] Elara KWGT is live on playstore",
+    "description": "What you are waiting for, Get a chance to win this for free",
+    "url": "https://twitter.com/codenameakshay/status/1352873211269025792?s=09",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_417.jpg",
+    "authorname": "Kuladeep"
+   },
+    {
+      "title": "[NEW] Fluent iO-Esque for KLWP is now live",
+      "description": "Grab it now!!",
+      "url": "https://play.google.com/store/apps/details?id=klwp.digmotmag.fluentiosq",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_85.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Aline Icon Pack weekly update is live",
+      "description": "Check out the update & enter the giveaway now",
+      "url": "https://twitter.com/One4Studio/status/1352717941855424514?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_441.jpg",
+      "authorname": "Shanky"
+    },
+    {
       "title": "[New] Storm Cerise Icon Pack is live on playstore",
       "description": "Go grab it now!!!!",
       "url": "https://play.google.com/store/apps/details?id=com.sam.storm.cerise",
@@ -249,6 +270,20 @@
     }
   ],
   "wallpapers": [
+    {
+    "title": "[Free] Bokeh Live Wallpaper",
+    "description": "Grab it now",
+    "url": "https://twitter.com/maxelusNet/status/1352711485491998720?s=09",
+    "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_557.jpg",
+    "authorname": "Shanky"
+   },
+    {
+    "title": "[Free] New wallpapers added to G-Wallpapers",
+    "description": "Check out the new wallpapers added",
+    "url": "https://twitter.com/Alan140503/status/1352651292188028929?s=09",
+    "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_556.jpg",
+    "authorname": "Shanky"
+   },
       {
     "title": "New wallpapers added to Dark Droid",
     "description": "Check out the new wallpapers added",
@@ -757,6 +792,27 @@
     }
   ],
   "icons": [
+    {
+      "title": "Peanut Icon Pack weekly update is live",
+      "description": "Check out What'sNew!!",
+      "url": "https://play.google.com/store/apps/details?id=dev.awze.peanut.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_442.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "[Giveaway] Aline Icon Pack weekly update is live",
+      "description": "Check out the update & enter the giveaway now",
+      "url": "https://twitter.com/One4Studio/status/1352717941855424514?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_441.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Borealis Icon Pack weekly update is live",
+      "description": "Check out the updatelog now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.unvoid.borealis",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_440.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Nebula Icon Pack weekly update is live",
       "description": "Check out the updatelog now!!",
@@ -1368,6 +1424,20 @@
     }
   ],
   "widgets": [
+    {
+    "title": "[New] [Giveaway] Elara KWGT is live on playstore",
+    "description": "What you are waiting for, Get a chance to win this for free",
+    "url": "https://twitter.com/codenameakshay/status/1352873211269025792?s=09",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_417.jpg",
+    "authorname": "Kuladeep"
+   },
+    {
+    "title": "First update for the all new Thirty KWGT is live",
+    "description": "Check out the updatelog",
+    "url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
+    "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_416.jpg",
+    "authorname": "Shanky"
+   },
        {
     "title": "MoonLight KWGT got an update",
     "description": "Added 7 new widgets",
@@ -2637,6 +2707,20 @@
     }
   ],
   "klwp": [
+    {
+      "title": "[NEW] Fluent iO-Esque for KLWP is now live",
+      "description": "Grab it now!!",
+      "url": "https://play.google.com/store/apps/details?id=klwp.digmotmag.fluentiosq",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_85.jpg",
+      "authorname": "Shanky"
+    },
+    {
+      "title": "Update for YKP3 for KLWP is live with a new preset SPORCK",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.yaatzek.klwp.ykpthree",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_84.jpg",
+      "authorname": "Shanky"
+    },
         {
       "title": "[NEW] Floki for KLWP",
       "description": "Go check it out!!",
