@@ -312,28 +312,49 @@
     }
   ],
   "wallpapers": [
-         {
+   {
+      "title": "New Xeon Wallpapers by akshay now in the Prism app",
+      "description": "Go check it",
+      "url": "https://twitter.com/PrismWallpapers/status/1353647079399165953?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_573.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "[FREE] Some free walls by JFL",
+      "description": "Go get it now",
+      "url": "https://twitter.com/wallsbyjfl/status/1353554058087432192?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_572.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "[SALE] Joy Walls is on Sale",
+      "description": "Go grab it now",
+      "url": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_571.jpg",
+      "authorname": "Aniket"
+     },
+    {
       "title": "New walls added in Celia Walls",
       "description": "Go check it out",
       "url": "https://twitter.com/vhthinh_at/status/1353683112102817793?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_570.jpg",
       "authorname": "Kuladeep"
      },
-       {
+  {
     "title": "Some free walls by Dhanraj Priyadarshi",
     "description": "Grab them!!!",
     "url": "https://twitter.com/BerserkDhanraj/status/1353727665534955521?s=20",
     "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_569.jpg",
     "authorname": "Kuladeep"
    },
-    {
+  {
       "title": "Some free walls by Abhishek",
       "description": "Grab them!!!",
       "url": "https://twitter.com/Iam_abhishekag/status/1353297509871996931?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_568.jpg",
       "authorname": "Dhanraj"
     },
-    {
+  {
       "title": "New Walls added in AmoledPapers",
       "description": "Check it out!!!",
       "url": "https://twitter.com/mhcharlee/status/1353310507613245445?s=20",
@@ -925,21 +946,35 @@
     }
   ],
   "icons": [
-      {
+   {
+      "title": "Linebit stream deck icons now available on gumroad",
+      "description": "Go check it",
+      "url": "https://gumroad.com/l/linebit_sd",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_454.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "Layers Icon Pack got an update",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.sreerag.layers",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_453.webp",
+      "authorname": "Aniket"
+     },
+    {
       "title": "[GIVEAWAY] Peanut Icon Pack",
       "description": "Check out the tweet for more details",
       "url": "https://twitter.com/awzedesign/status/1353506492377251840?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_452.jpg",
       "authorname": "Kuladeep"
      },
-      {
+ {
     "title": "NYON Icon Pack got an update",
     "description": "200 New icons added",
     "url": "https://play.google.com/store/apps/details?id=com.lknninex.nyon",
     "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_451.jpg",
     "authorname": "Kuladeep"
   },
-        {
+  {
       "title": "Reev Pro Icon Pack got an update",
       "description": "Check it out!!",
       "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
