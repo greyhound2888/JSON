@@ -1,12 +1,12 @@
 {
   "highlights": [
-    {
-      "title": "[New] [Giveaway] Elara KWGT is live on playstore",
-      "description": "What you are waiting for, Get a chance to win this for free",
-      "url": "https://twitter.com/codenameakshay/status/1352873211269025792?s=09",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_417.jpg",
-      "authorname": "Shanky"
-    },
+     {
+      "title": "Metal Redefined is on Sale",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Metalv2",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_460.jpg",
+      "authorname": "Dhanraj"
+     },
     {
       "title": "BitLit meets Flutter",
       "description": "Click here!!",
@@ -24,10 +24,10 @@
   ],
   "news": [
      {
-      "title": "Metal Redifined is on Sale",
+      "title": "[NEW] Storm Sienna Icons Pack is now live on Play Store",
       "description": "Check it out!!",
-      "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Metalv2",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_460.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.sam.storm.sienna",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_459.jpg",
       "authorname": "Dhanraj"
      },
         {
@@ -982,7 +982,7 @@
   ],
   "icons": [
     {
-      "title": "Metal Redifined is on Sale",
+      "title": "Metal Redefined is on Sale",
       "description": "Check it out!!",
       "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Metalv2",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_460.jpg",
