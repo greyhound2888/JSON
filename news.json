@@ -1038,6 +1038,13 @@
   ],
   "icons": [
     {
+      "title": "[Free] Minka Dark Icon Pack is free for a limited time",
+      "description": "Add this unique icon pack to your collection for free!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.minkad",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_464.jpg",
+      "authorname": "Shanky"
+     },
+    {
       "title": "Nambula Icon Pack update is live on playstore",
       "description": "100+ new icons added, Check them out now!!",
       "url": "https://play.google.com/store/apps/details?id=com.panotogomo.nambula",
@@ -1816,6 +1823,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Style KWGT update v2.5 is live on Play Store",
+      "description": "Go check out the new widgets added",
+      "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_435.jpg",
+      "authorname": "Shanky"
+     },
+    {
+      "title": "Abstract Pro KWGT update v1.1 is live on Play Store",
+      "description": "Check it out now!!!",
+      "url": "https://play.google.com/store/apps/details?id=abstractpro.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_434.jpg",
+      "authorname": "Shanky"
+     },
     {
       "title": "Thirty KWGT update v1.2 is live on Play Store",
       "description": "Go check out the whatsnew!!!",
