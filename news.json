@@ -1817,6 +1817,13 @@
   ],
   "widgets": [
     {
+      "title": "Thirty KWGT update v1.2 is live on Play Store",
+      "description": "Go check out the whatsnew!!!",
+      "url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_433.jpg",
+      "authorname": "Shanky"
+     },
+    {
       "title": "Crystal KWGT update v5.0 is live on Play Store",
       "description": "Go check out the updatelog now!!!",
       "url": "https://play.google.com/store/apps/details?id=crystal.kustom.pack",
