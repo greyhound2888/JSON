@@ -23,6 +23,20 @@
     }
   ],
   "news": [
+    {
+      "title": "[NEW LAUNCH] Deka KWGT is live on Play Store!!",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=dekakwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_431.jpg",
+      "authorname": "Kuladeep"
+     },
+    {
+      "title": "[New] Square KWGT is live on Play Store!!",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=squarekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_430.jpg",
+      "authorname": "Dhanraj"
+    },
      {
       "title": "[NEW] Storm Sienna Icons Pack is now live on Play Store",
       "description": "Check it out!!",
@@ -1802,6 +1816,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Crystal KWGT update v5.0 is live on Play Store",
+      "description": "Go check out the updatelog now!!!",
+      "url": "https://play.google.com/store/apps/details?id=crystal.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_432.jpg",
+      "authorname": "Shanky"
+     },
          {
       "title": "[NEW LAUNCH] Deka KWGT is live on Play Store!!",
       "description": "Check it out!!",
@@ -1810,7 +1831,7 @@
       "authorname": "Kuladeep"
      },
     {
-      "title": "Square KWGT is live on Play Store!!",
+      "title": "[New] Square KWGT is live on Play Store!!",
       "description": "Check it out!!",
       "url": "https://play.google.com/store/apps/details?id=squarekwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_430.jpg",
