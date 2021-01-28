@@ -1,11 +1,18 @@
 {
   "highlights": [
-     {
-      "title": "Metal Redefined is on Sale",
+    {
+      "title": "[New] Square KWGT is live on Play Store!!",
       "description": "Check it out!!",
-      "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Metalv2",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_460.jpg",
+      "url": "https://play.google.com/store/apps/details?id=squarekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_430.jpg",
       "authorname": "Dhanraj"
+    },
+    {
+      "title": "Thirty KWGT update v1.2 is live on Play Store",
+      "description": "Go check out the whatsnew!!!",
+      "url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_433.jpg",
+      "authorname": "Shanky"
      },
     {
       "title": "BitLit meets Flutter",
