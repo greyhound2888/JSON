@@ -31,6 +31,13 @@
   ],
   "news": [
     {
+      "title": "[Giveaway] Garis Dark Icon Pack",
+      "description": "Check out the new icons added, Enter the giveaway as well",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.garisd",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_465.jpg",
+      "authorname": "Shanky"
+     },
+    {
       "title": "[New] Spring KWGT is live on playstore",
       "description": "Check it out now",
       "url": "https://play.google.com/store/apps/details?id=springkwgt.kustom.pack",
@@ -368,6 +375,13 @@
     }
   ],
   "wallpapers": [
+    {
+        "title": "[Free] New Wallpapers added to Dhanraj Priyadarshi's collection",
+        "description": "Chck out these beautifull wallpapers",
+        "url": "https://twitter.com/BerserkDhanraj/status/1355007559384461313?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_584.jpg",
+        "authorname": "Shanky"
+    },
     {
         "title": "[Sale] New Wallpapers added to Joywalls",
         "description": "Check out the new wallpapers, Grab it before the sale ends",
@@ -1072,6 +1086,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "[Giveaway] Garis Dark Icon Pack",
+      "description": "Check out the new icons added, Enter the giveaway as well",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.garisd",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_465.jpg",
+      "authorname": "Shanky"
+     },
     {
       "title": "[Free] Minka Dark Icon Pack is free for a limited time",
       "description": "Add this unique icon pack to your collection for free!!!",
