@@ -31,6 +31,20 @@
   ],
   "news": [
     {
+      "title": "[New] Spring KWGT is live on playstore",
+      "description": "Check it out now",
+      "url": "https://play.google.com/store/apps/details?id=springkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_436.jpg",
+      "authorname": "Shanky"
+     },
+    {
+      "title": "[New] aOS KWGT by intik is now live on playstore",
+      "description": "Grab these amazing uniformly shaped iOS style widgets",
+      "url": "https://play.google.com/store/apps/details?id=aos.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_437.jpg",
+      "authorname": "Shanky"
+     },
+    {
       "title": "[NEW LAUNCH] Deka KWGT is live on Play Store!!",
       "description": "Check it out!!",
       "url": "https://play.google.com/store/apps/details?id=dekakwgt.kustom.pack",
