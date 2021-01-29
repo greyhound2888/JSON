@@ -376,6 +376,27 @@
   ],
   "wallpapers": [
     {
+        "title": "Wall-E wallpapers update is live",
+        "description": "10 new wallpapers added, Check them out!!",
+        "url": "https://twitter.com/ChrisJ4ck/status/1355095560609521664?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_587.jpg",
+        "authorname": "Shanky"
+    },
+    {
+        "title": "New Wallpapers added to Prism wallpapers",
+        "description": "Check out the soft paint wallpapers added",
+        "url": "https://twitter.com/PrismWallpapers/status/1355052276793049089?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_586.jpg",
+        "authorname": "Shanky"
+    },
+    {
+        "title": "New Wallpapers added to One4Walls Free & Premium",
+        "description": "Check out the wallpapers added",
+        "url": "https://twitter.com/One4Studio/status/1355070051594989571?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_585.jpg",
+        "authorname": "Shanky"
+    },
+    {
         "title": "[Free] New Wallpapers added to Dhanraj Priyadarshi's collection",
         "description": "Chck out these beautifull wallpapers",
         "url": "https://twitter.com/BerserkDhanraj/status/1355007559384461313?s=09",
@@ -1879,6 +1900,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Eve KWGT v3.5 update is live on playstore",
+      "description": "Check out the new widgets added",
+      "url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_438.jpg",
+      "authorname": "Shanky"
+     },
     {
       "title": "[New] aOS KWGT by intik is now live on playstore",
       "description": "Grab these amazing uniformly shaped iOS style widgets",
