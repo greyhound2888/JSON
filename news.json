@@ -30,6 +30,20 @@
     }
   ],
   "news": [
+     {
+ 	"title": "[GIVEAWAY] Spring KWGT",
+ 	"description": "10 Promo codes, Click here for details",
+ 	"url": "https://twitter.com/Jeisonv62840567/status/1355550081005596677?s=20",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_442.jpg",
+ 	"authorname": "Kuladeep"
+ },
+     {
+ 	"title": "[GIVEAWAY] Wolfie for KWGT",
+ 	"description": "10 Promo codes, Click here for details",
+ 	"url": "https://twitter.com/Seamoon757/status/1355510740250218501?s=20",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_441.jpg",
+ 	"authorname": "Kuladeep"
+ },
     {
       "title": "[Giveaway] Garis Dark Icon Pack",
       "description": "Check out the new icons added, Enter the giveaway as well",
@@ -1128,6 +1142,20 @@
     }
   ],
   "icons": [
+           {
+        "title": "Japes Icon Pack got an update",
+        "description": "38 new icons added, total 2200+ icons",
+        "url": "https://play.google.com/store/apps/details?id=suitcase.icons.japes&hl=en&gl=US",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_469.jpg",
+        "authorname": "Kuladeep"
+       },
+           {
+        "title": "Color Line Dark Icon Pack got an update",
+        "description": "70 new icons added",
+        "url": "https://play.google.com/store/apps/details?id=color.line.dark",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_468.jpg",
+        "authorname": "Kuladeep"
+       },
           {
         "title": "CreamyPro Icon Pack got an update",
         "description": "70+ new icons added",
