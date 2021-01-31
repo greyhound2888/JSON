@@ -31,6 +31,13 @@
   ],
   "news": [
     {
+ 	"title": "[Giveaway] aOS KWGT",
+ 	"description": "Hurry!! only a few hours left, Enter the giveaway now",
+ 	"url": "https://twitter.com/thetechwolf270/status/1355575864533118984?s=09",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_444.jpg",
+ 	"authorname": "Shanky"
+ },
+    {
         "title": "[SALE] Verticons Icon pack is on Sale",
         "description": "4200+ icons, Go grab it",
         "url": "https://play.google.com/store/apps/details?id=com.spaceman.verticonspro",
@@ -410,6 +417,13 @@
     }
   ],
   "wallpapers": [
+    {
+        "title": "[Free] Abstract walls by Hash Studios",
+        "description": "Get then here",
+        "url": "https://www.buymeacoffee.com/HashStudios/b007-free-thanides-abstract-wallpapers",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_596.jpg",
+        "authorname": "Shanky"
+    },  
     {
         "title": "New Walls added to Wallpin Wallpapers",
         "description": "Check it out",
@@ -2054,6 +2068,13 @@
     }
   ],
   "widgets": [
+    {
+ 	"title": "[Giveaway] aOS KWGT",
+ 	"description": "Hurry!! only a few hours left, Enter the giveaway now",
+ 	"url": "https://twitter.com/thetechwolf270/status/1355575864533118984?s=09",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_444.jpg",
+ 	"authorname": "Shanky"
+ },
      {
  	"title": "Lucent KWGT got an update",
  	"description": "2 widgets added",
