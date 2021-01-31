@@ -30,7 +30,28 @@
     }
   ],
   "news": [
-     {
+    {
+        "title": "[SALE] Verticons Icon pack is on Sale",
+        "description": "4200+ icons, Go grab it",
+        "url": "https://play.google.com/store/apps/details?id=com.spaceman.verticonspro",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_470.jpg",
+        "authorname": "Aniket"
+       }, 
+    {
+        "title": "[FREE] Some gradient walls by Rc",
+        "description": "Check it out",
+        "url": "https://twitter.com/rc200044/status/1355549048875302915?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_592.png",
+        "authorname": "Aniket"
+    }, 
+    {
+        "title": "[FREE] New Abstract walls for ios & android by Alan G",
+        "description": "Check it out",
+        "url": "https://twitter.com/Alan140503/status/1355406776129224706?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_591.jpg",
+        "authorname": "Aniket"
+    }, 
+    {
  	"title": "[GIVEAWAY] Spring KWGT",
  	"description": "10 Promo codes, Click here for details",
  	"url": "https://twitter.com/Jeisonv62840567/status/1355550081005596677?s=20",
@@ -389,6 +410,41 @@
     }
   ],
   "wallpapers": [
+    {
+        "title": "New walls added to Wallpin wallpapers",
+        "description": "Check it out",
+        "url": "https://twitter.com/21MaRcO12/status/1355646952025821185?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_595.jpg",
+        "authorname": "Aniket"
+    },  
+    {
+        "title": "New minecraft wallpapers added to Wallvibes wallpapers",
+        "description": "Go check it out",
+        "url": "https://twitter.com/pixelvibe15/status/1355555186916401156?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_594.jpg",
+        "authorname": "Aniket"
+    },  
+    {
+        "title": "New wallpapers available now in Unusual Wallpapers",
+        "description": "Go check it out",
+        "url": "https://twitter.com/akinhd/status/1355547341088976904?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_593.jpg",
+        "authorname": "Aniket"
+    },  
+    {
+        "title": "[FREE] Some gradient walls by Rc",
+        "description": "Check it out",
+        "url": "https://twitter.com/rc200044/status/1355549048875302915?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_592.png",
+        "authorname": "Aniket"
+    }, 
+    {
+        "title": "[FREE] New Abstract walls for ios & android by Alan G",
+        "description": "Check it out",
+        "url": "https://twitter.com/Alan140503/status/1355406776129224706?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_591.jpg",
+        "authorname": "Aniket"
+    },
     {
         "title": "New gradient wallpapers added to Pixurr Wallpapers",
         "description": "Check out the amazing walls designed by Yudha",
@@ -1142,14 +1198,49 @@
     }
   ],
   "icons": [
-           {
+    {
+        "title": "[NEW LAUNCH] Legant Icon pack by Eldyn",
+        "description": "Check it out",
+        "url": "https://twitter.com/zvryx/status/1355488354335219720?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_474.jpg",
+        "authorname": "Aniket"
+       }, 
+    {
+        "title": "Peanut Icon Pack updated with new version 2.1.4",
+        "description": "Added 50+ icons, Check it",
+        "url": "https://play.google.com/store/apps/details?id=dev.awze.peanut.app",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_473.jpg",
+        "authorname": "Aniket"
+       }, 
+    {
+        "title": "[GIVEAWAY] Norma Icon pack updated with 100+ new icons",
+        "description": "Go Check it out",
+        "url": "https://play.google.com/store/apps/details?id=com.panotogomo.norma",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_472.jpg",
+        "authorname": "Aniket"
+       }, 
+    {
+        "title": "WLIP Icon Pack Update now live on Play Store",
+        "description": "Check it out",
+        "url": "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_471.jpg",
+        "authorname": "Aniket"
+       }, 
+    {
+        "title": "[SALE] Verticons Icon pack is on Sale",
+        "description": "4200+ icons, Go grab it",
+        "url": "https://play.google.com/store/apps/details?id=com.spaceman.verticonspro",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_470.jpg",
+        "authorname": "Aniket"
+       }, 
+    {
         "title": "Japes Icon Pack got an update",
         "description": "38 new icons added, total 2200+ icons",
         "url": "https://play.google.com/store/apps/details?id=suitcase.icons.japes&hl=en&gl=US",
         "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_469.jpg",
         "authorname": "Kuladeep"
        },
-           {
+     {
         "title": "Color Line Dark Icon Pack got an update",
         "description": "70 new icons added",
         "url": "https://play.google.com/store/apps/details?id=color.line.dark",
@@ -3428,6 +3519,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "NeuOtch klwp theme is live",
+      "description": "Go check it out",
+      "url": "https://twitter.com/IMSourabhBhagat/status/1323106403611865088?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_87.jpg",
+      "authorname": "Aniket"
+    },
     {
       "title": "New theme added to Shared Theme Collection for KLWP",
       "description": "Go check it out",
