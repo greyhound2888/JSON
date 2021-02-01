@@ -2138,6 +2138,27 @@
     }
   ],
   "widgets": [
+     {
+ 	"title": "Sheer KWGT got an update",
+ 	"description": "10 Widgets Added, total 100 Widgets",
+ 	"url": "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_449.jpg",
+ 	"authorname": "Kuladeep"
+ },
+     {
+ 	"title": "Like KWGT got an update",
+ 	"description": "10 Widgets Added",
+ 	"url": "https://play.google.com/store/apps/details?id=com.likekwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_448.jpg",
+ 	"authorname": "Kuladeep"
+ },
+     {
+ 	"title": "Terra for KWGT got an update",
+ 	"description": "6 Widgets Added",
+ 	"url": "https://play.google.com/store/apps/details?id=wterrakwgt.nodexdev.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_447.jpg",
+ 	"authorname": "Kuladeep"
+ },
     {
  	"title": "Orca for KWGT got an update",
  	"description": "Check out the update",
