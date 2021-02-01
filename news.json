@@ -1,19 +1,19 @@
 {
   "highlights": [
     {
-        "title": "New gradient wallpapers added to Pixurr Wallpapers",
-        "description": "Check out the amazing walls designed by Yudha",
-        "url": "https://twitter.com/subham2888/status/1355185225043759104?s=09",
-        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_590.jpg",
+        "title": "A massive update for Tessa Icon Pack is here",
+        "description": "Check out the update-log",
+        "url": "https://twitter.com/icarusap/status/1355951525546188808?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_478.jpg",
         "authorname": "Shanky"
     },
     {
-      "title": "[New] aOS KWGT by intik is now live on playstore",
-      "description": "Grab these amazing uniformly shaped iOS style widgets",
-      "url": "https://play.google.com/store/apps/details?id=aos.kustom.pack",
-      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_437.jpg",
-      "authorname": "Shanky"
-     },
+        "title": "Collections Wallpaper gets new wallpapers added to cycle category",
+        "description": "Go check them out",
+        "url": "https://twitter.com/LorAndCompany/status/1355875990199623681?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_600.jpg",
+        "authorname": "Shanky"
+    },
     {
       "title": "BitLit meets Flutter",
       "description": "Click here!!",
@@ -30,6 +30,13 @@
     }
   ],
   "news": [
+    {
+      "title": "[Free] iOSX - iOS expierience for KLWP got an update",
+      "description": "Go get it now",
+      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.iosx",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_88.jpg",
+      "authorname": "Shanky"
+    },
     {
  	"title": "[Giveaway] Felix KWGT",
  	"description": "Enter the giveaway & check out the update",
@@ -424,6 +431,34 @@
     }
   ],
   "wallpapers": [
+    {
+        "title": "Collections Wallpaper gets new wallpapers added to cycle category",
+        "description": "Go check them out",
+        "url": "https://twitter.com/LorAndCompany/status/1355875990199623681?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_600.jpg",
+        "authorname": "Shanky"
+    },
+    {
+        "title": "New walls added to Pix Wallpapers",
+        "description": "Check them out now!!!",
+        "url": "https://twitter.com/pashapuma1/status/1355960361879543808?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_599.jpg",
+        "authorname": "Shanky"
+    },
+    {
+        "title": "Walderlust Pro gets an update with new wallpaperz",
+        "description": "Get then here",
+        "url": "https://twitter.com/Phones_Planes/status/1355886542032527363?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_598.jpg",
+        "authorname": "Shanky"
+    },
+    {
+        "title": "New walls added to Dark Droid",
+        "description": "Check them out",
+        "url": "https://twitter.com/SanketN8/status/1355848037260619779?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_597.jpg",
+        "authorname": "Shanky"
+    },
     {
         "title": "[Free] Abstract walls by Hash Studios",
         "description": "Get then here",
@@ -1219,6 +1254,34 @@
     }
   ],
   "icons": [
+    {
+        "title": "A massive update for Tessa Icon Pack is here",
+        "description": "Check out the update-log",
+        "url": "https://play.google.com/store/apps/details?id=com.icarus.tessa",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_478.jpg",
+        "authorname": "Shanky"
+       },
+    {
+        "title": "[Giveaway] Minimacons Dark version",
+        "description": "Click here to be a part of the giveaway",
+        "url": "https://twitter.com/therohitshetty/status/1355954181496991745?s=09",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_477.jpg",
+        "authorname": "Shanky"
+       },
+    {
+        "title": "[Sale] Dark Green & Dark Orange Icon packs are on sale",
+        "description": "Grab them before the sale ends",
+        "url": "https://play.google.com/store/apps/dev?id=4694038870815726797",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_476.jpg",
+        "authorname": "Shanky"
+       },
+    {
+        "title": "Squared Icon Pack gets an update",
+        "description": "Check it out",
+        "url": "https://play.google.com/store/apps/details?id=com.sreerag.squared",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_475.jpg",
+        "authorname": "Shanky"
+       },
     {
         "title": "[NEW LAUNCH] Legant Icon pack by Eldyn",
         "description": "Check it out",
@@ -2075,6 +2138,13 @@
     }
   ],
   "widgets": [
+    {
+ 	"title": "Orca for KWGT got an update",
+ 	"description": "Check out the update",
+ 	"url": "https://play.google.com/store/apps/details?id=orcaforkwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_446.jpg",
+ 	"authorname": "Shanky"
+ },
     {
  	"title": "[Giveaway] Felix KWGT",
  	"description": "Enter the giveaway & check out the update",
@@ -3554,6 +3624,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "[Free] iOSX for KLWP got an update",
+      "description": "Go get it now",
+      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.iosx",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_88.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "NeuOtch klwp theme is live",
       "description": "Go check it out",
