@@ -1254,6 +1254,20 @@
     }
   ],
   "icons": [
+     {
+ 	"title": "Gateau Icon Pack got an update",
+ 	"description": "Added new icons, check it out!!",
+ 	"url": "https://play.google.com/store/apps/details?id=com.stevsarm.gateau",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_480.jpg",
+ 	"authorname": "Kuladeep"
+ },
+     {
+ 	"title": "Sliced Icon Pack got an update",
+ 	"description": "25 new icons added",
+ 	"url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_479.jpg",
+ 	"authorname": "Kuladeep"
+ },
     {
         "title": "A massive update for Tessa Icon Pack is here",
         "description": "Check out the update-log",
