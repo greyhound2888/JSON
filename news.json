@@ -30,6 +30,13 @@
     }
   ],
   "news": [
+         {
+      "title": "[NEW LAUNCH] DOT KWGT",
+      "description": "Comes with 30 widgets",
+      "url": "https://play.google.com/store/apps/details?id=dotkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_451.jpg",
+      "authorname": "Kuladeep"
+     },
     {
         "title": "[Giveaway] by NFY666",
         "description": "Enter the giveaway now!!!",
@@ -2222,6 +2229,20 @@
     }
   ],
   "widgets": [
+     {
+ 	"title": "Elara KWGT got an update",
+ 	"description": "10 new widgets added",
+ 	"url": "https://play.google.com/store/apps/details?id=com.hash.elara",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_452.jpg",
+ 	"authorname": "Kuladeep"
+ },
+     {
+ 	"title": "[NEW LAUNCH] DOT KWGT",
+ 	"description": "Comes with 30 widgets",
+ 	"url": "https://play.google.com/store/apps/details?id=dotkwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_451.jpg",
+ 	"authorname": "Kuladeep"
+ },
     {
  	"title": "Vanilla KWGT got an update",
  	"description": "Check out the new widgets added",
