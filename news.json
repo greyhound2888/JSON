@@ -1289,20 +1289,55 @@
     }
   ],
   "icons": [
-     {
- 	"title": "Gateau Icon Pack got an update",
- 	"description": "Added new icons, check it out!!",
- 	"url": "https://play.google.com/store/apps/details?id=com.stevsarm.gateau",
- 	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_480.jpg",
- 	"authorname": "Kuladeep"
- },
-     {
- 	"title": "Sliced Icon Pack got an update",
- 	"description": "25 new icons added",
- 	"url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
- 	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_479.jpg",
- 	"authorname": "Kuladeep"
- },
+          {
+        "title": "Creamy Dark Icon Pack got an update",
+        "description": "70+ new icons added",
+        "url": "https://play.google.com/store/apps/details?id=com.asn360.creamy.dark.iconpack",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_485.jpg",
+        "authorname": "Kuladeep"
+      },
+          {
+        "title": "[SALE] Dove Series updated",
+        "description": "50 New icons",
+        "url": "https://twitter.com/justnewdesigns/status/1356648636311035905?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_484.jpg",
+        "authorname": "Kuladeep"
+      },
+          {
+        "title": "LineX Series updated",
+        "description": "26 new icons added",
+        "url": "https://twitter.com/justnewdesigns/status/1356587886829850626?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_483.jpg",
+        "authorname": "Kuladeep"
+      },
+        {
+      "title": "[SALE] Garis Light Lines Icon Pack got an update",
+      "description": "100+ new icons added",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.garisl",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_482.jpg",
+      "authorname": "Kuladeep"
+    },
+          {
+        "title": "Pix Pie Icon Pack got an update",
+        "description": "500+ new icons added",
+        "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixp.iconpack",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_481.jpg",
+        "authorname": "Kuladeep"
+      },
+       {
+    "title": "Gateau Icon Pack got an update",
+    "description": "Added new icons, check it out!!",
+    "url": "https://play.google.com/store/apps/details?id=com.stevsarm.gateau",
+    "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_480.jpg",
+    "authorname": "Kuladeep"
+   },
+       {
+    "title": "Sliced Icon Pack got an update",
+    "description": "25 new icons added",
+    "url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
+    "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_479.jpg",
+    "authorname": "Kuladeep"
+   },
     {
         "title": "A massive update for Tessa Icon Pack is here",
         "description": "Check out the update-log",
