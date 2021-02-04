@@ -30,6 +30,13 @@
     }
   ],
   "news": [
+    {
+ 	"title": "[Giveaway] Win Pixcards KWGT on Prism",
+ 	"description": "Be a part of the setup contest and get a chance to win Pixcards",
+ 	"url": "https://twitter.com/PrismWallpapers/status/1356935003112804352?s=09",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_459.jpg",
+ 	"authorname": "Shanky"
+ },
          {
       "title": "[NEW LAUNCH] DOT KWGT",
       "description": "Comes with 30 widgets",
@@ -2300,7 +2307,7 @@
  	"authorname": "Shanky"
  },
     {
- 	"title": "[Giveaway] Pixcards KWGT on Prism",
+ 	"title": "[Giveaway] Win Pixcards KWGT on Prism",
  	"description": "Be a part of the setup contest and get a chance to win Pixcards",
  	"url": "https://twitter.com/PrismWallpapers/status/1356935003112804352?s=09",
  	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_459.jpg",
