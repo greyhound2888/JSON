@@ -439,11 +439,60 @@
   ],
   "wallpapers": [
     {
-        "title": "[Giveaway] by NFY666",
-        "description": "Enter the giveaway now!!!",
-        "url": "https://twitter.com/notforyou666/status/1356326932598689792?s=09",
-        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_601.jpg",
-        "authorname": "Sagar"
+        "title": "New Walls Added in Joy Walls",
+        "description": "Go check them out",
+        "url": "https://twitter.com/Yogesh_gosavi_/status/1357201021680840707?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_612.jpg",
+        "authorname": "Aniket"
+    }, 
+    {
+        "title": "[FREE] Some Walls by Novo",
+        "description": "Go get them now",
+        "url": "https://twitter.com/novotab15/status/1356664094967951368?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_611.jpg",
+        "authorname": "Aniket"
+    }, 
+    {
+        "title": "New Wallpapers available now in Unusual Wallpapers",
+        "description": "Go Check it out",
+        "url": "https://twitter.com/akinhd/status/1356779968756285440?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_610.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "New Wallpapers Added in Pix Wallpapers",
+        "description": "2 New Walls Added,Go Check it out",
+        "url": "https://twitter.com/pashapuma1/status/1356699595905134592?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_609.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "New Wallpapers Added to AmoledPapers",
+        "description": "Go Check them out",
+        "url": "https://twitter.com/mhcharlee/status/1356570308484993024?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_608.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "February exclusives are now available",
+        "description": "Check them out",
+        "url": "https://twitter.com/mhcharlee/status/1356539181766483969?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_607.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "New Diffusion Walls now in the Prism app",
+        "description": "Check them out",
+        "url": "https://twitter.com/PrismWallpapers/status/1356524011291729922?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_606.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "New Walls available now in Celia Walls",
+        "description": "Go check them out",
+        "url": "https://twitter.com/vhthinh_at/status/1356290472440815618?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_605.jpg",
+        "authorname": "Aniket"
     },
     {
         "title": "Whalepapers pro got updated with new wallpapers",
@@ -2229,7 +2278,49 @@
     }
   ],
   "widgets": [
-     {
+{
+ 	"title": "𝗖𝗿𝘆𝘀𝘁𝗮𝗹 𝗞𝗪𝗚𝗧 is updated to v5.5",
+ 	"description": "5 New widgets added, Now total of 85 widgets",
+ 	"url": "https://play.google.com/store/apps/details?id=crystal.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_458.jpg",
+ 	"authorname": "Aniket"
+ },
+    {
+ 	"title": "New update for Spring KWGT is live now",
+ 	"description": "Check it out",
+ 	"url": "https://play.google.com/store/apps/details?id=springkwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_457.jpg",
+ 	"authorname": "Aniket"
+ },
+    {
+ 	"title": "Weekly update for Style KWGT is live",
+ 	"description": "Check it out",
+ 	"url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_456.jpg",
+ 	"authorname": "Aniket"
+ },
+    {
+ 	"title": "Blueberry for KWGT got an update",
+ 	"description": "Added 5 New widgets, Total 50 widgets now",
+ 	"url": "https://play.google.com/store/apps/details?id=blueberrykwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_455.jpg",
+ 	"authorname": "Aniket"
+ },
+    {
+ 	"title": "New update for Thirty KWGT is live",
+ 	"description": "Added 2 New widgets, Check it out",
+ 	"url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_454.jpg",
+ 	"authorname": "Aniket"
+ },
+    {
+ 	"title": "Elements KWGT got a update",
+ 	"description": "2 New widgets added, Total 149 widgets now",
+ 	"url": "https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_453.jpg",
+ 	"authorname": "Aniket"
+ },
+    {
  	"title": "Elara KWGT got an update",
  	"description": "10 new widgets added",
  	"url": "https://play.google.com/store/apps/details?id=com.hash.elara",
