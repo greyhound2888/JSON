@@ -1,11 +1,11 @@
 {
   "highlights": [
     {
-        "title": "A massive update for Tessa Icon Pack is here",
-        "description": "Check out the update-log",
-        "url": "https://twitter.com/icarusap/status/1355951525546188808?s=09",
-        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_478.jpg",
-        "authorname": "Shanky"
+      "title": "Ember for KLWP got an update",
+      "description": "Check out the new preset added",
+      "url": "https://play.google.com/store/apps/details?id=pl.mhcharlee.ember",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_90.jpg",
+      "authorname": "Shanky"
     },
     {
         "title": "Collections Wallpaper gets new wallpapers added to cycle category",
@@ -1345,6 +1345,13 @@
     }
   ],
   "icons": [
+    {
+        "title": "[Sale] Olympia Icon Pack",
+        "description": "Grab then now",
+        "url": "https://play.google.com/store/apps/details?id=com.gomothegom.olympia",
+        "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_486.jpg",
+        "authorname": "Shanky"
+      },
           {
         "title": "Creamy Dark Icon Pack got an update",
         "description": "70+ new icons added",
@@ -2278,8 +2285,29 @@
     }
   ],
   "widgets": [
+    {
+ 	"title": "Felix KWGT update is live",
+ 	"description": "Check out the new widgets added",
+ 	"url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_461.jpg",
+ 	"authorname": "Shanky"
+ },
+    {
+ 	"title": "[Free] Stylish KWGT is back",
+ 	"description": "Get it now!!!",
+ 	"url": "https://twitter.com/Saumil8200/status/1356966011455508481?s=09",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_460.jpg",
+ 	"authorname": "Shanky"
+ },
+    {
+ 	"title": "[Giveaway] Pixcards KWGT on Prism",
+ 	"description": "Be a part of the setup contest and get a chance to win Pixcards",
+ 	"url": "https://twitter.com/PrismWallpapers/status/1356935003112804352?s=09",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_459.jpg",
+ 	"authorname": "Shanky"
+ },
 {
- 	"title": "𝗖𝗿𝘆𝘀𝘁𝗮𝗹 𝗞𝗪𝗚𝗧 is updated to v5.5",
+ 	"title": "Crystal KWGT is updated to v5.5",
  	"description": "5 New widgets added, Now total of 85 widgets",
  	"url": "https://play.google.com/store/apps/details?id=crystal.kustom.pack",
  	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_458.jpg",
@@ -3848,6 +3876,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "Ember for KLWP got an update",
+      "description": "Check out the new preset added",
+      "url": "https://play.google.com/store/apps/details?id=pl.mhcharlee.ember",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_90.jpg",
+      "authorname": "Shanky"
+    },
     {
       "title": "Eklipse for KLWP got an update",
       "description": "Check out the bonus preset added",
