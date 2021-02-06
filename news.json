@@ -23,6 +23,13 @@
     }
   ],
   "news": [
+     {
+      "title": "[GIVEAWAY] Massive update for Caelus icon pack",
+      "description": "Added 62 new icons, Redesigned all icons ",
+      "url": "https://twitter.com/One4Studio/status/1357694879397273602?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_491.jpg",
+      "authorname": "Aniket"
+     },
     {
  	"title": "[New] [Free] The all new Delirium KWGT is live on playstore",
  	"description": "Download it now!!!",
@@ -452,6 +459,20 @@
     }
   ],
   "wallpapers": [
+    {
+        "title": "New walls added in Wallvibes Wallpapers",
+        "description": "Added 7 spiderman walls",
+        "url": "https://twitter.com/pixelvibe15/status/1357999949435273224?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_621.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "New Minimal vector walls now in Prism Wallpapers",
+        "description": "Check them out now",
+        "url": "https://twitter.com/PrismWallpapers/status/1357932057339387905?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_620.jpg",
+        "authorname": "Aniket"
+    },
     {
         "title": "New Walls Added in Wall-E wallpapers",
         "description": "Check them out now",
@@ -1408,6 +1429,41 @@
     }
   ],
   "icons": [
+    {
+      "title": "Candycons Unwrapped and PixBit update is live",
+      "description": "Go check it out",
+      "url": "https://play.google.com/store/apps/details?id=vukash.in.candycons.unwrapped",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_494.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "[SALE] Athena dark icon pack is on Sale",
+      "description": "Go grab it now",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athenadark",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_493.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "[NEW LAUNCH] Oto icon pack is live on playstore",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.oto",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_492.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "[GIVEAWAY] Massive update for Caelus icon pack",
+      "description": "Added 62 new icons, Redesigned all icons ",
+      "url": "https://twitter.com/One4Studio/status/1357694879397273602?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_491.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "Weekly update for Nebula icon pack is live",
+      "description": "Added 35 new icons, Total 1790 icons now",
+      "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_490.jpg",
+      "authorname": "Aniket"
+     },
     {
       "title": "Pixel Pie & Pixel Pie Dark Icon Pack got an update",
       "description": "Check out the updatelog now!!",
@@ -2369,6 +2425,20 @@
     }
   ],
   "widgets": [ 
+     {
+ 	"title": "Thirty KWGT update is live",
+ 	"description": "Added 4 new widgets",
+ 	"url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_465.jpg",
+ 	"authorname": "Aniket"
+ }, 
+    {
+ 	"title": "Cream KWGT got a update",
+ 	"description": "5 New widgets added, Total 110 widgets now",
+ 	"url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_464.jpg",
+ 	"authorname": "Aniket"
+ },
     {
  	"title": "Zen KWGT update is live",
  	"description": "Check out the new widgets added",
