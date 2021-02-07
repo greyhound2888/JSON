@@ -23,7 +23,21 @@
     }
   ],
   "news": [
-     {
+    {
+        "title": "[GIVEAWAY] 5 codes for Prism wallpapers premium",
+        "description": "Check tweet for details",
+        "url": "https://twitter.com/starkdesigns18/status/1358393789870559240?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_626.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "[GIVEAWAY] 10 Copies of G Wallpapers Premium pack 22",
+        "description": "Checkout tweet for more details",
+        "url": "https://twitter.com/inbaraju_d/status/1358034431601045504?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_622.jpg",
+        "authorname": "Aniket"
+    }, 
+    {
       "title": "[GIVEAWAY] Massive update for Caelus icon pack",
       "description": "Added 62 new icons, Redesigned all icons ",
       "url": "https://twitter.com/One4Studio/status/1357694879397273602?s=20",
@@ -459,6 +473,48 @@
     }
   ],
   "wallpapers": [
+    {
+        "title": "New Walls added in Wallderlust pro",
+        "description": "5 New walls added in minimal category",
+        "url": "https://twitter.com/jahnavi_gandhi/status/1358407396465332230?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_627.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "[GIVEAWAY] 5 codes for Prism wallpapers premium",
+        "description": "Check tweet for details",
+        "url": "https://twitter.com/starkdesigns18/status/1358393789870559240?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_626.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "New Wallpapers added in Unusual Wallpapers",
+        "description": "Go check it out",
+        "url": "https://twitter.com/akinhd/status/1358351062692814851?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_625.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "New Walls added in Wallpin Wallpapers",
+        "description": "Go check it out",
+        "url": "https://twitter.com/21MaRcO12/status/1358080733206691840?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_624.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "[FREE] Some simple walls by Charlee Designs",
+        "description": "Check it out",
+        "url": "https://twitter.com/mhcharlee/status/1358036062887682048?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_623.jpg",
+        "authorname": "Aniket"
+    },
+    {
+        "title": "[GIVEAWAY] 10 Copies of G Wallpapers Premium pack 22",
+        "description": "Checkout tweet for more details",
+        "url": "https://twitter.com/inbaraju_d/status/1358034431601045504?s=20",
+        "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_622.jpg",
+        "authorname": "Aniket"
+    },
     {
         "title": "New walls added in Wallvibes Wallpapers",
         "description": "Added 7 spiderman walls",
@@ -1429,6 +1485,48 @@
     }
   ],
   "icons": [
+    {
+      "title": "New Update for Layers icon pack is here",
+      "description": "Added 40 new icons, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.sreerag.layers",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_500.webp",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "[SALE] Hera icon pack is on Sale",
+      "description": "Up to 50% off, depending on country",
+      "url": "https://play.google.com/store/apps/details?id=studio14.application.hera",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_499.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "New Reev pro icon pack update is live",
+      "description": "Added 40 new icons, Now 1275 icons in total",
+      "url": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_498.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "Japes icon pack updated",
+      "description": "Added 41 new icons",
+      "url": "https://play.google.com/store/apps/details?id=suitcase.icons.japes",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_497.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "Poppin icon pack got a update",
+      "description": "50+ icons added, Total 3680+ icons now",
+      "url": "https://play.google.com/store/apps/details?id=bludocs.iconpack.poppin",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_496.jpg",
+      "authorname": "Aniket"
+     },
+    {
+      "title": "New update for Peanut icon pack is live",
+      "description": "Added 50 new icons, Check it out",
+      "url": "https://play.google.com/store/apps/details?id=dev.awze.peanut.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_495.jpg",
+      "authorname": "Aniket"
+     },
     {
       "title": "Candycons Unwrapped and PixBit update is live",
       "description": "Go check it out",
@@ -2426,6 +2524,20 @@
   ],
   "widgets": [ 
      {
+ 	"title": "New widgets added to stylish reborn",
+ 	"description": "Added 2 new music widgets",
+ 	"url": "https://twitter.com/Saumil8200/status/1358012271692115971?s=20",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_467.jpg",
+ 	"authorname": "Aniket"
+ },  
+    {
+ 	"title": "Deka KWGT first update is live",
+ 	"description": "Added 5 widgets",
+ 	"url": "https://play.google.com/store/apps/details?id=dekakwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_466.jpg",
+ 	"authorname": "Aniket"
+ },  
+    {
  	"title": "Thirty KWGT update is live",
  	"description": "Added 4 new widgets",
  	"url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
