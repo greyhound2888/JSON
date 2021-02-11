@@ -487,7 +487,21 @@
     }
   ],
   "wallpapers": [
-        {
+     {
+      "title": "New wallpapers added to Whalepaperspro",
+      "description": "Check them out now",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_637.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "New wallpapers added to Wallsy Walls",
+      "description": "Check them out now",
+      "url": "https://play.google.com/store/apps/details?id=my.walls.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_636.jpg",
+      "authorname": "Sagar"
+    },   
+    {
       "title": "New wallpapers added to Eve Walls",
       "description": "Check them out now",
       "url": "https://twitter.com/mhcharlee/status/1359139994313650180?s=20",
