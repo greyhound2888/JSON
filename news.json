@@ -2643,6 +2643,20 @@
   ],
   "widgets": [ 
      {
+ 	"title": "Eve KWGT got an update",
+ 	"description": "5 new widgets added, total 60 widgets",
+ 	"url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_478.jpg",
+ 	"authorname": "Sagar"
+ },
+     {
+ 	"title": "Delirium KWGT got an update",
+ 	"description": "5 new widgets added!!",
+ 	"url": "https://play.google.com/store/apps/details?id=deliriumkwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_477.jpg",
+ 	"authorname": "Sagar"
+ },
+     {
  	"title": "Flow KWGT got an update",
  	"description": "5 new widgets added!!",
  	"url": "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack",
