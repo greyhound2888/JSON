@@ -24,6 +24,27 @@
    ],
    "news":[
       {
+         "title":"[New Launch] Black Pie Icon pack now live",
+         "description":"Go get it",
+         "url":"https://play.google.com/store/apps/details?id=com.fldesign.black.pie.iconpack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_509.webp",
+         "authorname":"Aniket"
+      },
+      {
+         "title":"[SALE] All Icon packs by Max patchs are on Sale",
+         "description":"Go grab them now",
+         "url":"https://twitter.com/maxpatchs/status/1359524404032602113?s=20",
+         "image":"https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_508.jpg",
+         "authorname":"Aniket"
+      },
+      {
+         "title":"[GIVEAWAY] Cool KWGT widgets",
+         "description":"Click here for details",
+         "url":"https://twitter.com/krishankant_k3/status/1359494948618342406?s=20",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_479.jpg",
+         "authorname":"Aniket"
+      },
+      {
          "title":"[Giveaway] Dark Droid",
          "description":"Participate now!!",
          "url":"https://twitter.com/SanketN8/status/1359380232415834112?s=20",
@@ -1631,6 +1652,20 @@
    ],
    "icons":[
       {
+         "title":"[New Launch] Black Pie Icon pack now live",
+         "description":"Go get it",
+         "url":"https://play.google.com/store/apps/details?id=com.fldesign.black.pie.iconpack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_509.webp",
+         "authorname":"Aniket"
+      },
+      {
+         "title":"[SALE] All Icon packs by Max patchs are on Sale",
+         "description":"Go grab them now",
+         "url":"https://twitter.com/maxpatchs/status/1359524404032602113?s=20",
+         "image":"https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_508.jpg",
+         "authorname":"Aniket"
+      },
+      {
          "title":"[GIVEAWAY] AlineT Icon Pack got an update",
          "description":"35 new icons added",
          "url":"https://twitter.com/One4Studio/status/1359108836246847489?s=20",
@@ -2717,6 +2752,34 @@
       }
    ],
    "widgets":[
+      {
+         "title":"New update for Aleria KWGT is live",
+         "description":"Added 3 new widgets",
+         "url":"https://play.google.com/store/apps/details?id=dev.widgetology.aleria",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_482.jpg",
+         "authorname":"Aniket"
+      },
+      {
+         "title":"Weekly update for Zen KWGT is live",
+         "description":"2 New widgets added, Total 50 widgets now",
+         "url":"https://play.google.com/store/apps/details?id=com.pixelvibe.zen",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_481.jpg",
+         "authorname":"Aniket"
+      },
+      {
+         "title":"Crystal KWGT got a update",
+         "description":"5 New widgets added",
+         "url":"https://play.google.com/store/apps/details?id=crystal.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_480.jpg",
+         "authorname":"Aniket"
+      },
+      {
+         "title":"[GIVEAWAY] Cool KWGT widgets",
+         "description":"Click here for details",
+         "url":"https://twitter.com/krishankant_k3/status/1359494948618342406?s=20",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_479.jpg",
+         "authorname":"Aniket"
+      },
       {
          "title":"Eve KWGT got an update",
          "description":"5 new widgets added, total 60 widgets",
@@ -4427,6 +4490,20 @@
       }
    ],
    "klwp":[
+      {
+         "title":"Armor theme for KLWP V2 is now live",
+         "description":"Go check it out",
+         "url":"https://play.google.com/store/apps/details?id=armorthemev2.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_94.webp",
+         "authorname":"Aniket"
+      },
+      {
+         "title":"Lucid for KLWP just got updated",
+         "description":"Check it out",
+         "url":"https://play.google.com/store/apps/details?id=lucid.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_93.jpg",
+         "authorname":"Aniket"
+      },
       {
          "title":"New Update for dossier for KLWP is live now",
          "description":"Check it out",
