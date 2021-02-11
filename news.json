@@ -2643,6 +2643,20 @@
   ],
   "widgets": [ 
      {
+ 	"title": "Flow KWGT got an update",
+ 	"description": "5 new widgets added!!",
+ 	"url": "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_476.jpg",
+ 	"authorname": "Sagar"
+ },
+     {
+ 	"title": "Coral KWGT got an update",
+ 	"description": "10 new widgets added, total 45 widgets",
+ 	"url": "https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_475.jpg",
+ 	"authorname": "Sagar"
+ },
+     {
  	"title": "Sheer KWGT got an update",
  	"description": "5 new widgets added, total 105 widgets",
  	"url": "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack",
