@@ -2773,6 +2773,27 @@
       }
    ],
    "widgets":[
+       {
+ 	"title": "Cream KWGT got an update",
+ 	"description": "Added 6 new widgets",
+ 	"url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_485.jpg",
+ 	"authorname": "Kuladeep"
+ },
+       {
+ 	"title": "[SALE] Coral KWGT",
+ 	"description": "Sale available in selected regions only!!",
+ 	"url": "https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_484.jpg",
+ 	"authorname": "Kuladeep"
+ },
+       {
+ 	"title": "New update for Shadow KWGT is live",
+ 	"description": "Added 6 new widgets",
+ 	"url": "https://play.google.com/store/apps/details?id=shadowkwgt.kustom.pack",
+ 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_483.jpg",
+ 	"authorname": "Kuladeep"
+ },
       {
          "title":"New update for Aleria KWGT is live",
          "description":"Added 3 new widgets",
