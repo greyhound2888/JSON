@@ -24,6 +24,13 @@
    ],
    "news":[
       {
+  	"title": "[SALE][GIVEAWAY] Tessa Icon pack",
+  	"description": "Check out tweet for details",
+  	"url": "https://twitter.com/icarusap/status/1360242710616023045?s=20",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_515.jpg",
+  	"authorname": "Aniket"
+  },  
+      {
          "title":"[GIVEAWAY] 10 codes for Joy walls",
          "description":"Click for details",
          "url":"https://twitter.com/vhthinh_at/status/1360056629257883650?s=20",
@@ -529,6 +536,20 @@
       }
    ],
    "wallpapers":[
+      {
+         "title":"Wallspaper New Update is LIVE",
+         "description":"16 New Walls Added",
+         "url":"https://twitter.com/wallspaper2020/status/1360223047827951617?s=20",
+         "image":"https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_650.jpg",
+         "authorname":"Aniket"
+      },
+      {
+         "title":"New wallpapers added to One4Wall",
+         "description":"Check them out",
+         "url":"https://twitter.com/One4Studio/status/1360180295312564224?s=20",
+         "image":"https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_649.jpg",
+         "authorname":"Aniket"
+      },
       {
          "title":"[GIVEAWAY] 10 codes for Joy walls",
          "description":"Click for details",
@@ -1686,7 +1707,28 @@
       }
    ],
    "icons":[
-        {
+      {
+  	"title": "[SALE][GIVEAWAY] Tessa Icon pack",
+  	"description": "Check out tweet for details",
+  	"url": "https://twitter.com/icarusap/status/1360242710616023045?s=20",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_515.jpg",
+  	"authorname": "Aniket"
+  },  
+      {
+  	"title": "[SALE][GIVEAWAY] Nova Icon pack",
+  	"description": "Click here for details",
+  	"url": "https://twitter.com/One4Studio/status/1360228186370498560?s=20",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_514.jpg",
+  	"authorname": "Aniket"
+  },  
+      {
+  	"title": "Weekly Update for Nebula is live",
+  	"description": "Added 35 new icons, Total 1825 icons now",
+  	"url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_513.jpg",
+  	"authorname": "Aniket"
+  },  
+      {
   	"title": "[NEW LAUNCH][SALE] Ruby Icon Pack",
   	"description": "Initial release with 1000+ icons",
   	"url": "https://play.google.com/store/apps/details?id=ruby.icon.pack",
@@ -2808,6 +2850,27 @@
       }
    ],
    "widgets":[
+      {
+         "title": "Weekly Update for Style KWGT is live",
+         "description": "Added 2 new widgets, Total 116 now",
+         "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_489.jpg",
+         "authorname": "Aniket"
+      },
+      {
+         "title": "New Update for Poma KWGT is live",
+         "description": "5 New widgets added",
+         "url": "https://play.google.com/store/apps/details?id=com.poma.kustom.pixshoot",
+         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_488.jpg",
+         "authorname": "Aniket"
+      },
+      {
+         "title": "[GIVEAWAY] Neuon KWGT & Cream KWGT",
+         "description": "Check out tweet for more details",
+         "url": "https://twitter.com/LOKESHCHAUHAN78/status/1360149273866686465?s=20",
+         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_487.jpg",
+         "authorname": "Aniket"
+      },
       {
          "title": "Elements KWGT updated to v.4.9",
          "description": "5 widgets added (149 total)",
