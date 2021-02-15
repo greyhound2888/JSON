@@ -31,19 +31,19 @@
    ],
    "news":[
       {
-  	      "title": "[GIVEAWAY] Selene Icon pack got an update",
-  	      "description": "30 new icons added",
-  	      "url": "https://twitter.com/One4Studio/status/1360529276844523520?s=20",
-  	      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_516.jpg",
-  	      "authorname": "Sagar"
+         "title":"[GIVEAWAY] Selene Icon pack got an update",
+         "description":"30 new icons added",
+         "url":"https://twitter.com/One4Studio/status/1360529276844523520?s=20",
+         "image":"https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_516.jpg",
+         "authorname":"Sagar"
       },
       {
-  	      "title": "[SALE][GIVEAWAY] Tessa Icon pack",
-  	      "description": "Check out tweet for details",
-  	      "url": "https://twitter.com/icarusap/status/1360242710616023045?s=20",
-  	      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_515.jpg",
-   	   "authorname": "Aniket"
-      },  
+         "title":"[SALE][GIVEAWAY] Tessa Icon pack",
+         "description":"Check out tweet for details",
+         "url":"https://twitter.com/icarusap/status/1360242710616023045?s=20",
+         "image":"https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_515.jpg",
+         "authorname":"Aniket"
+      },
       {
          "title":"[GIVEAWAY] 10 codes for Joy walls",
          "description":"Click for details",
@@ -248,7 +248,6 @@
          "authorname":"Dhanraj"
       }
    ],
-
    "wallpapers":[
       {
          "title":"New Walls Added in AmoledPapers",
@@ -271,7 +270,7 @@
          "image":"https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_652.jpeg",
          "authorname":"Abhi"
       },
-       {
+      {
          "title":"New Wallpapers added to Wallrod",
          "description":"Check them out now!",
          "url":"https://twitter.com/MathyWallrod/status/1360419252663115776?s=20",
@@ -491,89 +490,89 @@
    ],
    "widgets":[
       {
-         "title": "Enterprise KWGT Update",
-         "description": "5 new widgets added (80 total)",
-         "url": "https://play.google.com/store/apps/details?id=enterprisekwgt.kustom.pack",
-         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_494.jpeg",
-         "authorname": "Abhi"
+         "title":"Enterprise KWGT Update",
+         "description":"5 new widgets added (80 total)",
+         "url":"https://play.google.com/store/apps/details?id=enterprisekwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_494.jpeg",
+         "authorname":"Abhi"
       },
       {
-         "title": "Weekly Update for Sheer KWGT is live",
-         "description": "Added 5 new widgets!!",
-         "url": "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack",
-         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_493.jpg",
-         "authorname": "Sagar"
+         "title":"Weekly Update for Sheer KWGT is live",
+         "description":"Added 5 new widgets!!",
+         "url":"https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_493.jpg",
+         "authorname":"Sagar"
       },
       {
-         "title": "Weekly Update for Felix KWGT is live",
-         "description": "Added 3 new widgets!!",
-         "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
-         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_492.jpg",
-         "authorname": "Sagar"
+         "title":"Weekly Update for Felix KWGT is live",
+         "description":"Added 3 new widgets!!",
+         "url":"https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_492.jpg",
+         "authorname":"Sagar"
       },
       {
-         "title": "Square KWGT new Update is live now!!",
-         "description": "Added 4 new widgets!!",
-         "url": "https://play.google.com/store/apps/details?id=squarekwgt.kustom.pack",
-         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_491.jpg",
-         "authorname": "Sagar"
+         "title":"Square KWGT new Update is live now!!",
+         "description":"Added 4 new widgets!!",
+         "url":"https://play.google.com/store/apps/details?id=squarekwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_491.jpg",
+         "authorname":"Sagar"
       },
       {
-         "title": "Weekly Update for Thirty KWGT is live",
-         "description": "Added 4 new widgets!!",
-         "url": "https://twitter.com/ppickCH/status/1360285749304786944?s=20",
-         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_490.jpg",
-         "authorname": "Sagar"
+         "title":"Weekly Update for Thirty KWGT is live",
+         "description":"Added 4 new widgets!!",
+         "url":"https://twitter.com/ppickCH/status/1360285749304786944?s=20",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_490.jpg",
+         "authorname":"Sagar"
       },
       {
-         "title": "Weekly Update for Style KWGT is live",
-         "description": "Added 2 new widgets, Total 116 now",
-         "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
-         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_489.jpg",
-         "authorname": "Aniket"
+         "title":"Weekly Update for Style KWGT is live",
+         "description":"Added 2 new widgets, Total 116 now",
+         "url":"https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_489.jpg",
+         "authorname":"Aniket"
       },
       {
-         "title": "New Update for Poma KWGT is live",
-         "description": "5 New widgets added",
-         "url": "https://play.google.com/store/apps/details?id=com.poma.kustom.pixshoot",
-         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_488.jpg",
-         "authorname": "Aniket"
+         "title":"New Update for Poma KWGT is live",
+         "description":"5 New widgets added",
+         "url":"https://play.google.com/store/apps/details?id=com.poma.kustom.pixshoot",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_488.jpg",
+         "authorname":"Aniket"
       },
       {
-         "title": "[GIVEAWAY] Neuon KWGT & Cream KWGT",
-         "description": "Check out tweet for more details",
-         "url": "https://twitter.com/LOKESHCHAUHAN78/status/1360149273866686465?s=20",
-         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_487.jpg",
-         "authorname": "Aniket"
+         "title":"[GIVEAWAY] Neuon KWGT & Cream KWGT",
+         "description":"Check out tweet for more details",
+         "url":"https://twitter.com/LOKESHCHAUHAN78/status/1360149273866686465?s=20",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_487.jpg",
+         "authorname":"Aniket"
       },
       {
-         "title": "Elements KWGT updated to v.4.9",
-         "description": "5 widgets added (149 total)",
-         "url": "https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
-         "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_486.jpeg",
-         "authorname": "Abhi"
+         "title":"Elements KWGT updated to v.4.9",
+         "description":"5 widgets added (149 total)",
+         "url":"https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_486.jpeg",
+         "authorname":"Abhi"
       },
-       {
- 	"title": "Cream KWGT got an update",
- 	"description": "Added 6 new widgets",
- 	"url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
- 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_485.jpg",
- 	"authorname": "Kuladeep"
- },
-       {
- 	"title": "[SALE] Coral KWGT",
- 	"description": "Sale available in selected regions only!!",
- 	"url": "https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
- 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_484.jpg",
- 	"authorname": "Kuladeep"
- },
-       {
- 	"title": "New update for Shadow KWGT is live",
- 	"description": "Added 6 new widgets",
- 	"url": "https://play.google.com/store/apps/details?id=shadowkwgt.kustom.pack",
- 	"image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_483.jpg",
- 	"authorname": "Kuladeep"
- },
+      {
+         "title":"Cream KWGT got an update",
+         "description":"Added 6 new widgets",
+         "url":"https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_485.jpg",
+         "authorname":"Kuladeep"
+      },
+      {
+         "title":"[SALE] Coral KWGT",
+         "description":"Sale available in selected regions only!!",
+         "url":"https://play.google.com/store/apps/details?id=coralkwgt.kustom.jz",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_484.jpg",
+         "authorname":"Kuladeep"
+      },
+      {
+         "title":"New update for Shadow KWGT is live",
+         "description":"Added 6 new widgets",
+         "url":"https://play.google.com/store/apps/details?id=shadowkwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_483.jpg",
+         "authorname":"Kuladeep"
+      },
       {
          "title":"New update for Aleria KWGT is live",
          "description":"Added 3 new widgets",
