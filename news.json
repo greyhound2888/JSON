@@ -24,19 +24,19 @@
    ],
    "news":[
       {
-  	"title": "[GIVEAWAY] Selene Icon pack got an update",
-  	"description": "30 new icons added",
-  	"url": "https://twitter.com/One4Studio/status/1360529276844523520?s=20",
-  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_516.jpg",
-  	"authorname": "Sagar"
-  },
+  	   "title": "[GIVEAWAY] Selene Icon pack got an update",
+  	   "description": "30 new icons added",
+  	   "url": "https://twitter.com/One4Studio/status/1360529276844523520?s=20",
+  	   "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_516.jpg",
+  	   "authorname": "Sagar"
+      },
       {
-  	"title": "[SALE][GIVEAWAY] Tessa Icon pack",
-  	"description": "Check out tweet for details",
-  	"url": "https://twitter.com/icarusap/status/1360242710616023045?s=20",
-  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_515.jpg",
-  	"authorname": "Aniket"
-  },  
+  	   "title": "[SALE][GIVEAWAY] Tessa Icon pack",
+  	   "description": "Check out tweet for details",
+  	   "url": "https://twitter.com/icarusap/status/1360242710616023045?s=20",
+  	   "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_515.jpg",
+   	"authorname": "Aniket"
+      },  
       {
          "title":"[GIVEAWAY] 10 codes for Joy walls",
          "description":"Click for details",
@@ -5056,83 +5056,6 @@
          "url":"https://play.google.com/store/apps/details?id=lucid.kustom.pack",
          "image":"https://github.com/greyhound2888/klwp/raw/master/klwp_45.jpg",
          "authorname":"Kuladeep"
-      },
-      {
-         "title":"Plexiglass Got a New Update",
-         "description":"Go Check it out !!!",
-         "url":"https://play.google.com/store/apps/details?id=emplexx.plexiglass",
-         "image":"https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_43.jpg",
-         "authorname":"Aaron"
-      },
-      {
-         "title":"Lucid for KLWP Coming Soon!",
-         "description":"Le'ts wait for it...",
-         "url":"https://twitter.com/Yogesh_gosavi_/status/1328377755814174720",
-         "image":"https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_44.png",
-         "authorname":"Aaron"
-      },
-      {
-         "title":"Silver for KLWP is live now, check it now!",
-         "description":"4 page setup with music, calendar, news and more!!",
-         "url":"https://play.google.com/store/apps/details?id=klwp.digmotmag.sliver",
-         "image":"https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_41.jpg",
-         "authorname":"Asad"
-      },
-      {
-         "title":"SKARP for KLWP is live now!!",
-         "description":"Initial release with 2 presets, check it now!!",
-         "url":"https://play.google.com/store/apps/details?id=skarp.twooseven",
-         "image":"https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_40.jpg",
-         "authorname":"Asad"
-      },
-      {
-         "title":"New Update for Aura KLWP is live now!",
-         "description":"A new preset, Aura VIII is added!!",
-         "url":"https://play.google.com/store/apps/details?id=auraklwp.droidbeauty.pack",
-         "image":"https://github.com/greyhound2888/klwp/raw/master/klwp_39.jpg",
-         "authorname":"Kirtan Patel"
-      },
-      {
-         "title":"Preset klwp by Ghano DZpro",
-         "description":"Coming Soon!!",
-         "url":"https://twitter.com/GhanoDZpro/status/1326045989078249473?s=20",
-         "image":"https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_37.jpg",
-         "authorname":"Shanky"
-      },
-      {
-         "title":"Fluir for KLWP is released",
-         "description":"Go Check it Out!!",
-         "url":"https://play.google.com/store/apps/details?id=fluirforklwp.kustom.pack",
-         "image":"https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_36.jpg",
-         "authorname":"Kuladeep"
-      },
-      {
-         "title":"Ember for KLWP got an update",
-         "description":"Get Ember with 12 presets now!!",
-         "url":"https://play.google.com/store/apps/details?id=pl.mhcharlee.ember",
-         "image":"https://raw.githubusercontent.com/greyhound2888/KLWP/master/klwp_35.jpeg",
-         "authorname":"Yudha"
-      },
-      {
-         "title":"Morphḗ KLWP is now 45% off depending on countries for Limited time",
-         "description":"Download it now!!",
-         "url":"https://play.google.com/store/apps/details?id=morpheklwp.kustom.pack",
-         "image":"https://raw.githubusercontent.com/greyhound2888/KLWP/master/klwp_34.jpeg",
-         "authorname":"Yudha"
-      },
-      {
-         "title":"One4KLWP ultimate preset Giveaway",
-         "description":"Check it now!",
-         "url":"https://twitter.com/One4Studio/status/1323946182918418435?s=19",
-         "image":"https://raw.githubusercontent.com/greyhound2888/KLWP/master/klwp_33.jpg",
-         "authorname":"Asad"
-      },
-      {
-         "title":"Polymer KLWP got an Update",
-         "description":"A new 3 page preset called kuty is introduced, check it now!",
-         "url":"https://play.google.com/store/apps/details?id=emplexx.polymer",
-         "image":"https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_32.jpg",
-         "authorname":"Asad"
       }
    ]
 }
