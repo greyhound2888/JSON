@@ -701,6 +701,27 @@
       }
    ],
    "widgets":[
+        {
+         "title":"King KWGT got an update",
+         "description":"10 Widgets Added. Check it out!",
+         "url":"https://play.google.com/store/apps/details?id=orcaforkwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_502.jpg",
+         "authorname":"Yudha"
+      },
+        {
+         "title":"Style KWGT update is live",
+         "description":"Grab them now!",
+         "url":"https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_501.jpg",
+         "authorname":"Yudha"
+      },
+       {
+         "title":"Thirty KWGT update is live",
+         "description":"Check it out now!",
+         "url":"https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
+         "image":"https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_500.jpg",
+         "authorname":"Yudha"
+      },
        {
          "title":"Orca for KWGT update is live",
          "description":"2 New Widgets Added",
