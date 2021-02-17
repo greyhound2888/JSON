@@ -23,7 +23,14 @@
     }
   ],
   "news": [
-    {
+   {
+  	"title": "[GIVEAWAY][SALE] GlowLine 50 Codes Giveaway",
+  	"description": "Click for more details",
+  	"url": "https://twitter.com/HeyAlphaOne/status/1362087197470380035?s=20",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_529.jpg",
+  	"authorname": "Aniket"
+  },     
+   {
 	"title": "[NEW LAUNCH][SALE] Clement KWGT",
 	"description": "Initial release with 40 widgets",
 	"url": "https://play.google.com/store/apps/details?id=clementkwgt.kustom.pack",
@@ -291,7 +298,35 @@
     }
   ],
   "wallpapers": [
-    {
+   {
+      "title": "[FREE] Added 3 New Walls in Pix Wallpapers",
+      "description": "Go check out",
+      "url": "https://twitter.com/pashapuma1/status/1361767820925747202?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_669.jpg",
+      "authorname": "Aniket"
+    },
+   {
+      "title": "[SALE] Prism v2.6.4 is now live on Play Store",
+      "description": "Prism is 70% off till 23 Feb, Go grab it",
+      "url": "https://twitter.com/PrismWallpapers/status/1362067517082980353?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_668.jpg",
+      "authorname": "Aniket"
+    },
+   {
+      "title": "New Walls added in Celia Walls",
+      "description": "Check them out",
+      "url": "https://twitter.com/vhthinh_at/status/1362065277077254149?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_667.jpg",
+      "authorname": "Aniket"
+    }, 
+   {
+      "title": "New Wallpapers available now in Unusual Wallpapers",
+      "description": "Check them out",
+      "url": "https://twitter.com/akinhd/status/1361883808576905217?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_666.jpg",
+      "authorname": "Aniket"
+    }, 
+   {
       "title": "Art Walls Added in Prism Wallpapers",
       "description": "Made by Shanky",
       "url": "https://twitter.com/PrismWallpapers/status/1361550466727833602?s=20",
@@ -608,7 +643,35 @@
     }
   ],
   "icons": [
-	    {
+	{
+  	"title": "[GIVEAWAY][SALE] GlowLine 50 Codes Giveaway",
+  	"description": "Click for more details",
+  	"url": "https://twitter.com/HeyAlphaOne/status/1362087197470380035?s=20",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_529.jpg",
+  	"authorname": "Aniket"
+  },    
+   {
+  	"title": "New Update for Diligent Icon pack is live",
+  	"description": "Go check it out",
+  	"url": "https://play.google.com/store/apps/details?id=com.diligent.icons.flatedge.iconpack",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_528.png",
+  	"authorname": "Aniket"
+  },    
+   {
+  	"title": "[SALE] Paper Cut Icon pack got a update",
+  	"description": "Added 50 new icons, Sale upto 70% off",
+  	"url": "https://play.google.com/store/apps/details?id=com.papercuticonpackneo",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_527.jpg",
+  	"authorname": "Aniket"
+  },     
+   {
+  	"title": "[SALE] Pix Minimal Icon pack",
+  	"description": "50% off untill february 19",
+  	"url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixminimal.iconpack",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_526.jpg",
+  	"authorname": "Aniket"
+  },    
+   {
   	"title": "Sliced Icon Pack got an update",
   	"description": "25 new icons added, total 2140 icons",
   	"url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
