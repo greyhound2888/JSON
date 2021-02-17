@@ -608,6 +608,13 @@
     }
   ],
   "icons": [
+	    {
+  	"title": "Sliced Icon Pack got an update",
+  	"description": "25 new icons added, total 2140 icons",
+  	"url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_525.jpg",
+  	"authorname": "Kuladeep"
+  },
 	   {
  	"title": "Japes Icon Pack got an update",
  	"description": "21 new icons added",
