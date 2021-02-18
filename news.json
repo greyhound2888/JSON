@@ -1,5 +1,12 @@
 {
   "highlights": [
+	   {
+      "title": "New Walls added in Joy Walls",
+      "description": "11 new walls added (3 breakfast & 8 quotes wall)",
+      "url": "https://twitter.com/Yogesh_gosavi_/status/1362290815658201088?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_671.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "[New] WallFlair & WallFlair Pro Live on PlayStore",
       "description": "Check it out",
@@ -23,6 +30,13 @@
     }
   ],
   "news": [
+	   {
+  	"title": "[New][Giveaway] Japes Ink & Japes Lux Icon Pack are live!!",
+  	"description": "Check it out & there's a giveaway too",
+  	"url": "https://twitter.com/suitcaselabs/status/1362386428181831681?s=20",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_530.jpg",
+  	"authorname": "Abhi"
+  },  
    {
   	"title": "[GIVEAWAY] [SALE] GlowLine 50 Codes Giveaway",
   	"description": "Click for more details",
@@ -298,6 +312,20 @@
     }
   ],
   "wallpapers": [
+	  {
+      "title": "New Walls added in Joy Walls",
+      "description": "11 new walls added (3 breakfast & 8 quotes wall)",
+      "url": "https://twitter.com/Yogesh_gosavi_/status/1362290815658201088?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_671.jpg",
+      "authorname": "Abhi"
+    },
+	  {
+      "title": "Wallspaper New Walls",
+      "description": "16 walls added in Amoled category",
+      "url": "https://play.google.com/store/apps/details?id=deb.wallpaper.walle",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_670.jpg",
+      "authorname": "Abhi"
+    },
    {
       "title": "[FREE] Added 3 New Walls in Pix Wallpapers",
       "description": "Go check out",
@@ -643,6 +671,20 @@
     }
   ],
   "icons": [
+	   {
+  	"title": "New Walls in Rubu Icon Pack",
+  	"description": "2 new walls added",
+  	"url": "https://play.google.com/store/apps/details?id=ruby.icon.pack",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_531.jpg",
+  	"authorname": "Abhi"
+  },  
+	  {
+  	"title": "[New][Giveaway] Japes Ink & Japes Lux Icon Pack are live!!",
+  	"description": "Check it out & there's a giveaway too",
+  	"url": "https://twitter.com/suitcaselabs/status/1362386428181831681?s=20",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_530.jpg",
+  	"authorname": "Abhi"
+  },  
 	{
   	"title": "[GIVEAWAY][SALE] GlowLine 50 Codes Giveaway",
   	"description": "Click for more details",
@@ -862,6 +904,13 @@
     }
   ],
   "widgets": [
+	{
+      "title": "Dot KWGT Update v2.0",
+      "description": "5 Widgets Added (Total 40 widgets)",
+      "url": "https://play.google.com/store/apps/details?id=dotkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_509.png",
+      "authorname": "Abhi"
+    },  
 	    {
         "title": "Evoque KWGT got an update",
         "description": "2 new widgets added. Grab them now",
