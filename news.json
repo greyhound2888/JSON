@@ -30,6 +30,41 @@
     }
   ],
   "news": [
+	    {
+      "title": "[GIVEAWAY] One4Studio's App's",
+      "description": "Offer Valid only for 24 hours. Hurry up!",
+      "url": "https://twitter.com/One4Studio/status/1362766399547006979?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_515.png",
+      "authorname": "Yudha"
+    },  
+	      {
+  	"title": "[GIVEAWAY] Garis Dark Icon Pack",
+  	"description": "Check it out!",
+  	"url": "https://twitter.com/panoto_gomo/status/1362616826299969541?s=20",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_532.jpg",
+  	"authorname": "Yudha"
+  },  
+	    {
+      "title": "[Contest] One4Wall Homescreen",
+      "description": "Find out more on One4Studio Website",
+      "url": "https://one4studio.com/promotion-contests/",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_514.png",
+      "authorname": "Yudha"
+    },  
+	   {
+      "title": "[GIVEAWAY] aOS KWGT",
+      "description": "Participate now!!",
+      "url": "https://twitter.com/_Vyxxn_/status/1362704573769478154?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_512.png",
+      "authorname": "Yudha"
+    },  
+	   {
+      "title": "[SALE] Nae KWGT and Fondant KlWP",
+      "description": "Grab them now!",
+      "url": "https://play.google.com/store/apps/dev?id=8370913409288284879",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_510.png",
+      "authorname": "Yudha"
+    },  
     {
       "title": "[FREE] New Walls by Jackson",
       "description": "Grab them now for free!",
@@ -713,6 +748,13 @@
     }
   ],
   "icons": [
+	      {
+  	"title": "[GIVEAWAY] Garis Dark Icon Pack",
+  	"description": "Check it out!",
+  	"url": "https://twitter.com/panoto_gomo/status/1362616826299969541?s=20",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_532.jpg",
+  	"authorname": "Yudha"
+  },  
 	   {
   	"title": "[NEW] Trippy Icon Pack",
   	"description": "Grab it now!",
@@ -960,6 +1002,34 @@
     }
   ],
   "widgets": [
+	     {
+      "title": "Eve KWGT got an update",
+      "description": " 5 New Widget added. Check them out!",
+      "url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_513.png",
+      "authorname": "Yudha"
+    },  
+	   {
+      "title": "[GIVEAWAY] aOS KWGT",
+      "description": "Participate now!!",
+      "url": "https://twitter.com/_Vyxxn_/status/1362704573769478154?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_512.png",
+      "authorname": "Yudha"
+    },  
+	  {
+      "title": "Cream KWGT got an update",
+      "description": "4 new widgets added. Grab them now!",
+      "url": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_511.png",
+      "authorname": "Yudha"
+    },  
+	  {
+      "title": "[SALE] Nae KWGT and Fondant KlWP",
+      "description": "Grab them now!",
+      "url": "https://play.google.com/store/apps/dev?id=8370913409288284879",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_510.png",
+      "authorname": "Yudha"
+    },  
 	{
       "title": "Dot KWGT Update v2.0",
       "description": "5 Widgets Added (Total 40 widgets)",
@@ -1298,6 +1368,13 @@
     }
   ],
   "klwp": [
+	   {
+      "title": "[SALE] Nae KWGT and Fondant KlWP",
+      "description": "Grab them now!",
+      "url": "https://play.google.com/store/apps/dev?id=8370913409288284879",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_510.png",
+      "authorname": "Yudha"
+    },  
     {
       "title": "Armor theme for KLWP V2 is now live",
       "description": "Go check it out",
