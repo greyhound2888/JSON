@@ -30,8 +30,22 @@
     }
   ],
   "news": [
+    {
+      "title": "[FREE] New Walls by Jackson",
+      "description": "Grab them now for free!",
+      "url": "https://twitter.com/jacksonhayes701/status/1362587644664766464?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_674.jpg",
+      "authorname": "Yudha"
+    },
+    {
+      "title": "New Walls added to WallFlair Pro",
+      "description": "Check them out!",
+      "url": "https://twitter.com/ash_pu08/status/1362495636759736323?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_673.jpg",
+      "authorname": "Yudha"
+    },
 	   {
-  	"title": "[New][Giveaway] Japes Ink & Japes Lux Icon Pack are live!!",
+  	"title": "[New] [Giveaway] Japes Ink & Japes Lux Icon Pack are live!!",
   	"description": "Check it out & there's a giveaway too",
   	"url": "https://twitter.com/suitcaselabs/status/1362386428181831681?s=20",
   	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_530.jpg",
@@ -312,7 +326,21 @@
     }
   ],
   "wallpapers": [
-	   {
+    {
+      "title": "[FREE] New Walls by Jackson",
+      "description": "Grab them now for free!",
+      "url": "https://twitter.com/jacksonhayes701/status/1362587644664766464?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_674.jpg",
+      "authorname": "Yudha"
+    },
+    {
+      "title": "New Walls added to WallFlair Pro",
+      "description": "Check them out!",
+      "url": "https://twitter.com/ash_pu08/status/1362495636759736323?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_673.jpg",
+      "authorname": "Yudha"
+    },
+    {
       "title": "WallRod Wall Redesign",
       "description": "2 new redesign walls added",
       "url": "https://twitter.com/MathyWallrod/status/1362410504749211652?s=20",
