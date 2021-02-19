@@ -37,6 +37,13 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_674.jpg",
       "authorname": "Yudha"
     },
+	   {
+  	"title": "[NEW] Trippy Icon Pack",
+  	"description": "Grab it now!",
+  	"url": "https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.trippy_icons",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_533.jpg",
+  	"authorname": "Yudha"
+  },  
     {
       "title": "New Walls added to WallFlair Pro",
       "description": "Check them out!",
@@ -707,7 +714,21 @@
   ],
   "icons": [
 	   {
-  	"title": "New Walls in Rubu Icon Pack",
+  	"title": "[NEW] Trippy Icon Pack",
+  	"description": "Grab it now!",
+  	"url": "https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.trippy_icons",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_533.jpg",
+  	"authorname": "Yudha"
+  },  
+	    {
+  	"title": "[GIVEAWAY] Garis dark",
+  	"description": "Head over to the tweet for more details!",
+  	"url": "https://twitter.com/panoto_gomo/status/1362563827728936964?s=09",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_532.jpg",
+  	"authorname": "Yudha"
+  },  
+  {
+  	"title": "New Walls in Ruby Icon Pack",
   	"description": "2 new walls added",
   	"url": "https://play.google.com/store/apps/details?id=ruby.icon.pack",
   	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_531.jpg",
