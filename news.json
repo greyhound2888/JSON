@@ -800,6 +800,13 @@
   ],
   "icons": [
     {
+      "title": "[Sale] Colour Line Dark Icon Pack on sale",
+      "description": "Check your trgion pricing",
+      "url": "https://play.google.com/store/apps/details?id=color.line.dark",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_538.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "Nebula Icon Pack Update",
       "description": "23 new icons added",
       "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
@@ -1081,6 +1088,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Style KWGT Updated to v3.1",
+      "description": "Added 6 new widgets (Total 125 widgets)",
+      "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_517.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "Delirium KWGT Updated to v1.6",
       "description": "5 new widgets added (Total 45 widgets)",
