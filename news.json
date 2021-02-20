@@ -37,7 +37,14 @@
     }
   ],
   "news": [
-	    {
+	  {
+  	"title": "[SALE] AlineT icon pack is on sale!",
+  	"description": "Up to 50% off!",
+  	"url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.alinet",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_536.jpg",
+  	"authorname": "Sagar"
+  },        
+	  {
       "title": "[GIVEAWAY] One4Studio's App's",
       "description": "Offer Valid only for 24 hours. Hurry up!",
       "url": "https://twitter.com/One4Studio/status/1362766399547006979?s=20",
@@ -779,7 +786,35 @@
     }
   ],
   "icons": [
-	      {
+	   {
+  	"title": "[SALE] AlineT icon pack is on sale!",
+  	"description": "Up to 50% off!",
+  	"url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.alinet",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_536.jpg",
+  	"authorname": "Sagar"
+  },      
+	  {
+  	"title": "Minmacons v2 update available now!!",
+  	"description": "Check it out!",
+  	"url": "https://play.google.com/store/apps/details?id=com.rohitshetty.minmacons",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_535.jpg",
+  	"authorname": "Sagar"
+  },      
+	  {
+  	"title": "Color line icon pack got an update",
+  	"description": "60+ new icons added,Check it out!",
+  	"url": "https://play.google.com/store/apps/details?id=color.line.iconpack",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_534.jpg",
+  	"authorname": "Sagar"
+  },      
+	  {
+  	"title": "Sonnambula icon pack got an update",
+  	"description": "Check it out!",
+  	"url": "https://play.google.com/store/apps/details?id=com.panotogomo.sonnambula",
+  	"image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_533.jpg",
+  	"authorname": "Sagar"
+  },     
+	  {
   	"title": "[GIVEAWAY] Garis Dark Icon Pack",
   	"description": "Check it out!",
   	"url": "https://twitter.com/panoto_gomo/status/1362616826299969541?s=20",
@@ -1033,7 +1068,14 @@
     }
   ],
   "widgets": [
-	     {
+	  {
+      "title": "Vanilla KWGT got an update",
+      "description": "4 New Widget added. Check them out!",
+      "url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_514.jpg",
+      "authorname": "Sagar"
+    },     
+	  {
       "title": "Eve KWGT got an update",
       "description": "5 New Widget added. Check them out!",
       "url": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
