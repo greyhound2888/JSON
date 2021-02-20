@@ -383,6 +383,20 @@
   ],
   "wallpapers": [
     {
+      "title": "Wallsy Walls Update",
+      "description": "2 new vectors walls added",
+      "url": "https://play.google.com/store/apps/details?id=my.walls.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_679.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Giveaway] New Walls added to One4Wall",
+      "description": "Giveaway going on twitter too",
+      "url": "https://twitter.com/One4Studio/status/1363082576764624898?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_678.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[New] [Sale] Fluid Wall App is Here",
       "description": "Currently 35 stunning walls to choose from",
       "url": "https://twitter.com/starkdesigns18/status/1362741370276880384?s=20",
@@ -786,6 +800,13 @@
   ],
   "icons": [
     {
+      "title": "Nebula Icon Pack Update",
+      "description": "23 new icons added",
+      "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_537.jpg",
+      "authorname": "Sagar"
+    },
+    {
       "title": "[SALE] AlineT icon pack is on sale!",
       "description": "Up to 50% off!",
       "url": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.alinet",
@@ -1060,6 +1081,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Delirium KWGT Updated to v1.6",
+      "description": "5 new widgets added (Total 45 widgets)",
+      "url": "https://play.google.com/store/apps/details?id=deliriumkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_516.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "thirty kwgt weekend update",
+      "description": "5 new widgets added",
+      "url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_515.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "Vanilla KWGT got an update",
       "description": "4 New Widget added. Check them out!",
