@@ -1088,6 +1088,13 @@
     }
   ],
   "widgets": [
+     {
+      "title": "Like KWGT got an update",
+      "description": "Added 10 new widgets!",
+      "url": "https://play.google.com/store/apps/details?id=com.likekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_518.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "Style KWGT Updated to v3.1",
       "description": "Added 6 new widgets (Total 125 widgets)",
