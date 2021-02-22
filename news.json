@@ -877,6 +877,20 @@
   ],
   "icons": [
     {
+      "title": "Gladient Icon Pack Update",
+      "description": "28 new icons added",
+      "url": "https://play.google.com/store/apps/details?id=com.maxghani.gladient",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_549.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "Olympia Icon Pack Update",
+      "description": "100+ new icons added",
+      "url": "https://play.google.com/store/apps/details?id=com.gomothegom.olympia",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_548.jpg",
+      "authorname": "Sagar"
+    },
+    {
       "title": "Android 12 Icon Pack is now Live",
       "description": "890+ icons with initital release",
       "url": "https://play.google.com/store/apps/details?id=com.vexcode.android12",
@@ -1228,6 +1242,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[Sale] One4KWGT Reloaded is on sale",
+      "description": "Upto 50% off!!",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4kwgtreloaded",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_523.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "KCD Komponents got an Update",
+      "description": "Added 3 new komponents",
+      "url": "https://play.google.com/store/apps/details?id=kcdkomponents.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_522.jpg",
+      "authorname": "Sagar"
+    },
     {
       "title": "Mintie for KWGT Update",
       "description": "Added 3 widgets",
