@@ -1264,14 +1264,14 @@
   ],
   "widgets": [
     {
-      "title": "Sheer KGWT Update v.9.5",
+      "title": "Sheer KWGT Update v.9.5",
       "description": "5 New Widgets Added (Total 115 Widgets)",
       "url": "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_525.jpg",
       "authorname": "Abhi"
     },
     {
-      "title": "Radish KGWT Update v.6.0",
+      "title": "Radish KWGT Update v.6.0",
       "description": "5 New Widgets Added (Total 175 Widgets)",
       "url": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_524.jpg",
@@ -1713,6 +1713,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "Wind KWLP Update V.3.2",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=windklwp.droidbeauty.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_96.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "[Free] Simple Clock KLWP",
       "description": "Check it out",
