@@ -45,6 +45,20 @@
   ],
   "news": [
     {
+      "title": "[SALE] 3 of SK's apps are on sale",
+      "description": "Grab them before the sale ends!",
+      "url": "https://play.google.com/store/apps/dev?id=5160763757107307799",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_555.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "[SALE] Caelus series got an update as well!",
+      "description": "Grab them before the sale ends",
+      "url": "https://play.google.com/store/apps/dev?id=7550572979310204381",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_557.jpg",
+      "authorname": "Yudha"
+    },
+    {
       "title": "Lawnchair Launcher resumes development!!",
       "description": "Check it out!",
       "url": "https://twitter.com/AndroidPolice/status/1363585796712714243?s=20",
@@ -389,6 +403,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "[SALE] 3 of SK's apps are on sale",
+      "description": "Grab them before the sale ends!",
+      "url": "https://play.google.com/store/apps/dev?id=5160763757107307799",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_555.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "New Walls Added in Celia Walls",
       "description": "Check it out!!",
@@ -918,6 +939,35 @@
     }
   ],
   "icons": [
+    {
+      "title": "[SALE] Caelus series got an update as well!",
+      "description": "Grab them before the sale ends",
+      "url": "https://play.google.com/store/apps/dev?id=7550572979310204381",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_557.jpg",
+      "authorname": "Yudha"
+    },
+    
+     {
+      "title": "Duo Icon Pack got an update",
+      "description": "45+ new icons added!",
+      "url": "https://play.google.com/store/apps/details?id=com.sreerag.duo",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_556.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "[SALE] 3 of SK's apps are on sale",
+      "description": "Grab them before the sale ends!",
+      "url": "https://play.google.com/store/apps/dev?id=5160763757107307799",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_555.jpg",
+      "authorname": "Yudha"
+    },
+      {
+      "title": "OTO Icon Pack got an update",
+      "description": "100+ new icons added!",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.oto",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_554.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "[Giveaway] AlineT Icon Pack",
       "description": "Upoad your homescreen & win promocode",
