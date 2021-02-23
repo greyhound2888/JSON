@@ -404,6 +404,13 @@
   ],
   "wallpapers": [
     {
+      "title": "[FREE] Some Walls by Vinoth",
+      "description": "Go get them",
+      "url": "https://twitter.com/helvetiica/status/1363866939433619459?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_696.png",
+      "authorname": "Aniket"
+    },
+    {
       "title": "[SALE] 3 of SK's apps are on sale",
       "description": "Grab them before the sale ends!",
       "url": "https://play.google.com/store/apps/dev?id=5160763757107307799",
@@ -939,6 +946,13 @@
     }
   ],
   "icons": [
+     {
+      "title": "Garis light Icon pack got an Update",
+      "description": "Go check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.garisl",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_558.jpg",
+      "authorname": "Aniket"
+    },
     {
       "title": "[SALE] Caelus series got an update as well!",
       "description": "Grab them before the sale ends",
@@ -1362,6 +1376,27 @@
     }
   ],
   "widgets": [
+    {
+      "title": "IosMix KWGT got a Update",
+      "description": "Added 10 New iOS 14 Style Widgets",
+      "url": "https://play.google.com/store/apps/details?id=com.iosmixkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_529.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "Fusion KWGT v11.0 Update available on playstore",
+      "description": "Added 8 New widgets",
+      "url": "https://play.google.com/store/apps/details?id=fusionforkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_528.jpg",
+      "authorname": "Aniket"
+    },
+    {
+      "title": "New Update for KPro KWGT is live",
+      "description": "7 New Widgets Added, Total 72 widgets now",
+      "url": "https://play.google.com/store/apps/details?id=kprokwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_527.jpg",
+      "authorname": "Aniket"
+    },
     {
       "title": "Felix KWGT Weekly Update!!",
       "description": "4 New Widgets Added (Total 112 Widgets)",
