@@ -404,6 +404,13 @@
   ],
   "wallpapers": [
     {
+      "title": "New Wallpapers added to Wallrod",
+      "description": "Check them out now!",
+      "url": "https://twitter.com/MathyWallrod/status/1364265374594793473?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_697.jpg",
+      "authorname": "Sagar"
+    },
+    {
       "title": "[FREE] Some Walls by Vinoth",
       "description": "Go get them",
       "url": "https://twitter.com/helvetiica/status/1363866939433619459?s=20",
@@ -946,7 +953,21 @@
     }
   ],
   "icons": [
-     {
+    {
+      "title": "Bladient Icon pack got an Update",
+      "description": "Go check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_560.jpg",
+      "authorname": "Sagar"
+    }, 
+    {
+      "title": "[Giveaway][SALE] CreamyPro Iconpack got an Update",
+      "description": "Go check it out",
+      "url": "https://twitter.com/asn360/status/1364281804409081857?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_559.jpg",
+      "authorname": "Sagar"
+    },
+    {
       "title": "Garis light Icon pack got an Update",
       "description": "Go check it out",
       "url": "https://play.google.com/store/apps/details?id=com.panotogomo.garisl",
@@ -1376,6 +1397,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[GIVEAWAY] Cool KWGT",
+      "description": "Participate now!!",
+      "url": "https://twitter.com/_Vyxxn_/status/1364266175086010374?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_530.jpg",
+      "authorname": "Sagar"
+    },
     {
       "title": "IosMix KWGT got a Update",
       "description": "Added 10 New iOS 14 Style Widgets",
