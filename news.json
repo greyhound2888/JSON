@@ -72,7 +72,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_555.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "[SALE] Caelus series got an update as well!",
       "description": "Grab them before the sale ends",
       "url": "https://play.google.com/store/apps/dev?id=7550572979310204381",
@@ -424,28 +424,42 @@
     }
   ],
   "wallpapers": [
-     {
+    {
+      "title": "Celia Walls Update",
+      "description": "3 vector based walls added",
+      "url": "https://twitter.com/vhthinh_at/status/1364599976345489411?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_703.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "New Walls in Wallpin",
+      "description": "2 walls added",
+      "url": "https://twitter.com/21MaRcO12/status/1364530511985713153?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_702.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[FREE] New Walls by Marcus",
       "description": "Check them out now!",
       "url": "https://twitter.com/MarcusBremen/status/1364312432483696646?s=19",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_701.jpg",
       "authorname": "Sagar"
     },
-     {
+    {
       "title": "[FREE] New Walls by iEdit Walls",
       "description": "Go, grab them for free!",
       "url": "https://twitter.com/ieditwalls/status/1364224750223044608?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_700.jpg",
       "authorname": "Sagar"
     },
-     {
+    {
       "title": "[FREE] New Wallpapers by Caterina",
       "description": "Grab them now!",
       "url": "https://twitter.com/caterina_o/status/1364376198801940480?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_699.jpg",
       "authorname": "Sagar"
     },
-     {
+    {
       "title": "New Wallpapers added to Unusual Wallpapers",
       "description": "Check them out now!",
       "url": "https://twitter.com/akinhd/status/1364443307930050562?s=20",
@@ -1015,21 +1029,21 @@
       "url": "https://play.google.com/store/apps/details?id=com.asn360.creamy.dark.iconpack",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_562.jpg",
       "authorname": "Sagar"
-    }, 
+    },
     {
       "title": "Aprikola Icon pack got an Update",
       "description": "Go check it out",
       "url": "https://play.google.com/store/apps/details?id=aprikola.rose.duke.com",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_561.jpg",
       "authorname": "Sagar"
-    }, 
+    },
     {
       "title": "Bladient Icon pack got an Update",
       "description": "Go check it out",
       "url": "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_560.jpg",
       "authorname": "Sagar"
-    }, 
+    },
     {
       "title": "[Giveaway][SALE] CreamyPro Iconpack got an Update",
       "description": "Go check it out",
@@ -1051,22 +1065,22 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_557.jpg",
       "authorname": "Yudha"
     },
-    
-     {
+
+    {
       "title": "Duo Icon Pack got an update",
       "description": "45+ new icons added!",
       "url": "https://play.google.com/store/apps/details?id=com.sreerag.duo",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_556.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "[SALE] 3 of SK's apps are on sale",
       "description": "Grab them before the sale ends!",
       "url": "https://play.google.com/store/apps/dev?id=5160763757107307799",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_555.jpg",
       "authorname": "Yudha"
     },
-      {
+    {
       "title": "OTO Icon Pack got an update",
       "description": "100+ new icons added!",
       "url": "https://play.google.com/store/apps/details?id=com.panotogomo.oto",
@@ -1467,6 +1481,20 @@
     }
   ],
   "widgets": [
+    {
+      "title": "thirty KWGT Update",
+      "description": "Added 5 new widgets",
+      "url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_537.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Khamelon for KWGT Update",
+      "description": "5 Widgets & 1 KLWP preset added",
+      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.khameleon",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_536.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "[GIVEAWAY] Elara KWGT got an Massive update",
       "description": " 40 new widgets, check them out!",
@@ -1987,6 +2015,20 @@
     }
   ],
   "klwp": [
+    {
+      "title": "Menthoka - A New Preset Added in DashCards for KWLP",
+      "description": "Check it out",
+      "url": "https://play.google.com/store/apps/details?id=dashcards.grabsterstudios",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_97.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Khamelon for KWGT Update",
+      "description": "5 Widgets & 1 KLWP preset added",
+      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.khameleon",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_536.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "Wind KWLP Update V.3.2",
       "description": "Check it out",
