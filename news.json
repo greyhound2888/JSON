@@ -44,7 +44,14 @@
     }
   ],
   "news": [
-      {
+    {
+      "title": "[Sale] Elara KWGT is on sale",
+      "description": "Upto 75% off!!",
+      "url": "https://play.google.com/store/apps/details?id=com.hash.elara",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_540.jpg",
+      "authorname": "Sagar"
+    },  
+    {
       "title": "[NEW] Dark Yellow and Dark Purple Icon Packs",
       "description": "Grab them now!!",
       "url": "https://play.google.com/store/apps/dev?id=4694038870815726797",
@@ -445,6 +452,20 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New Walls added in Joy Walls",
+      "description": "7 new walls added (3 koi pond walls & 4 Abstract waves)",
+      "url": "https://twitter.com/Yogesh_gosavi_/status/1364836933214507008",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_705.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "New Abstract Walls Added in Prism Wallpapers",
+      "description": "Made by Shanky",
+      "url": "https://twitter.com/PrismWallpapers/status/1364819912913420290?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_704.jpg",
+      "authorname": "Sagar"
+    },
     {
       "title": "Celia Walls Update",
       "description": "3 vector based walls added",
@@ -1530,6 +1551,27 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[Sale] Elara KWGT is on sale",
+      "description": "Upto 75% off!!",
+      "url": "https://play.google.com/store/apps/details?id=com.hash.elara",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_540.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "Clement KWGT Weekly Update!!",
+      "description": "5 New Widgets Added (Total 45 Widgets)",
+      "url": "https://play.google.com/store/apps/details?id=clementkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_539.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "[Giveaway] Crystal for KWGT Update",
+      "description": "5 Widgets added",
+      "url": "https://twitter.com/VigneshVickyGVK/status/1364808993336528896?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_538.jpg",
+      "authorname": "Sagar"
+    },
     {
       "title": "thirty KWGT Update",
       "description": "Added 5 new widgets",
