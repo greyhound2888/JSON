@@ -44,6 +44,20 @@
     }
   ],
   "news": [
+      {
+      "title": "[NEW] Dark Yellow and Dark Purple Icon Packs",
+      "description": "Grab them now!!",
+      "url": "https://play.google.com/store/apps/dev?id=4694038870815726797",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_567.jpg",
+      "authorname": "Yudha"
+    },
+       {
+      "title": "[SALE] Nova Dark Icon Pack",
+      "description": "Grab it before the sale ends!!",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_566.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "[Giveaway] Khamelon for KWGT Update",
       "description": "5 Widgets & 1 KLWP preset added",
@@ -1023,6 +1037,34 @@
     }
   ],
   "icons": [
+    {
+      "title": "[NEW] Dark Yellow and Dark Purple Icon Packs",
+      "description": "Grab them now!!",
+      "url": "https://play.google.com/store/apps/dev?id=4694038870815726797",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_567.jpg",
+      "authorname": "Yudha"
+    },
+       {
+      "title": "[SALE] Nova Dark Icon Pack",
+      "description": "Grab it before the sale ends!!",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_566.jpg",
+      "authorname": "Yudha"
+    },
+      {
+      "title": "Blutum - Icon Pack got an update",
+      "description": "Go check it out",
+      "url": "https://play.google.com/store/apps/details?id=com.vertumus.blutum",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_565.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "Trippy icons got it's first update",
+      "description": "Download/Update it now!",
+      "url": "https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.trippy_icons",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_564.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "[Giveaway] AlineT Iconpack got an Update",
       "description": "Go check it out",
