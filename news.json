@@ -44,6 +44,13 @@
     }
   ],
   "news": [
+     {
+      "title": "[SALE] Wallrod Wallpapers",
+      "description": "Grab it before the sale ends!!",
+      "url": "https://twitter.com/ieditwalls/status/1365308849268420609?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_713.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "[Giveaway] One4KWGT Pro got an update",
       "description": "total 97 widgets, 7 komponents and 23 wallpapers now!!",
@@ -473,9 +480,44 @@
     }
   ],
   "wallpapers": [
+      {
+      "title": "[SALE] Wallrod Wallpapers",
+      "description": "Grab it before the sale ends!!",
+      "url": "https://twitter.com/ieditwalls/status/1365308849268420609?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_713.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "[FREE] New Walls by iEdit Walls",
+      "description": "Grab them now for free!!",
+      "url": "https://twitter.com/ieditwalls/status/1365308849268420609?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_712.jpg",
+      "authorname": "Yudha"
+    },
+      {
+      "title": "New Walls added to Fluid walls",
+      "description": "Download it now!!",
+      "url": "https://twitter.com/starkdesigns18/status/1365283698866720768",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_711.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "[FREE] New wallpaper by Fabio",
+      "description": "Grab it now!!",
+      "url": "https://twitter.com/FlareZephyr/status/1364699785601687558?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_710.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "New walls added to Dark Droid",
+      "description": "Check them Out!!",
+      "url": "https://twitter.com/SanketN8/status/1364164352463396865?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_709.jpg",
+      "authorname": "Yudha"
+    },
     {
-      "title": "[Free] New wallpaper added in V.H.T",
-      "description": "Check it Out!!",
+      "title": "[Free] New wallpaper by V.H.T",
+      "description": "Check it out!!",
       "url": "https://twitter.com/vhthinh_at/status/1364976206983012354?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_708.png",
       "authorname": "Dhanraj"
