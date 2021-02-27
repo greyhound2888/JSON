@@ -44,14 +44,21 @@
     }
   ],
   "news": [
-     {
+    {
+      "title": "[Giveaway] Nebula Icon Pack",
+      "description": "Try your luck!!",
+      "url": "https://twitter.com/_Vyxxn_/status/1365514526485999617?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_571.jfif",
+      "authorname": "Dhanraj"
+    },
+    {
       "title": "[Free] Some Walls by Dhanraj Priyadarshi",
       "description": "Grab these!!",
       "url": "https://twitter.com/BerserkDhanraj/status/1365235683078467586?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_716.jpg",
       "authorname": "Dhanraj"
     },
-     {
+    {
       "title": "[SALE] Wallrod Wallpapers",
       "description": "Grab it before the sale ends!!",
       "url": "https://twitter.com/MathyWallrod/status/1365141852198961152?s=20",
@@ -1142,6 +1149,20 @@
     }
   ],
   "icons": [
+    {
+      "title": "New version 2.1.6 Peanut Icon Pack is live on Play Store",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=dev.awze.peanut.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_572.png",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "[Giveaway] Nebula Icon Pack",
+      "description": "Try your luck!!",
+      "url": "https://twitter.com/_Vyxxn_/status/1365514526485999617?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_571.jfif",
+      "authorname": "Dhanraj"
+    },
     {
       "title": "Owline Icon pack got an update",
       "description": "Check it out!!",
