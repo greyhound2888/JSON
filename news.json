@@ -45,7 +45,7 @@
   ],
   "news": [
      {
-      "title": "[Free]Some Walls by Dhanraj Priyadarshi",
+      "title": "[Free] Some Walls by Dhanraj Priyadarshi",
       "description": "Grab these!!",
       "url": "https://twitter.com/BerserkDhanraj/status/1365235683078467586?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_716.jpg",
@@ -494,8 +494,22 @@
     }
   ],
   "wallpapers": [
-      {
-      "title": "[Free]Some Walls by Dhanraj Priyadarshi",
+    {
+      "title": "New Wallpaper added to Whalepapers",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_718.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "[Free] New Wallpaper added to Dave's collection",
+      "description": "Grab it!!",
+      "url": "https://twitter.com/droidbeauty/status/1365437416060911616?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_717.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "[Free] Some Walls by Dhanraj Priyadarshi",
       "description": "Grab these!!",
       "url": "https://twitter.com/BerserkDhanraj/status/1365235683078467586?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_716.jpg",
@@ -1177,6 +1191,20 @@
     }
   ],
   "icons": [
+    {
+      "title": "Owline Icon pack got an update",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=com.asn360.owline.iconpack.new",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_570.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "[Sale] New update for Cavion Icon Pack is live on Play Store",
+      "description": "Grab it!!",
+      "url": "https://play.google.com/store/apps/details?id=com.lknninex.cavion",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_569.jpg",
+      "authorname": "Dhanraj"
+    },
     {
       "title": "[Free] Selene Icon Pack is free for a day",
       "description": "Grab it!!",
