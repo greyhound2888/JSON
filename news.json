@@ -1135,7 +1135,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_575.jpg",
       "authorname": "Dhanraj"
     },
-     {
+    {
       "title": "[FREE] Minma Icon Pack update is live",
       "description": "Download it now!!",
       "url": "https://play.google.com/store/apps/details?id=com.minma.icon.free",
@@ -1670,6 +1670,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Blueberry KWGT Update",
+      "description": "5 new widgets added",
+      "url": "https://play.google.com/store/apps/details?id=blueberrykwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_544.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "[Free]New update for Delirium Kwgt is live on Play Store",
       "description": "Added 5 new widgets, total 50 widgets now!!",
