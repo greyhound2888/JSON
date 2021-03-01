@@ -24,6 +24,13 @@
   ],
   "news": [
     {
+      "title": "[New, Free] Blended KWGT is live now",
+      "description": "Initially 28 widgets in the pack",
+      "url": "https://play.google.com/store/apps/details?id=blendedkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_550.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[Giveaway] Your Walls Crossed 1K subscribers",
       "description": "Giveaway details will share soon in channel",
       "url": "https://t.me/Yourswallpapars",
@@ -432,6 +439,13 @@
   ],
   "wallpapers": [
     {
+      "title": "[Free] New Walls by Rishi",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/RshBfn/status/1366350002704949248?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_726.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "New Wallpapers added in Unusual Wallpapers",
       "description": "Check it out!!",
       "url": "https://twitter.com/akinhd/status/1366083120869482496?s=20",
@@ -692,6 +706,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "[New, Giveaway] Sneak peak of an upcoming pack",
+      "description": "Suggest pack name & get one promocode",
+      "url": "https://twitter.com/justnewdesigns/status/1366359507350118402?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_582.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "Update for Android 12 Icon Pack is live on Play Store",
       "description": "52 new icons added",
@@ -954,6 +975,27 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Frost KWGT v4.6 is here",
+      "description": "100 widgets in the pack",
+      "url": "https://play.google.com/store/apps/details?id=frostkwgt.droidbeauty.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_552.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Abstract KWGT Update v1.2",
+      "description": "Update now",
+      "url": "https://play.google.com/store/apps/details?id=abstractpro.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_551.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[New, Free] Blended KWGT is live now",
+      "description": "Initially 28 widgets in the pack",
+      "url": "https://play.google.com/store/apps/details?id=blendedkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_550.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "Style KWGT Update",
       "description": "Totat 132 widgets now",
