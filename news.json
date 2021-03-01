@@ -24,6 +24,20 @@
   ],
   "news": [
     {
+      "title": "New Flow wallpapers on the Collections App",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_727.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
+      "title": "Buy 1 App by Ghano DZpro and Win 3 Apps from the list",
+      "description": "Check out here to know more !",
+      "url": "https://twitter.com/GhanoDZpro/status/1366146246876962821?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_553.jpg",
+      "authorname": "Subham Saha"
+    },
+    {
       "title": "[New, Free] Blended KWGT is live now",
       "description": "Initially 28 widgets in the pack",
       "url": "https://play.google.com/store/apps/details?id=blendedkwgt.kustom.pack",
@@ -445,6 +459,13 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "New Flow wallpapers on the Collections App",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_727.jpg",
+      "authorname": "Subham Saha"
+    },
     {
       "title": "[Free] New Walls by Rishi",
       "description": "Check it out!!",
@@ -989,6 +1010,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Buy 1 App by Ghano DZpro and Win 3 Apps from the list",
+      "description": "Check out here to know more !",
+      "url": "https://twitter.com/GhanoDZpro/status/1366146246876962821?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_553.jpg",
+      "authorname": "Subham Saha"
+    },
     {
       "title": "Frost KWGT v4.6 is here",
       "description": "100 widgets in the pack",
