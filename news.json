@@ -24,6 +24,20 @@
   ],
   "news": [
     {
+      "title": "[Sale] Owline Icon Pack",
+      "description": "Go buy now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.asn360.owline.iconpack.new",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_587.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Sale] New Walls in Amoled Papers & it is 50% off",
+      "description": "4 new wallpapers added",
+      "url": "https://twitter.com/mhcharlee/status/1366442811910946820?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_729.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "New Flow wallpapers on the Collections App",
       "description": "Check it out!!",
       "url": "https://play.google.com/store/apps/details?id=lor.and.company.collections",
@@ -460,6 +474,27 @@
   ],
   "wallpapers": [
     {
+      "title": "New Walls Added in Wallpin",
+      "description": "3 new wallpapers added",
+      "url": "https://twitter.com/21MaRcO12/status/1366435982724194312?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_730.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Sale] New Walls in Amoled Papers & it is 50% off",
+      "description": "4 new wallpapers added",
+      "url": "https://twitter.com/mhcharlee/status/1366442811910946820?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_729.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "New Walls in Celia App",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/vhthinh_at/status/1366424655565713410?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_728.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "New Flow wallpapers on the Collections App",
       "description": "Check it out!!",
       "url": "https://play.google.com/store/apps/details?id=lor.and.company.collections",
@@ -734,6 +769,27 @@
     }
   ],
   "icons": [
+    {
+      "title": "[Sale] Owline Icon Pack",
+      "description": "Go buy now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.asn360.owline.iconpack.new",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_587.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Simplit Icon Pack Update",
+      "description": "67 new icons added",
+      "url": "https://play.google.com/store/apps/details?id=com.edzondm.simplit",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_586.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Foxbit Icon Pack Update",
+      "description": "99 new icons added",
+      "url": "https://play.google.com/store/apps/details?id=com.edzondm.foxbit",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_585.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "Reev Pro v3.5.4 Update",
       "description": "23 new icons added",
@@ -1018,9 +1074,16 @@
   ],
   "widgets": [
     {
+      "title": "Spring KWGT Update",
+      "description": "Update now!!",
+      "url": "https://play.google.com/store/apps/details?id=springkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_555.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "Ocra for KWGT Update",
       "description": "Added 2 new widgets",
-      "url": "https://play.google.com/store/apps/details?id=orcaforkwgt.kustom.pack0",
+      "url": "https://play.google.com/store/apps/details?id=orcaforkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_554.jpg",
       "authorname": "Abhi"
     },
