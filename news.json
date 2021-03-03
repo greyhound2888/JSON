@@ -488,6 +488,13 @@
   ],
   "wallpapers": [
     {
+      "title": "[FREE] New Wall by madebymirac",
+      "description": "Check out now!",
+      "url": "https://twitter.com/madebymirac/status/1366501006192898051?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_733.jpg",
+      "authorname": "Sagar"
+    },
+    {
       "title": "[Sale] New Walls in Wallspaper",
       "description": "16 new walls added & upto 60% off for limited time",
       "url": "https://play.google.com/store/apps/details?id=deb.wallpaper.walle1",
@@ -797,6 +804,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "Brown Minimal Icon Pack Update",
+      "description": "19 new icons added",
+      "url": "https://play.google.com/store/apps/details?id=dev.ahed.brownicons.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_590.jpg",
+      "authorname": "Sagar"
+    },
     {
       "title": "[Giveaway] RubyIcon Pack",
       "description": "35 promo codes to win, Join now",
@@ -1115,6 +1129,34 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Dekā KWGT Update",
+      "description": "Added 5 new widgets",
+      "url": "https://play.google.com/store/apps/details?id=dekakwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_559.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "Felix KWGT Update",
+      "description": "Added 5 new widgets",
+      "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_558.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "Delirium KWGT Update",
+      "description": "Added 5 new widgets",
+      "url": "https://play.google.com/store/apps/details?id=deliriumkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_557.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "MyOs KWGT Update",
+      "description": "Update now!!",
+      "url": "https://play.google.com/store/apps/details?id=com.myoskwgtsbyahmad.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_556.jpg",
+      "authorname": "Sagar"
+    },
     {
       "title": "Spring KWGT Update",
       "description": "Update now!!",
