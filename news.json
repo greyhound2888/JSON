@@ -488,6 +488,20 @@
   ],
   "wallpapers": [
     {
+      "title": "New Wallpapers added in Unusual Wallpapers",
+      "description": "Check them out!",
+      "url": "https://twitter.com/akinhd/status/1366987754987421696?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_735.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
+      "title": "[New Launch] [FREE] iOSXPC Wallpaper is live on Play Store",
+      "description": "Check it out!",
+      "url": "https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_734.jpg",
+      "authorname": "Dhanraj"
+    },
+    {
       "title": "[FREE] New Wall by madebymirac",
       "description": "Check out now!",
       "url": "https://twitter.com/madebymirac/status/1366501006192898051?s=20",
@@ -804,6 +818,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "All series of Japes Icon Pack got update",
+      "description": "36 new icons added",
+      "url": "https://play.google.com/store/apps/dev?id=8010419853860686352",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_591.jpg",
+      "authorname": "Dhanraj"
+    },
     {
       "title": "Brown Minimal Icon Pack Update",
       "description": "19 new icons added",
@@ -1129,6 +1150,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "[Free] Widgets by Rodney",
+      "description": "Grab them!!",
+      "url": "https://twitter.com/RodKahx/status/1366011092728754184?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_560.jpg",
+      "authorname": "Dhanraj"
+    },
     {
       "title": "Dekā KWGT Update",
       "description": "Added 5 new widgets",
@@ -1460,6 +1488,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "[Free] Konx KLWP by Dhanraj Priyadarshi",
+      "description": "Grab it",
+      "url": "https://twitter.com/BerserkDhanraj/status/1367070046556622848?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_100.jpg",
+      "authorname": "Dhanraj"
+    },
     {
       "title": "[Giveaway] Wind KLWP Update + Giveaway",
       "description": "Updated to v3.4",
