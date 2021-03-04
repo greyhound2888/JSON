@@ -875,6 +875,20 @@
   ],
   "icons": [
     {
+      "title": "Selene Icon Pack Update",
+      "description": "38 new icons added",
+      "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.selene",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_594.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Sale] Sonnambula Icon Pack",
+      "description": "Add this pack to your collection",
+      "url": "https://play.google.com/store/apps/details?id=com.panotogomo.sonnambula",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_593.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[Giveaway] Athena Icon Pack Update",
       "description": "30 new icons added",
       "url": "https://twitter.com/One4Studio/status/1367118336044244994?s=20",
@@ -1213,6 +1227,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Sheer KWGT Update",
+      "description": "5 new widgets added (120 total widgets)",
+      "url": "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_561.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "[Free] Widgets by Rodney",
       "description": "Grab them!!",
