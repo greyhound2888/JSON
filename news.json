@@ -23,7 +23,7 @@
     }
   ],
   "news": [
-     {
+    {
       "title": "[FREE] New Wall by Mirac",
       "description": "Download it now!",
       "url": "https://twitter.com/madebymirac/status/1367250200176308226?s=09",
@@ -494,28 +494,28 @@
     }
   ],
   "wallpapers": [
-     {
+    {
       "title": "New Walls added in Joy Walls",
       "description": "Grab them now!",
       "url": "https://twitter.com/Yogesh_gosavi_/status/1367302884623220738",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_741.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "New Walls available in Wallrod",
       "description": "Check it out!",
       "url": "https://twitter.com/MathyWallrod/status/1367280123389612034?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_740.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "[FREE] New Wall by Mirac",
       "description": "Download it now!",
       "url": "https://twitter.com/madebymirac/status/1367250200176308226?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_739.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "[FREE] New Walls by Ongliong",
       "description": "Grab them now!",
       "url": "https://twitter.com/ongliong11/status/1367289435826638848?s=19",
@@ -529,7 +529,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_737.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "New Wallpapers added in Eve Walls Collection",
       "description": "Grab them now!",
       "url": "https://twitter.com/mhcharlee/status/1367112531823779844?s=09",
@@ -867,6 +867,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "Athena Icon Pack Update",
+      "description": "30 new icons added",
+      "url": "https://twitter.com/One4Studio/status/1367118336044244994?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_592.jfif",
+      "authorname": "Abhi"
+    },
     {
       "title": "All series of Japes Icon Pack got update",
       "description": "36 new icons added",
