@@ -515,7 +515,14 @@
     }
   ],
   "wallpapers": [
-       {
+    {
+    "title": "[Free] New Walls by Pashapuma",
+    "description": "Add 4 new wallpapers",
+    "url": "https://twitter.com/pashapuma1/status/1367575611980537860?s=09",
+    "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_745.jpg",
+    "authorname": "Vishal"
+    },
+    {
       "title": "[Free] New Walls by Jianoliu",
       "description": "Check it out!!",
       "url": "https://twitter.com/jianoliu/status/1367486432936394753?s=20",
