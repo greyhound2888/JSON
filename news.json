@@ -23,12 +23,12 @@
     }
   ],
   "news": [
-    {
-      "title": "[Giveaway] Merlen Icon Pack Giveaway",
-      "description": "Join in to win promo code",
-      "url": "https://twitter.com/Seamoon757/status/1367465378910248963?s=20",
-      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_595.jfif",
-      "authorname": "Abhi"
+       {
+      "title": "[FREE] New Wallpapers by Yudha",
+      "description": "Grab them now for free!!",
+      "url": "https://twitter.com/yudhajit_ghosh/status/1367800881098354691?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_749.jpg",
+      "authorname": "Yudha"
     },
     {
       "title": "[Giveaway] Athena Icon Pack Update",
@@ -515,6 +515,27 @@
     }
   ],
   "wallpapers": [
+      {
+      "title": "[FREE] New Wallpapers by Yudha",
+      "description": "Grab them now for free!!",
+      "url": "https://twitter.com/yudhajit_ghosh/status/1367800881098354691?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_749.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "Prism Wallpapers got an Update",
+      "description": "New Edge Walls are added!",
+      "url": "https://twitter.com/PrismWallpapers/status/1367740628893802498?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_748.jpg",
+      "authorname": "Yudha"
+    },
+      {
+      "title": "New Walls added in Wall-e",
+      "description": "Check them out!!",
+      "url": "https://twitter.com/ChrisJ4ck/status/1367779119996485633?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_747.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "[Free] New Walls by Dave",
       "description": "Check it out!!",
