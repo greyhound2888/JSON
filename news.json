@@ -24,12 +24,19 @@
   ],
   "news": [
     {
+      "title": "[Sale] [Free] Pure Icon Pack",
+      "description": "Grab it soon within 2 days",
+      "url": "https://play.google.com/store/apps/details?id=me.morirain.dev.iconpack.pure",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_602.jpg",
+      "authorname": "Vishal"
+    },
+    {
       "title": "[Sale] [Giveaway] BeeLine Icon Pack",
       "description": "Check it out!",
       "url": "https://twitter.com/HeyAlphaOne/status/1368183626022744081?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_601.jpg",
       "authorname": "Sagar"
-    },  
+    },
     {
       "title": "[Sale] Glass morphism Icon Pack",
       "description": "Check it out!",
@@ -1022,12 +1029,26 @@
   ],
   "icons": [
     {
+      "title": "Android 12 Icon Pack Update",
+      "description": "Check it out!",
+      "url": "https://play.google.com/store/apps/details?id=com.vexcode.android12",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_603.jpg",
+      "authorname": "Vishal"
+    },
+    {
+      "title": "[Sale] [Free] Pure Icon Pack",
+      "description": "Grab it soon within 2 days",
+      "url": "https://play.google.com/store/apps/details?id=me.morirain.dev.iconpack.pure",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_602.jpg",
+      "authorname": "Vishal"
+    },
+    {
       "title": "[Sale] [Giveaway] BeeLine Icon Pack",
       "description": "Check it out!",
       "url": "https://twitter.com/HeyAlphaOne/status/1368183626022744081?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_601.jpg",
       "authorname": "Sagar"
-    },  
+    },
     {
       "title": " Nebula Icon Pack Update",
       "description": "40 new icons added",
