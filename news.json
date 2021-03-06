@@ -23,7 +23,21 @@
     }
   ],
   "news": [
-     {
+    {
+      "title": "[Sale] [Giveaway] BeeLine Icon Pack",
+      "description": "Check it out!",
+      "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_601.jpg",
+      "authorname": "Sagar"
+    },  
+    {
+      "title": "[Sale] Glass morphism Icon Pack",
+      "description": "Check it out!",
+      "url": "https://play.google.com/store/apps/details?id=com.vexcode.glassicons",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_599.jpg",
+      "authorname": "Sagar"
+    },   
+    {
       "title": "[NEW] Deep Gold Icon Pack",
       "description": "Check it out!",
       "url": "https://play.google.com/store/apps/details?id=com.sam.deep.gold",
@@ -523,6 +537,27 @@
   ],
   "wallpapers": [
     {
+      "title": "[Free] New Walls by Dave",
+      "description": "Check them out!!",
+      "url": "https://twitter.com/droidbeauty/status/1368196003212517377?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_754.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "[Free] New Walls by Jackson!!",
+      "description": "Check them out!!",
+      "url": "https://twitter.com/jacksonhayes701/status/1368183824186826753?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_753.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "[Free] New Wall by Aaron!!",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/AaronXTT/status/1368059459189235714?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_752.jpg",
+      "authorname": "Sagar"
+    },
+    {
       "title": "Exclusive Walls on Charlee's Patreon",
       "description": "Join for exclusive walls & perks",
       "url": "https://twitter.com/mhcharlee/status/1367837300164603906?s=20",
@@ -965,7 +1000,28 @@
     }
   ],
   "icons": [
-      {
+    {
+      "title": "[Sale] [Giveaway] BeeLine Icon Pack",
+      "description": "Check it out!",
+      "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_601.jpg",
+      "authorname": "Sagar"
+    },  
+    {
+      "title": " Nebula Icon Pack Update",
+      "description": "40 new icons added",
+      "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_600.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "[Sale] Glass morphism Icon Pack",
+      "description": "Check it out!",
+      "url": "https://play.google.com/store/apps/details?id=com.vexcode.glassicons",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_599.jpg",
+      "authorname": "Sagar"
+    },  
+    {
       "title": "[NEW] Deep Gold Icon Pack",
       "description": "Check it out!",
       "url": "https://play.google.com/store/apps/details?id=com.sam.deep.gold",
@@ -1353,6 +1409,34 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Delirium KWGT Update",
+      "description": "Added 5 new widgets",
+      "url": "https://play.google.com/store/apps/details?id=deliriumkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_574.jpg",
+      "authorname": "Sagar"
+    },
+    {
+      "title": "Frizzy KWGT got an Update",
+      "description": "Grab it now!!",
+      "url": "https://play.google.com/store/apps/details?id=frizzy.kustom.pack&hl=en_IN",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_573.jpg",
+      "authorname": "Sagar"
+    }, 
+    {
+      "title": "Style KWGT got an Update",
+      "description": "Grab it now!!",
+      "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_572.jpg",
+      "authorname": "Sagar"
+    }, 
+    {
+      "title": "Sansa v2 for kustom!!",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/GilbertoGM4/status/1367966065121230851?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_571.jpg",
+      "authorname": "Sagar"
+    },
     {
       "title": "Lhotse KWGT Update v1.7",
       "description": "2 new widgets added (54 total in the pack)",
@@ -1761,6 +1845,13 @@
     }
   ],
   "klwp": [
+     {
+      "title": "Sansa v2 for kustom!!",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/GilbertoGM4/status/1367966065121230851?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_571.jpg",
+      "authorname": "Sagar"
+    },
     {
       "title": "[Free] New Update for Minimus For KLWP",
       "description": "Grab it",
