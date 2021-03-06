@@ -23,6 +23,13 @@
     }
   ],
   "news": [
+     {
+      "title": "[NEW] Deep Gold Icon Pack",
+      "description": "Check it out!",
+      "url": "https://play.google.com/store/apps/details?id=com.sam.deep.gold",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_598.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "[FREE] New Wallpapers by Yudha",
       "description": "Grab them now for free!!",
@@ -958,6 +965,20 @@
     }
   ],
   "icons": [
+      {
+      "title": "[NEW] Deep Gold Icon Pack",
+      "description": "Check it out!",
+      "url": "https://play.google.com/store/apps/details?id=com.sam.deep.gold",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_598.jpg",
+      "authorname": "Yudha"
+    },
+       {
+      "title": "Brown Minimal Icon Pack Update",
+      "description": "17 new icons added",
+      "url": "https://play.google.com/store/apps/details?id=dev.ahed.brownicons.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_590.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "[SALE] Vera Icon Pack got an update as well",
       "description": "Download/Update the app now!!",
