@@ -1,6 +1,6 @@
 {
   "highlights": [
-     {
+    {
       "title": "[SALE] Vera Icon Pack got an update as well",
       "description": "Download/Update the app now!!",
       "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera",
@@ -23,7 +23,7 @@
     }
   ],
   "news": [
-       {
+    {
       "title": "[FREE] New Wallpapers by Yudha",
       "description": "Grab them now for free!!",
       "url": "https://twitter.com/yudhajit_ghosh/status/1367800881098354691?s=20",
@@ -515,21 +515,35 @@
     }
   ],
   "wallpapers": [
-      {
+    {
+      "title": "Exclusive Walls on Charlee's Patreon",
+      "description": "Join for exclusive walls & perks",
+      "url": "https://twitter.com/mhcharlee/status/1367837300164603906?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_751.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "New Walls in Fluid Walls App",
+      "description": "Added 6 new walls (48 total walls now)",
+      "url": "https://play.google.com/store/apps/details?id=com.stark.fluid",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_750.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[FREE] New Wallpapers by Yudha",
       "description": "Grab them now for free!!",
       "url": "https://twitter.com/yudhajit_ghosh/status/1367800881098354691?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_749.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "Prism Wallpapers got an Update",
       "description": "New Edge Walls are added!",
       "url": "https://twitter.com/PrismWallpapers/status/1367740628893802498?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_748.jpg",
       "authorname": "Yudha"
     },
-      {
+    {
       "title": "New Walls added in Wall-e",
       "description": "Check them out!!",
       "url": "https://twitter.com/ChrisJ4ck/status/1367779119996485633?s=09",
@@ -557,7 +571,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_744.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "[Free] New Walls by Nick",
       "description": "Check them out!!",
       "url": "https://twitter.com/NickNice85/status/1367046051786616837?s=20",
@@ -951,7 +965,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_597.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "Trippy Icons got an update",
       "description": "Download/Update now!!",
       "url": "https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.trippy_icons",
@@ -1318,14 +1332,35 @@
     }
   ],
   "widgets": [
-       {
+    {
+      "title": "Lhotse KWGT Update v1.7",
+      "description": "2 new widgets added (54 total in the pack)",
+      "url": "https://play.google.com/store/apps/details?id=lhotsekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_570.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Instinct for KWGT Pro Update",
+      "description": "Update Now!!",
+      "url": "https://play.google.com/store/apps/details?id=loopkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_569.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Finesta KWGT Update v8.0",
+      "description": "Added 10 new widgets",
+      "url": "https://play.google.com/store/apps/details?id=finestakwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_568.jfif",
+      "authorname": "Abhi"
+    },
+    {
       "title": "Square KWGT Update is live",
       "description": "5 new widgets added!",
       "url": "https://play.google.com/store/apps/details?id=squarekwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_567.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "Thirty KWGT got an Update",
       "description": "Grab it now!!",
       "url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
