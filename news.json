@@ -23,6 +23,20 @@
     }
   ],
   "news": [
+      {
+      "title": "[NEW & FREE] Luna Icon Pack",
+      "description": "Grab them now for free!!",
+      "url": "https://www.dropbox.com/sh/57p4v01zcfwcudi/AABGRrx6jvLF53IUuNRzcORfa?dl=0",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_605.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "[GIVEAWAY] Owline Iconpack",
+      "description": "30 codes to contest for!",
+      "url": "https://twitter.com/asn360/status/1368397260707434499?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_604.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "New Beta update for Niagara",
       "description": "Check it out!!",
@@ -1049,6 +1063,27 @@
     }
   ],
   "icons": [
+     {
+      "title": "Poppin Icon Pack got an update",
+      "description": "Check it out!",
+      "url": "https://play.google.com/store/apps/details?id=bludocs.iconpack.poppin",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_606.jpg",
+      "authorname": "Yudha"
+    },
+       {
+      "title": "[NEW & FREE] Luna Icon Pack",
+      "description": "Grab them now for free!!",
+      "url": "https://www.dropbox.com/sh/57p4v01zcfwcudi/AABGRrx6jvLF53IUuNRzcORfa?dl=0",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_605.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "[GIVEAWAY] Owline Iconpack",
+      "description": "30 codes to contest for!",
+      "url": "https://twitter.com/asn360/status/1368397260707434499?s=09",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_604.jpg",
+      "authorname": "Yudha"
+    },
     {
       "title": "Android 12 Icon Pack New Update",
       "description": "Check it out!!",
