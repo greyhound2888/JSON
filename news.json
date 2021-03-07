@@ -23,14 +23,28 @@
     }
   ],
   "news": [
-      {
-      "title": "[NEW & FREE] Luna Icon Pack",
+    {
+      "title": "[New] GradientPlus KWGT live on PlayStore",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=gradientp.themeland.feb21",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_578.jpg",
+      "authorname": "Vishal"
+    },
+    {
+      "title": "[Sale] WLIP Icon Pack is on sale",
+      "description": "Huge discount. Don't miss it!!",
+      "url": "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_607.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[NEW, FREE] Luna Icon Pack",
       "description": "Grab them now for free!!",
       "url": "https://www.dropbox.com/sh/57p4v01zcfwcudi/AABGRrx6jvLF53IUuNRzcORfa?dl=0",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_605.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "[GIVEAWAY] Owline Iconpack",
       "description": "30 codes to contest for!",
       "url": "https://twitter.com/asn360/status/1368397260707434499?s=09",
@@ -64,14 +78,14 @@
       "url": "https://twitter.com/HeyAlphaOne/status/1368183626022744081?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_601.jpg",
       "authorname": "Sagar"
-    },  
+    },
     {
       "title": "[Sale] Glass morphism Icon Pack",
       "description": "Check it out!",
       "url": "https://play.google.com/store/apps/details?id=com.vexcode.glassicons",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_599.jpg",
       "authorname": "Sagar"
-    },   
+    },
     {
       "title": "[NEW] Deep Gold Icon Pack",
       "description": "Check it out!",
@@ -571,7 +585,7 @@
     }
   ],
   "wallpapers": [
-     {
+    {
       "title": "New Walls from Hash Studios",
       "description": "Check them out!",
       "url": "https://twitter.com/HashStudiosIN/status/1368440965304885248?s=20",
@@ -1070,21 +1084,35 @@
     }
   ],
   "icons": [
-     {
+    {
+      "title": "Peanut Icon Pack Update",
+      "description": "800+ icons added",
+      "url": "https://play.google.com/store/apps/details?id=dev.awze.peanut.app",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_608.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Sale] WLIP Icon Pack is on sale",
+      "description": "Huge discount. Don't miss it!!",
+      "url": "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_607.jfif",
+      "authorname": "Abhi"
+    },
+    {
       "title": "Poppin Icon Pack got an update",
       "description": "Check it out!",
       "url": "https://play.google.com/store/apps/details?id=bludocs.iconpack.poppin",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_606.jpg",
       "authorname": "Yudha"
     },
-       {
+    {
       "title": "[NEW & FREE] Luna Icon Pack",
       "description": "Grab them now for free!!",
       "url": "https://www.dropbox.com/sh/57p4v01zcfwcudi/AABGRrx6jvLF53IUuNRzcORfa?dl=0",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_605.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "[GIVEAWAY] Owline Iconpack",
       "description": "30 codes to contest for!",
       "url": "https://twitter.com/asn360/status/1368397260707434499?s=09",
@@ -1125,7 +1153,7 @@
       "url": "https://play.google.com/store/apps/details?id=com.vexcode.glassicons",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_599.jpg",
       "authorname": "Sagar"
-    },  
+    },
     {
       "title": "[NEW] Deep Gold Icon Pack",
       "description": "Check it out!",
@@ -1133,7 +1161,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_598.jpg",
       "authorname": "Yudha"
     },
-       {
+    {
       "title": "Brown Minimal Icon Pack Update",
       "description": "17 new icons added",
       "url": "https://play.google.com/store/apps/details?id=dev.ahed.brownicons.app",
@@ -1515,6 +1543,27 @@
   ],
   "widgets": [
     {
+      "title": "[New] GradientPlus KWGT live on PlayStore",
+      "description": "Check it out!!",
+      "url": "https://play.google.com/store/apps/details?id=gradientp.themeland.feb21",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_578.jpg",
+      "authorname": "Vishal"
+    },
+    {
+      "title": "Cool KWGT v19.0 Update",
+      "description": "10 widgets added (Total 210 widgets)",
+      "url": "https://play.google.com/store/apps/details?id=com.coolkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_577.jpg",
+      "authorname": "Vishal"
+    },
+    {
+      "title": "Lucent KWGT Update",
+      "description": "2 widgets added (Total 148 widgets)",
+      "url": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_576.jfif",
+      "authorname": "Vishal"
+    },
+    {
       "title": "[Free] New widgets update by Rodney",
       "description": "Check it out!!",
       "url": "https://twitter.com/RodKahx/status/1368188260518858756",
@@ -1534,14 +1583,14 @@
       "url": "https://play.google.com/store/apps/details?id=frizzy.kustom.pack&hl=en_IN",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_573.jpg",
       "authorname": "Sagar"
-    }, 
+    },
     {
       "title": "Style KWGT got an Update",
       "description": "Grab it now!!",
       "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_572.jpg",
       "authorname": "Sagar"
-    }, 
+    },
     {
       "title": "Sansa v2 for kustom!!",
       "description": "Check it out!!",
@@ -1957,14 +2006,14 @@
     }
   ],
   "klwp": [
-     {
+    {
       "title": "[Free] New KLWP by montseR",
       "description": "Grab it!",
       "url": "https://twitter.com/Montse1862/status/1368337468882313227?s=20",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_103.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "Sansa v2 for kustom!!",
       "description": "Check it out!!",
       "url": "https://twitter.com/GilbertoGM4/status/1367966065121230851?s=20",
