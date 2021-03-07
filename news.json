@@ -24,6 +24,13 @@
   ],
   "news": [
     {
+      "title": "New Beta update for Niagara",
+      "description": "Check it out!!",
+      "url": "https://medium.com/niagara-launcher/weather-2-0-16f6b084f32c",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/niagara.jpg",
+      "authorname": "Vishal"
+    },
+    {
       "title": "[Sale] [Free] Milky Launcher Pro",
       "description": "Grab it soon",
       "url": "https://play.google.com/store/apps/details?id=hyperginc.milkypro",
