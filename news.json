@@ -571,8 +571,15 @@
     }
   ],
   "wallpapers": [
+     {
+      "title": "New Walls from Hash Studios",
+      "description": "Check them out!",
+      "url": "https://twitter.com/HashStudiosIN/status/1368440965304885248?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_759.jpg",
+      "authorname": "Yudha"
+    },
     {
-      "title": "[Free] New Walls by madebymirac",
+      "title": "[Free] New Walls by Mirac",
       "description": "Grab it",
       "url": "https://twitter.com/madebymirac/status/1368352619853406209",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_758.jpg",
@@ -1950,6 +1957,13 @@
     }
   ],
   "klwp": [
+     {
+      "title": "[Free] New KLWP by montseR",
+      "description": "Grab it!",
+      "url": "https://twitter.com/Montse1862/status/1368337468882313227?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_103.jpg",
+      "authorname": "Yudha"
+    },
      {
       "title": "Sansa v2 for kustom!!",
       "description": "Check it out!!",
