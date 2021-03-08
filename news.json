@@ -24,6 +24,13 @@
   ],
   "news": [
     {
+      "title": "[Sale] New Walls in Amoled Papers",
+      "description": "4 new wallpapers added & upto 50% discount for a limited time",
+      "url": "https://twitter.com/mhcharlee/status/1368908990470578178?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_764.jfif",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[New] GradientPlus KWGT live on PlayStore",
       "description": "Check it out!!",
       "url": "https://play.google.com/store/apps/details?id=gradientp.themeland.feb21",
@@ -585,21 +592,35 @@
     }
   ],
   "wallpapers": [
-     {
+    {
+      "title": "[Sale] New Walls in Amoled Papers",
+      "description": "4 new wallpapers added & upto 50% discount for a limited time",
+      "url": "https://twitter.com/mhcharlee/status/1368908990470578178?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_764.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "WallderLust Pro Walls Update",
+      "description": "15 new wallpapers added",
+      "url": "https://twitter.com/jahnavi_gandhi/status/1368903663100383233?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_763.jfif",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[FREE] New Walls by T4NGLEWOOD",
       "description": "Check them out!",
       "url": "https://twitter.com/T4NGLEWOOD/status/1368724183778201602?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_762.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "New Walls added in Collections",
       "description": "5 new walls added in Cycle collection!",
       "url": "https://twitter.com/LorAndCompany/status/1368596553846329350?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_761.jpg",
       "authorname": "Yudha"
     },
-      {
+    {
       "title": "New Walls added in Wallrod",
       "description": "Check them out!",
       "url": "https://twitter.com/MathyWallrod/status/1368573370174947329?s=20",
@@ -1105,21 +1126,28 @@
     }
   ],
   "icons": [
-       {
+    {
+      "title": "[Giveaway] Ruby Icon Pack Giveaway by @Seamoon757",
+      "description": "Giving away 10 promocodes, Result in next 48h. Try your luck.",
+      "url": "https://twitter.com/RahulKDinesh/status/1368651223113469953?s=19",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_612.jfif",
+      "authorname": "Yudha"
+    },
+    {
       "title": "New Icon Pack by Rahul",
       "description": "Head over to the tweet for more details!",
       "url": "https://twitter.com/RahulKDinesh/status/1368651223113469953?s=19",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_611.jpg",
       "authorname": "Yudha"
     },
-      {
+    {
       "title": "[NEW] ChillOut Icon Pack",
       "description": "Check it out!",
       "url": "https://twitter.com/Payrun76/status/1368781507284766720?s=09",
       "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_610.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "Foxbit & Simplit Icon Pack's got an update",
       "description": "Check them out!",
       "url": "https://play.google.com/store/apps/dev?id=8091370783080636082",
@@ -1585,6 +1613,27 @@
   ],
   "widgets": [
     {
+      "title": "Dot KWGT Weekly Update",
+      "description": "5 new widgets added (Total 50 widgets)",
+      "url": "https://play.google.com/store/apps/details?id=dotkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_581.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Weekly Update for Vanilla KWGT",
+      "description": "4 new widgets added",
+      "url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_580.jfif",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Blended KWGT first update",
+      "description": "4 new widgets added",
+      "url": "https://play.google.com/store/apps/details?id=blendedkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_579.jfif",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[New] GradientPlus KWGT live on PlayStore",
       "description": "Check it out!!",
       "url": "https://play.google.com/store/apps/details?id=gradientp.themeland.feb21",
@@ -2048,6 +2097,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "Wind KLWP Update v3.5",
+      "description": "Added Wind7 named preset",
+      "url": "https://play.google.com/store/apps/details?id=windklwp.droidbeauty.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_104.jfif",
+      "authorname": "Abhi"
+    },
     {
       "title": "[Free] New KLWP by montseR",
       "description": "Grab it!",
