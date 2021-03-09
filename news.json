@@ -1676,7 +1676,14 @@
   ],
   "widgets": [
     {
-      "title": "Thirty Kwgt Update",
+      "title": "Radish V7.0 Update",
+      "description": "5 new widgets added (Total 180 widgets)",
+      "url": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_583.jpg",
+      "authorname": "Vishal"
+    },
+    {
+      "title": "Thirty Kwgt V2.3 Update",
       "description": "5 new widgets added (Total 80 widgets)",
       "url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_582.jpg",
