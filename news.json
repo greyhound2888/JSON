@@ -24,6 +24,27 @@
   ],
   "news": [
     {
+      "title": "[Free] Monochrome KLWP Presey by Saumil Shah",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/Saumil8200/status/1369519401154711553?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_105.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "3D Walls Category Added in Wall Vibes",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/pixelvibe15/status/1369535989186662400?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_773.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "[Sale] Raj Arya KWGT packs on sale",
+      "description": "Upto 50% off from March 10 to 14",
+      "url": "https://play.google.com/store/apps/dev?id=5559664342362929202",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_586.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "New Upcoming Pack by ASN360",
       "description": "Check it out!!",
       "url": "https://twitter.com/asn360/status/1369269081321340931",
@@ -613,6 +634,20 @@
     }
   ],
   "wallpapers": [
+    {
+      "title": "3D Walls Category Added in Wall Vibes",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/pixelvibe15/status/1369535989186662400?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_773.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "New Wallpapers in Unusual Wallpapers",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/akinhd/status/1369450068844101632?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_772.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "[Free] New wall by Hash Studios",
       "description": "Grab it!!",
@@ -1697,7 +1732,14 @@
   ],
   "widgets": [
     {
-      "title": " Felix Kwgt V7.0 Update",
+      "title": "[Sale] Raj Arya KWGT packs on sale",
+      "description": "Upto 50% off from March 10 to 14",
+      "url": "https://play.google.com/store/apps/dev?id=5559664342362929202",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_586.jpg",
+      "authorname": "Abhi"
+    },
+    {
+      "title": "Felix Kwgt V7.0 Update",
       "description": "3 new widgets added (Total 120 widgets)",
       "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_585.jpg",
@@ -2209,6 +2251,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "[Free] Monochrome KLWP Presey by Saumil Shah",
+      "description": "Check it out!!",
+      "url": "https://twitter.com/Saumil8200/status/1369519401154711553?s=20",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_105.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "Wind KLWP Update v3.5",
       "description": "Added Wind7 named preset",
