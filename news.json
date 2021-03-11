@@ -1865,6 +1865,13 @@
   ],
   "widgets": [
     {
+      "title": "Delirium KWGT V2.0 Update",
+      "description": "Add 5 new widgets (Total 65 widgets)",
+      "url": "https://play.google.com/store/apps/details?id=deliriumkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_591.jpg",
+      "authorname": "Vishal"
+    },
+    {
       "title": "Like kwgt New V10.0 Update",
       "description": "Add 10 new widgets (Total 120 widgets)",
       "url": "https://play.google.com/store/apps/details?id=com.likekwgt.kustom.pack",
