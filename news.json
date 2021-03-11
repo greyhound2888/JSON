@@ -24,6 +24,13 @@
   ],
   "news": [
     {
+      "title": "[Sale] Ghost Icon Pack is on Sale",
+      "description": "Grab it soon!!",
+      "url": "https://play.google.com/store/apps/details?id=com.jndapp.ghost.glyph.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_619.jpg",
+      "authorname": "Vishal"
+    },
+    {
       "title": "[Sale] Garis Light - Lines Icon Pack is on sale",
       "description": "Grab it!!",
       "url": "https://play.google.com/store/apps/details?id=com.panotogomo.garisl",
@@ -1280,6 +1287,13 @@
     }
   ],
   "icons": [
+    {
+      "title": "[Sale] Ghost Icon Pack is on Sale",
+      "description": "Grab it soon!!",
+      "url": "https://play.google.com/store/apps/details?id=com.jndapp.ghost.glyph.iconpack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_619.jpg",
+      "authorname": "Vishal"
+    },
     {
       "title": "Phosphor V1.2 Update is live",
       "description": "89 New icons added",
