@@ -23,7 +23,14 @@
     }
   ],
   "news": [
-     {
+    {
+      "title": "[SALE + UPDATE] Visione KLWP V2.0 Update",
+      "description": "Grab it Soon!!",
+      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.visione",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_106.jpg",
+      "authorname": "Vishal"
+    }, 
+    {
       "title": "[FREE] New Walls by Yudha",
       "description": "Grab them now!",
       "url": "https://twitter.com/yudhajit_ghosh/status/1370658397289246720?s=09",
@@ -2608,6 +2615,13 @@
     }
   ],
   "klwp": [
+    {
+      "title": "[SALE + UPDATE] Visione KLWP V2.0 Update",
+      "description": "Grab it Soon!!",
+      "url": "https://play.google.com/store/apps/details?id=ml.undefyned.visione",
+      "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_106.jpg",
+      "authorname": "Vishal"
+    },
     {
       "title": "[Free] Monochrome KLWP Preset by Saumil Shah",
       "description": "Check it out!!",
