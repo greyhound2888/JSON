@@ -23,7 +23,7 @@
     }
   ],
   "news": [
-     {
+    {
       "title": "[GIVEAWAY] Creamy Dark Iconpack",
       "description": "Head over to the tweet for more info!",
       "url": "https://twitter.com/asn360/status/1370919102034841603?s=09",
@@ -43,7 +43,7 @@
       "url": "https://play.google.com/store/apps/details?id=ml.undefyned.visione",
       "image": "https://raw.githubusercontent.com/greyhound2888/klwp/master/klwp_106.jpg",
       "authorname": "Vishal"
-    }, 
+    },
     {
       "title": "[FREE] New Walls by Yudha",
       "description": "Grab them now!",
@@ -51,7 +51,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_794.jpg",
       "authorname": "Yudha"
     },
-       {
+    {
       "title": "[GIVEAWAY + NEW] Aline White",
       "description": "Early bird Sale is going on as well!",
       "url": "https://twitter.com/One4Studio/status/1370391451734044673?s=20",
@@ -732,7 +732,7 @@
     }
   ],
   "wallpapers": [
-     {
+    {
       "title": "New Walls in Whalepapers Pro",
       "description": "Check them out!!",
       "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
@@ -774,7 +774,7 @@
       "image": "https://raw.githubusercontent.com/greyhound2888/Wallpapers/master/wall_793.jpg",
       "authorname": "Yudha"
     },
-     {
+    {
       "title": "New Walls added in Wallipop",
       "description": "Grab them now!!",
       "url": "https://twitter.com/ArrowWalls/status/1370428857023537154?s=09",
@@ -1504,7 +1504,14 @@
     }
   ],
   "icons": [
-     {
+    {
+      "title": "Sliced Icon Pack v1.8.5 Update",
+      "description": "20 new icons added",
+      "url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
+      "image": "https://raw.githubusercontent.com/greyhound2888/iconPacks/master/ip_629.jpg",
+      "authorname": "Abhi"
+    },
+    {
       "title": "[GIVEAWAY] Creamy Dark Iconpack",
       "description": "Head over to the tweet for more info!",
       "url": "https://twitter.com/asn360/status/1370919102034841603?s=09",
@@ -2102,6 +2109,13 @@
     }
   ],
   "widgets": [
+    {
+      "title": "Orca for KWGT Update",
+      "description": "3 new widgets added",
+      "url": "https://play.google.com/store/apps/details?id=orcaforkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_597.jpg",
+      "authorname": "Abhi"
+    },
     {
       "title": "[FREE] New Venus KWGT by Khaled",
       "description": "Grab it!!",
