@@ -2165,9 +2165,23 @@
     }
   ],
   "widgets": [
+     {
+      "title": "Lhotse KWGT got an update",
+      "description": "3 new widgets added!",
+      "url": "https://play.google.com/store/apps/details?id=lhotsekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_598.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "Thirty KWGT got an update",
+      "description": "4 new widgets added!",
+      "url": "https://play.google.com/store/apps/details?id=thirtykwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_598.jpg",
+      "authorname": "Yudha"
+    },
     {
-      "title": "Orca for KWGT Update",
-      "description": "3 new widgets added",
+      "title": "Orca for KWGT got an Update",
+      "description": "3 new widgets added!",
       "url": "https://play.google.com/store/apps/details?id=orcaforkwgt.kustom.pack",
       "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_597.jpg",
       "authorname": "Abhi"
