@@ -30,6 +30,20 @@
     }
   ],
   "news": [
+     {
+      "title": "Good News for all Developers",
+      "description": "Play Store fees is half for most of the developers!!",
+      "url": "https://www.xda-developers.com/google-cuts-play-store-fees-in-half/",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/ps_cut.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "[SALE] Apps by Vignesh",
+      "description": "Grab them before the sale ends!",
+      "url": "https://play.google.com/store/apps/dev?id=5597854943914621048",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_602.jpg",
+      "authorname": "Yudha"
+    },
       {
       "title": "[SALE] Unusual Wallpapers",
       "description": "Grab it before the sale ends!", 
@@ -2263,6 +2277,34 @@
     }
   ],
   "widgets": [
+      {
+      "title": "King KWGT got an update",
+      "description": "10 new widgets added!",
+      "url": "https://play.google.com/store/apps/details?id=com.kingkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_603.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "[SALE] Apps by Vignesh",
+      "description": "Grab them before the sale ends!",
+      "url": "https://play.google.com/store/apps/dev?id=5597854943914621048",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_602.jpg",
+      "authorname": "Yudha"
+    },
+     {
+      "title": "Style KWGT got an update",
+      "description": "A total of 144 widgets in the pack!",
+      "url": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_601.jpg",
+      "authorname": "Yudha"
+    },
+    {
+      "title": "Blended KWGT got an update",
+      "description": "4 new widgets added!",
+      "url": "https://play.google.com/store/apps/details?id=blendedkwgt.kustom.pack",
+      "image": "https://raw.githubusercontent.com/greyhound2888/kwgt/master/kwgt_600.jpg",
+      "authorname": "Yudha"
+    },
      {
       "title": "Lhotse KWGT got an update",
       "description": "3 new widgets added!",
